@@ -45,3 +45,11 @@ def load_results(experiment: str, criterion_name: str, suffix: str = "") -> Any 
             "キャッシュファイル %s が破損しています。キャッシュミスとして扱います", path
         )
         return None
+
+
+def nested_int_keys(d: dict) -> dict:
+    """2階層ネスト辞書のJSON文字列キーをintに変換する。
+
+    ペアワイズ比較結果 {no_a: {no_b: result, ...}, ...} の読み込みに使用。
+    """
+    return {int(k): {int(k2): v2 for k2, v2 in v.items()} for k, v in d.items()}

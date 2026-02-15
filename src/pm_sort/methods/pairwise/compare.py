@@ -32,6 +32,22 @@ class PairwiseResult:
     reasoning_effort: str = ""
     reasoning_summary: str = ""
 
+    def to_dict(self) -> dict:
+        return {
+            "no_a": self.no_a,
+            "no_b": self.no_b,
+            "winner": self.winner,
+            "raw_response": self.raw_response,
+            "prompt": self.prompt,
+            "usage": self.usage.to_dict(),
+            "elapsed_seconds": round(self.elapsed_seconds, 3),
+            "response_id": self.response_id,
+            "model": self.model,
+            "created_at": self.created_at,
+            "reasoning_effort": self.reasoning_effort,
+            "reasoning_summary": self.reasoning_summary,
+        }
+
 
 def _parse_winner(text: str) -> str:
     """CoTレスポンスから勝者（AまたはB）をパースする。
@@ -88,48 +104,3 @@ async def compare_pair(
         reasoning_effort=effort,
         reasoning_summary=extract_reasoning_summary(r),
     )
-
-
-async def compare_pair_bidirectional(
-    client: AsyncOpenAI,
-    pm_a: dict,
-    pm_b: dict,
-    criterion: Criterion,
-    *,
-    semaphore: asyncio.Semaphore | None = None,
-) -> dict:
-    """llm(a,b) と llm(b,a) の両方向で比較し、不一致ならTIEとする。"""
-    r_ab, r_ba = await asyncio.gather(
-        compare_pair(client, pm_a, pm_b, criterion, semaphore=semaphore),
-        compare_pair(client, pm_b, pm_a, criterion, semaphore=semaphore),
-    )
-
-    if r_ab.winner == "A" and r_ba.winner == "B":
-        final_winner = "A"
-    elif r_ab.winner == "B" and r_ba.winner == "A":
-        final_winner = "B"
-    else:
-        final_winner = "TIE"
-
-    combined_usage = r_ab.usage + r_ba.usage
-    combined_elapsed = r_ab.elapsed_seconds + r_ba.elapsed_seconds
-    return {
-        "no_a": pm_a["no"],
-        "no_b": pm_b["no"],
-        "winner_ab": r_ab.winner,
-        "winner_ba": r_ba.winner,
-        "final_winner": final_winner,
-        "response_ab": r_ab.raw_response,
-        "response_ba": r_ba.raw_response,
-        "usage": combined_usage.to_dict(),
-        "elapsed_seconds": round(combined_elapsed, 3),
-        "response_id_ab": r_ab.response_id,
-        "response_id_ba": r_ba.response_id,
-        "model_ab": r_ab.model,
-        "model_ba": r_ba.model,
-        "created_at_ab": str(r_ab.created_at),
-        "created_at_ba": str(r_ba.created_at),
-        "reasoning_effort": r_ab.reasoning_effort,
-        "reasoning_summary_ab": r_ab.reasoning_summary,
-        "reasoning_summary_ba": r_ba.reasoning_summary,
-    }

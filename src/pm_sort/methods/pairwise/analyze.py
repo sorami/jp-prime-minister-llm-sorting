@@ -1,42 +1,58 @@
 from itertools import combinations
 
 
-def win_count_sort(pair_results: list[dict]) -> list[tuple[int, float]]:
+def resolve_winner(pair_results: dict, a: int, b: int) -> str:
+    """両方向の比較結果から最終勝者を導出する。
+
+    pair_results[a][b] と pair_results[b][a] の winner を照合し、
+    一致すれば勝者を、不一致なら "TIE" を返す。
+
+    返り値:
+        "A" — a が勝ち（より右寄り）
+        "B" — b が勝ち（より右寄り）
+        "TIE" — 両方向で不一致
+    """
+    winner_ab = pair_results[a][b]["winner"]
+    winner_ba = pair_results[b][a]["winner"]
+    if winner_ab == "A" and winner_ba == "B":
+        return "A"
+    elif winner_ab == "B" and winner_ba == "A":
+        return "B"
+    return "TIE"
+
+
+def win_count_sort(pair_results: dict) -> list[tuple[int, float]]:
     """全ペア比較データから勝利数でソートする。[(no, wins), ...] を降順で返す。"""
-    all_nos = set()
-    for r in pair_results:
-        all_nos.add(r["no_a"])
-        all_nos.add(r["no_b"])
-    wins: dict[int, float] = {i: 0.0 for i in all_nos}
-    for r in pair_results:
-        if r["final_winner"] == "A":
-            wins[r["no_a"]] += 1
-        elif r["final_winner"] == "B":
-            wins[r["no_b"]] += 1
-        else:  # TIE
-            wins[r["no_a"]] += 0.5
-            wins[r["no_b"]] += 0.5
+    all_nos = sorted(pair_results.keys())
+    wins: dict[int, float] = {no: 0.0 for no in all_nos}
+    for a, b in combinations(all_nos, 2):
+        result = resolve_winner(pair_results, a, b)
+        if result == "A":
+            wins[a] += 1
+        elif result == "B":
+            wins[b] += 1
+        else:
+            wins[a] += 0.5
+            wins[b] += 0.5
     return sorted(wins.items(), key=lambda x: (-x[1], x[0]))
 
 
 def find_transitivity_violations(
-    pair_results: list[dict],
+    pair_results: dict,
 ) -> list[tuple[int, int, int]]:
     """a>b, b>c, c>a となる三すくみサイクルを検出する。
 
     各サイクルは1回だけカウントされ、最小要素が先頭になるよう正規化される。
     """
+    # 勝敗グラフを構築
     wins: dict[int, set[int]] = {}
-    for r in pair_results:
-        a, b = r["no_a"], r["no_b"]
-        if r["final_winner"] == "A":
+    all_nos = sorted(pair_results.keys())
+    for a, b in combinations(all_nos, 2):
+        result = resolve_winner(pair_results, a, b)
+        if result == "A":
             wins.setdefault(a, set()).add(b)
-        elif r["final_winner"] == "B":
+        elif result == "B":
             wins.setdefault(b, set()).add(a)
-
-    all_nos = sorted(
-        set(r["no_a"] for r in pair_results) | set(r["no_b"] for r in pair_results)
-    )
 
     violations: set[tuple[int, int, int]] = set()
     for a, b, c in combinations(all_nos, 3):
