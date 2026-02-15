@@ -1,0 +1,1154 @@
+[
+  {
+    "no": 1,
+    "score": 90,
+    "raw_response": "伊藤博文は明治期の制度設計者・現実主義的政治家で、欧米の憲法・官僚制度を参考に実用的な国家機構を構築した点が特徴です。理想としての「近代国家」像は持っていたものの、それを達成する手段は緻密な制度設計、交渉、妥協による現実的な方策に依存しており、革命的・理想主義的な行動よりも実利的判断を重視しました。したがって「ロマンチスト ↔ リアリスト」の軸ではリアリスト寄りと評価できます。\n\nスコア: 90",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 647,
+      "reasoning_tokens": 448,
+      "total_tokens": 778
+    },
+    "elapsed_seconds": 7.636,
+    "response_id": "resp_049e04fca5bef447006991d4262f008190b76f281f6cbb2124",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Creating a summary**\n\nI'm thinking about crafting 4 to 6 sentences that describe him as pragmatic and an institutional builder who adopted Western models. I want to highlight how he focused on state strength and survival while being compromise-based, with limited ideological romanticism. I’ll wrap it up with a numeric score, specifically a 90, presented as an integer between 0 and 100. Now, let's put this all together for a clear summary!"
+  },
+  {
+    "no": 2,
+    "score": 85,
+    "raw_response": "黒田清隆は士族出身で軍事・官僚として実務を重ね、北海道開発や殖産興業など国家の近代化・経済基盤整備に具体的な手を打った人物です。理想主義的な大言論よりも現実的な行政・財政運営、権力調整や妥協を重視した実務家の性格が強く、政治的にも現実的な利害処理を優先する傾向がありました。そのため「ロマンチスト」よりは明らかに「リアリスト」に寄っています。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 1171,
+      "reasoning_tokens": 960,
+      "total_tokens": 1302
+    },
+    "elapsed_seconds": 11.274,
+    "response_id": "resp_023758f752830723006991d4262c7481a096fed155de0a74df",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Citing historical developments**\n\nI need to ensure that my last line is exactly \"スコア: X\" in Japanese. I should keep it concise while using historical examples like the Hokkaido Kaitakushi from 1869. There's a complex leadership history here, including Kuroda and Takeshita. I want to avoid inaccuracies, so I’ll stick to general safe statements about Hokkaido's colonization and agricultural policies. I'm considering how to rate the score—85 seems appropriate to reflect a strong but not absolute stance."
+  },
+  {
+    "no": 3,
+    "score": 95,
+    "raw_response": "山縣有朋は士族出身の軍人・官僚として「強い国家」を作ることを最優先に実務的に行動した人物です。プロイセン式軍制や徴兵制の導入、中央集権的官僚・軍事制度の整備、政党勢力を抑える実務的な政治操作など、理念よりも効率と秩序を重視する政策・手法が目立ちます。国益と統治の安定を優先する現実主義者と言え、ロマンチックな理想追求よりも現実的・実利的判断に傾いていました。\n\nスコア: 95",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 672,
+      "reasoning_tokens": 448,
+      "total_tokens": 803
+    },
+    "elapsed_seconds": 5.565,
+    "response_id": "resp_0e74e90549b6983b006991d4262d3881a2b004e9ae8b6b7b6a",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 4,
+    "score": 95,
+    "raw_response": "松方正義は財政再建と通貨安定を最優先に行動した実務家型の政治家です。松方デフレや金本位制への移行、緊縮財政によるインフレ抑制や中央集権的な産業育成など、理念よりも現実的・実利的な政策を重視したため、ロマンチストより明確にリアリスト寄りと言えます。\n\nスコア: 95",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 605,
+      "reasoning_tokens": 448,
+      "total_tokens": 736
+    },
+    "elapsed_seconds": 5.773,
+    "response_id": "resp_0627fb7ca69b6d36006991d42633f881a180635794d164c876",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 5,
+    "score": 65,
+    "raw_response": "大隈重信は、自由民権や憲政の理念、教育振興（早稲田大学創設）など理想主義的な志向が強い一方で、政党結成や行政・財政改革においては現実的な妥協や実務手腕を重視した実利主義者でもありました。理念を掲げつつも政治の現実に合わせた調整を行う「現実主義的な理想主義者」と言えます。\n\nスコア: 65",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 1131,
+      "reasoning_tokens": 960,
+      "total_tokens": 1263
+    },
+    "elapsed_seconds": 11.928,
+    "response_id": "resp_09d613cb4f3cc19f006991d42631a0819d8ac9631ee6803b27",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 6,
+    "score": 90,
+    "raw_response": "桂太郎は陸軍出身で軍事・官僚的な手腕を背景に現実的な国家運営と国益重視を行った政治家です。英日同盟の締結や日露戦後の外交・軍事政策、政党との駆け引きや統治安定を優先した点から、理想や理念の追求よりも実利・現実対応を重視するタイプと評価できます。一方で、近代国家としての地位確立という長期的視野はあったものの、それも現実的手段による達成志向が強いと見られます。\n\nスコア: 90",
+    "usage": {
+      "input_tokens": 130,
+      "cached_input_tokens": 0,
+      "output_tokens": 551,
+      "reasoning_tokens": 384,
+      "total_tokens": 681
+    },
+    "elapsed_seconds": 5.585,
+    "response_id": "resp_04a7ae227fd0ab61006991d42630fc819e8292eb115d52b34a",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 7,
+    "score": 75,
+    "raw_response": "西園寺公望は立憲主義や政党政治の定着という明確な理想を持っていた一方で、実務的・妥協的な手法でそれを現実の政治に落とし込もうとした人物です。急進的な改革やイデアに突き進むより、既存の制度や勢力と折り合いをつけながら漸進的に目標を達成することを好んだため、実利的・現実的な政治家という側面が強く出ます。したがって「ロマンチスト↔リアリスト」の軸ではややリアリスト寄りと評価できます。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 666,
+      "reasoning_tokens": 448,
+      "total_tokens": 798
+    },
+    "elapsed_seconds": 7.16,
+    "response_id": "resp_0dcc2251cb482f3b006991d42631e8819fb59496eb6c8f97f8",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Analyzing 西園寺公望**\n\nI’m starting with a brief assessment of 西園寺公望; he aligns with constitutionalist and liberal ideals, but he’s also pragmatic in his approach. He often preferred incremental reforms and negotiated instead of pursuing ideological crusades. He engaged with genrō and various political parties to preserve order, sometimes resisting militarism, yet making compromises along the way. So, I’d say he leans towards realism. I’ll wrap up with a final line noting the score: \"スコア: 75\"."
+  },
+  {
+    "no": 8,
+    "score": 85,
+    "raw_response": "山本権兵衛は海軍出身の実務家・元帥で、政党政治を軽視して元老・官僚的ルートで政策決定を行うことを好んだため、理念や壮大な理想よりも現実的な政局運営や軍事・行政の実利を重視したタイプです。1913–14年の内閣や1923年の復帰いずれも危機対応や権力調整を優先し、汚職（シーメンス事件）で辞任に追い込まれたことも、現実の権力構造と世論に敏感に対応した結果とも言えます。以上から、ロマンチストよりリアリスト寄りの評価が妥当です。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 922,
+      "reasoning_tokens": 704,
+      "total_tokens": 1055
+    },
+    "elapsed_seconds": 7.296,
+    "response_id": "resp_068b5ef3a98cb01a006991d4262ad0819ea1a551d2ad9764e6",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 9,
+    "score": 90,
+    "raw_response": "寺内正毅は軍人出身で初代朝鮮総督を務めた実務家的な政治家で、官僚・軍部中心の内閣を組織し治安・行政の維持や国益の現実的確保を最優先したタイプです。理想やビジョンを掲げて国民を動かすよりも、権力と制度を使って秩序と実利を追求する傾向が強く、植民地統治や対外行動でも現実的・利害的判断を優先しました。したがって「ロマンチスト↔リアリスト」の軸ではリアリスト寄りと評価できます。\n\nスコア: 90",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 666,
+      "reasoning_tokens": 448,
+      "total_tokens": 797
+    },
+    "elapsed_seconds": 7.414,
+    "response_id": "resp_0ecd56b67eae527e006991d4262b9c8193a8902468249d9d8a",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 10,
+    "score": 85,
+    "raw_response": "原敬は「政党による内閣」の実現や官僚・財界とのバランスを重視し、理念よりも妥協と実務処理で勢力をまとめ上げた政治家です。出自は庶民で党人政治を進めたものの、理想的な大義より現実的な安定・統治機構の構築を優先し、派閥調整や現実的政策で支持基盤を固めました。行動は概して実利的で、併せて柔軟な折衝力と現状維持志向が強かったため、ロマンチストというよりリアリスト寄りの評価が妥当です。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 129,
+      "cached_input_tokens": 0,
+      "output_tokens": 628,
+      "reasoning_tokens": 448,
+      "total_tokens": 757
+    },
+    "elapsed_seconds": 5.308,
+    "response_id": "resp_00c1366d782f0beb006991d42631c4819f860231a786fbd5d5",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 11,
+    "score": 90,
+    "raw_response": "考察：\n高橋是清は中央銀行出身で財政・金融の専門家として知られ、1930年代の大恐慌下で金本位制離脱、低金利化、赤字財政による公共事業・金融支援など実利的な政策を積極採用して経済の安定回復を図った。「信念のために理想を追う」よりも、現状の危機に即した手段を選ぶ技術官僚的・現実主義的な判断を優先した人物であり、政治的にも妥協と調整を重視した。軍部や右派とも対立し最終的に暗殺されたが、その行動原理は明確に実務的・現実重視である。\n\nスコア: 90",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 704,
+      "reasoning_tokens": 448,
+      "total_tokens": 835
+    },
+    "elapsed_seconds": 5.763,
+    "response_id": "resp_078407674ce38f15006991d42631a881a19862613edefbe245",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 12,
+    "score": 85,
+    "raw_response": "加藤友三郎は海軍の軍人・実務家出身で、政党色よりも軍務や外交・行政の安定を重視した妥協志向の指導者でした。理想主義的な大ナタを振るうタイプではなく、現実的・実利的な判断で均衡を保ちつつ国益を追求する傾向が強いと評価できます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 804,
+      "reasoning_tokens": 640,
+      "total_tokens": 936
+    },
+    "elapsed_seconds": 9.778,
+    "response_id": "resp_02a4c33e729719e8006991d4262ef48190ae75f9c6b7cbba44",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Crafting a concise score explanation**\n\nI'm considering a score around 80-90. Pragmatically and cautiously, I aim for a conservative stance rather than an idealistic reform. I’ll settle on an 85. I need to be mindful to conclude with \"スコア: 85.\" \n\nFor context, I'll mention his background as a career naval officer and diplomat leading a neutral and technocratic cabinet, focusing on practical stability and effective diplomatic negotiations. The final phrasing will be careful, highlighting his pragmatic approach. Let's keep it concise!"
+  },
+  {
+    "no": 13,
+    "score": 90,
+    "raw_response": "清浦奎吾は長年の官僚出身で、政党政治より華族や官僚による統治を重視した保守的な政治家でした。理念や大義を掲げて新しい政治ビジョンを追うよりも、既存の制度維持・秩序確保・実務的な調整を優先する現実主義的な手法が目立ちます。非党内閣を率いて短期政権に終わったことも、理想より現状の管理を旨とした性格を示しています。\n\nスコア: 90",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 693,
+      "reasoning_tokens": 512,
+      "total_tokens": 825
+    },
+    "elapsed_seconds": 6.542,
+    "response_id": "resp_041c35f0e1eca5ca006991d426320c819ca10981894aa6e41f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 14,
+    "score": 65,
+    "raw_response": "加藤高明は立憲政治や政党内閣、1925年の普通選挙法を推進した「立憲リベラル」的志向が強く、民主主義や国民参政の拡大という理想を重んじた面がある。一方で、社会主義への対抗として同年に治安維持法を成立させるなど現実的・抑制的な判断や妥協も多く、軍部や元老との調整にも現実主義を発揮した。総じて理想を追う側面はあるが、運用では実利的・現実的な対応が目立つため、ややリアリスト寄りと評価する。\n\nスコア: 65",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 1097,
+      "reasoning_tokens": 896,
+      "total_tokens": 1228
+    },
+    "elapsed_seconds": 10.082,
+    "response_id": "resp_042e3437bf2a3058006991d4262c188197aec24738262609e3",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 15,
+    "score": 75,
+    "raw_response": "若槻礼次郎は立憲政党の中での穏健な実務家で、財政均衡や行政の安定を重視し、党派間・軍部との折衝で妥協を図る現実主義的な政治手法を取った人物です。政党政治や憲政擁護という理念は持っていたものの、経済・治安の現実的対応や予算削減など実利優先の判断を繰り返したため、この軸ではややリアリスト寄りと評価できます。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 979,
+      "reasoning_tokens": 832,
+      "total_tokens": 1112
+    },
+    "elapsed_seconds": 7.624,
+    "response_id": "resp_00c989fc57d71ca6006991d4263450819c9411d25d314117e6",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 16,
+    "score": 85,
+    "raw_response": "田中義一は陸軍出身で現場感覚と秩序維持を重視した保守的実務家でした。外交・軍事面では日本の利益確保と治安維持を優先し、満州・中国政策や国内の治安対策で実利的な手段（軍の活用、治安弾圧、緊縮的な政策運営）を取る傾向が強く、理想や大義を追求するロマンチストというよりは現実的・実務的判断を優先するタイプと評価できます。軍部との妥協や現実的制約への対応に追われた点もリアリズム志向を裏付けます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 946,
+      "reasoning_tokens": 704,
+      "total_tokens": 1077
+    },
+    "elapsed_seconds": 8.754,
+    "response_id": "resp_06b19ac76af2c591006991d4264f808192888bbbb63d017c72",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 17,
+    "score": 75,
+    "raw_response": "浜口雄幸は立憲民政党の党首として議会政治や国際協調を重視しつつ、金融・財政の安定や軍備縮小（ロンドン海軍軍縮条約への関与など）を現実的に進めた指導者です。理想としての国際主義や民主主義への信念は強かったものの、不況対策や歳出削減などでは妥協と実務的判断を優先し、軍部や財界との調整にも現実的に対応しました。総じて理想主義を持ちながらも政策運営は実利・現実重視だったため、ロマンチスト寄りよりはリアリスト寄りの評価が妥当です。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 706,
+      "reasoning_tokens": 512,
+      "total_tokens": 837
+    },
+    "elapsed_seconds": 6.112,
+    "response_id": "resp_07579d2cb65d1064006991d42631f481a1bc82b6c02cc13a52",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "I'm thinking about how to write concisely, aiming for 4-6 clear sentences. I want to include a final line that has \"スコア: 75\" without any extra formatting. It’s crucial for me to avoid making incorrect claims about facts—especially not stating specific birth or death years. I need to keep the focus on policies, so I’ll stick to that. Alright, let’s produce the final answer!"
+  },
+  {
+    "no": 18,
+    "score": 75,
+    "raw_response": "犬養毅は政党政治と国会主義を重視し、現実的な妥協や実務対応で政権運営を図った人物です。満州事変後の混乱の中で軍部との対立を避けつつ市民統治を守ろうとするなど、理想を持ちつつも現実的な選択を優先した面が強いと言えます。したがってリアリスト寄りの評価です。\nスコア: 75",
+    "usage": {
+      "input_tokens": 130,
+      "cached_input_tokens": 0,
+      "output_tokens": 887,
+      "reasoning_tokens": 704,
+      "total_tokens": 1017
+    },
+    "elapsed_seconds": 8.135,
+    "response_id": "resp_09a40dcb4bfef149006991d42630e48194831f4a4d3d9a7373",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 19,
+    "score": 80,
+    "raw_response": "斎藤実は海軍出身の官僚・行政家で、朝鮮総督（1919–1927）として「文化統治」など実務的な統治・安定化を重視し、内閣総理大臣（1932–34）としても軍や元老と現実的に妥協しながら秩序維持と統治の安定を優先した人物です。思想的な大義や理想に突き進むタイプというより、現実的な行政手腕と実利的判断で問題を処理する傾向が強いと評価できます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 935,
+      "reasoning_tokens": 768,
+      "total_tokens": 1066
+    },
+    "elapsed_seconds": 10.101,
+    "response_id": "resp_0d4e69c2fbaa64aa006991d4262e90819494fd191330bdce32",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 20,
+    "score": 75,
+    "raw_response": "岡田啓介は海軍出身の穏健な政治家で、軍部の暴走を抑えつつ外交・民政の安定を重視したため、妥協や現実的対応を優先する傾向が強い。一方で憲政・法治を守ろうとする信念もあり、完全に冷徹な実利主義者というわけではない。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 984,
+      "reasoning_tokens": 832,
+      "total_tokens": 1116
+    },
+    "elapsed_seconds": 8.863,
+    "response_id": "resp_03f21c5568aa4d91006991d4262ffc81908c82c1e3f605f454",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164710.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 21,
+    "score": 80,
+    "raw_response": "広田弘毅は外務官僚出身で外交と法秩序を重視した実務家タイプ。軍部の台頭という現実に対処するため妥協や現実的手段を選び、理想主義的な大衆動員や革命的ビジョンを掲げることは少なかった。一方で国際法や外交ルールへの信頼という面で一定の理念性も持っていたが、総じて実利的・現実志向が強い人物です。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 704,
+      "reasoning_tokens": 512,
+      "total_tokens": 835
+    },
+    "elapsed_seconds": 9.995,
+    "response_id": "resp_0e3dc1b198e776ce006991d42b6c48819093fcdc4b4446a386",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164715.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Evaluating Hirota Kōki**\n\nI'm looking at the historical context of Hirota Kōki, who served as Japan's Prime Minister from 1936 to 1937. His diplomacy and attempts to moderate the military indicate a more conservative, treaty-focused approach to governance. He aimed to maintain civilian control amid a militaristic environment, advocating for international norms and engaging with ultranationalists. Overall, I would score him a 70 for realism versus romanticism in his policies.  \nスコア: 70"
+  },
+  {
+    "no": 22,
+    "score": 85,
+    "raw_response": "林銑十郎は軍人出身で、首相在任も短期の妥協的な起用だったことから、理念的な理想を掲げて政治を牽引したというよりは、軍・官僚・政党間の現実的調整や秩序維持を優先した実務派という評価が妥当です。強い理想主義的ビジョンを示した例は少なく、政策は現実的・実利的判断による対応が中心でした。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 810,
+      "reasoning_tokens": 640,
+      "total_tokens": 942
+    },
+    "elapsed_seconds": 7.95,
+    "response_id": "resp_001d55ecae28fbe5006991d42bb0a081918697997a5dc7b85f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164715.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 23,
+    "score": 30,
+    "raw_response": "近衛文麿は伝統的・道徳的なビジョン（大東亜共栄圏や対中解決の「大綱」など）を掲げ、外交的・理念的な解決を志向した一方、軍部や世論の現実的圧力に押されて妥協や実利的な判断（例えば三国同盟への接近など）を重ねた人物です。理想主義的な面が強く、決断力や現実軍事力の制御では必ずしも実務的ではなかったため「ロマンチスト寄り」と評価できますが、最後は現実路線にも追随したため完全な理想主義とも言えません。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 854,
+      "reasoning_tokens": 640,
+      "total_tokens": 986
+    },
+    "elapsed_seconds": 7.465,
+    "response_id": "resp_027b34638f1209d3006991d42bb53881928d204f9d921a0708",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164715.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "I'm being cautious about assigning scores. I want to ensure that my language is balanced and measured, avoiding any accusatory tones. It's important to frame my feedback constructively so it feels supportive rather than critical. I wonder how I can effectively communicate the necessary points without making it sound harsh. Let's figure out a way to convey this thoughtfully and clearly!"
+  },
+  {
+    "no": 24,
+    "score": 85,
+    "raw_response": "平沼騏一郎は法学者出身で保守的・国家主義的な姿勢を取り、政党政治や左派を法的・行政的手段で抑えつつ軍部や官僚と現実的に折り合いをつけて権力を運用した実務家色が強い人物です。理想主義的なイデオローグというよりは、国家強化という目標を現実的手段で達成しようとする現実主義寄りの指導者と評価できます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 663,
+      "reasoning_tokens": 512,
+      "total_tokens": 797
+    },
+    "elapsed_seconds": 8.332,
+    "response_id": "resp_0d89340e609668f4006991d42be38481948f57a343b0c82b7b",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164715.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Creating a concise summary**\n\nI need to indicate a score on a scale from 0 (romantic) to 100 (realist) as per the user's request for the last line \"スコア: X\" in Japanese. It should be concise! I’ll write two short paragraphs: one for a summary about the orientation and another with brief points. Finally, I’ll provide the score as \"スコア: 85\" to complete the task. Everything should stay clear and straightforward."
+  },
+  {
+    "no": 25,
+    "score": 85,
+    "raw_response": "阿部信行は陸軍出身で官僚・外交的経歴を持ち、総理としても短期の「調整役」「宥和的な実務家」として振る舞った人物です。強烈な理念や理想に基づいて政治を動かしたタイプではなく、現実的な勢力間の調整や当面の安定確保を優先する傾向が強く、イデオロギーより実利・現実判断を重視しました。したがってリアリスト寄りと判断します。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 853,
+      "reasoning_tokens": 704,
+      "total_tokens": 984
+    },
+    "elapsed_seconds": 8.385,
+    "response_id": "resp_0e1f8419d4b9d122006991d42be82481a3b45621098de1e6cc",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164715.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 26,
+    "score": 85,
+    "raw_response": "米内光政 — 考察: 海軍出身で現場的・軍事的現実を重視した実務家で、外交でも米英との対立回避や艦隊・物資の現状評価に基づく慎重な判断を優先した。軍部の暴走やイデオロギー的拡張主義には距離を置き、理想より現実的制約と実利に基づく政策を取る傾向が強かったため、ロマンチストよりリアリスト寄りの評価が妥当。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 923,
+      "reasoning_tokens": 768,
+      "total_tokens": 1054
+    },
+    "elapsed_seconds": 10.01,
+    "response_id": "resp_04f3a3cfa182deca006991d42c3dd48195b035458341e4633e",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164716.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 27,
+    "score": 85,
+    "raw_response": "東條英機は軍人出身で、戦時下の統制・動員・軍事運用を重視し、実務的・行政的な手腕で政府を運営した点が強い。強硬で国益・軍事力を優先する現実的判断を重視しつつ、軍国主義的イデオロギーもあったが、行動は概して実利を優先するリアリスト寄りと評価できます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 551,
+      "reasoning_tokens": 384,
+      "total_tokens": 682
+    },
+    "elapsed_seconds": 5.769,
+    "response_id": "resp_05b591b3cdebaa7a006991d42ca7f48195902a515e7860023e",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164716.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 28,
+    "score": 80,
+    "raw_response": "小磯国昭は陸軍の軍人・官僚出身で、1944〜45年の苦境に立たされた内閣で「調整役・管理者」として振る舞った人物です。強い理想主義的ビジョンを掲げて国を導いたタイプではなく、戦時下の動員・行政管理や現状維持を優先し、現実的・実務的な対応を重視しました。一方で「皇国の体制」や戦争継続に関する保守的信念から、即時の和平を模索する積極的な現実打開策を取らなかった面もあり、純粋な冷徹リアリストとは言い切れません。総じてリアリスト寄りの評価です。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 739,
+      "reasoning_tokens": 512,
+      "total_tokens": 871
+    },
+    "elapsed_seconds": 8.968,
+    "response_id": "resp_030e1673c20f546f006991d42d47488195a02f35c2cbd44d29",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164717.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "スコア80に評価することに決めました。理由は、キャリア官僚であり、軍事的背景を持つ妥協候補者だからです。権限は限られており、行政や戦時措置に集中しています。kokutaiの懸念から降伏や急進的な外交イニシアティブを追求することには消極的ですが、理想主義的なイデオローグではなく、むしろ現状維持の保守派です。したがって、リアリスト寄りでスコア: 80です。"
+  },
+  {
+    "no": 29,
+    "score": 85,
+    "raw_response": "考察:\n鈴木貫太郎は海軍出身の長老的指導者で、1945年の終戦局面で妥協的・実務的な判断を重視して行動した人物です。若手軍人の過激な延命論や無謀な抵抗を抑え、天皇の決断に従って降伏受諾を進めたことは、理想主義より現実的な被害最小化を優先した現実主義の表れです。一方で皇室や伝統に対する忠誠心や保守的な価値観は強く、冷徹な合理主義一辺倒ではありません。総じて危機対応で現実を直視し、実利的な選択をした指導者と評価できます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 743,
+      "reasoning_tokens": 512,
+      "total_tokens": 877
+    },
+    "elapsed_seconds": 8.006,
+    "response_id": "resp_0f7f7319161615b1006991d42d691481979afb6d5053981214",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164717.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 30,
+    "score": 80,
+    "raw_response": "東久邇宮稔彦王は、戦後の日本で天皇の意向で短期間首相を務めた「つなぎ」の人物で、政治的イデオロギーを掲げて大改革を志したタイプではなく、降伏処理・復員・治安維持など差し迫った現実的課題の対処が主眼でした。軍人・皇族としての保守的・体制維持志向が強く、理想主義よりも現状の安定と実務的対応を優先したと言えます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 698,
+      "reasoning_tokens": 512,
+      "total_tokens": 834
+    },
+    "elapsed_seconds": 7.582,
+    "response_id": "resp_0c04a6a4f06a8223006991d42d8e38819e936702e9bcf64a56",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164717.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Crafting concise Japanese response**\n\nI’m focusing on the last line, which needs to include \"スコア: X\" in Japanese. So I’ll say \"スコア: 80.\" I want to tie this into a couple of sentences: mentioning the appointment as PM right after surrender, highlighting the caretaker government's role in practical issues. His background as a prince and general indicates loyalty to the imperial institution, and it's all framed within a pragmatic cooperation with the Allies, making it a realist approach. Score: 80."
+  },
+  {
+    "no": 31,
+    "score": 70,
+    "raw_response": "幣原喜重郎は「国際法・平和主義」と「非軍事化」を重視し、理想的な外交原則（平和的解決・国際協調）を長年掲げた人物ですが、それを実現するために妥協や現実的手段（非干渉・経済重視、GHQとの協調）を選ぶ実務的な判断を常に取ってきました。軍部の台頭に対する毅然とした反対や理念的立場はある一方、実際の政策運営では現実的・安定志向の現実主義が強く出ています。したがって「ロマンチスト寄り」ではなく、現実的な実利重視の度合いが高いと評価します。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 858,
+      "reasoning_tokens": 640,
+      "total_tokens": 991
+    },
+    "elapsed_seconds": 9.254,
+    "response_id": "resp_0de9c7a5cdeff3a2006991d42dbe5081968a9e92c7bc25a607",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164717.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 32,
+    "score": 90,
+    "raw_response": "吉田茂は戦後の日本再建を最優先に据え、米国安全保障に依存して経済復興に注力する「吉田ドクトリン」を採った現実主義者です。理想や大義よりも国家の実利・現状把握と妥協を重んじ、外交・経済で柔軟かつ計算高い政策を展開したため、ロマンチストより明らかにリアリスト寄りと言えます。\n\nスコア: 90",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 572,
+      "reasoning_tokens": 384,
+      "total_tokens": 703
+    },
+    "elapsed_seconds": 5.732,
+    "response_id": "resp_07fd343ee0f784aa006991d42dc174819e844b1bd145278c9d",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164717.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 33,
+    "score": 25,
+    "raw_response": "片山哲は日本初の社会党出身首相として、社会的正義・労働者保護・福祉拡充や平和主義といった理想を重視したリーダーでした。占領下・連立政治という制約の下で現実的な妥協も繰り返し、政策実現のために実務的な対応を取る場面もあったものの、基本的には信念に基づく改革志向が強い人物です。従って「ロマンチスト寄り」で評価します。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 130,
+      "cached_input_tokens": 0,
+      "output_tokens": 550,
+      "reasoning_tokens": 384,
+      "total_tokens": 680
+    },
+    "elapsed_seconds": 5.836,
+    "response_id": "resp_062ea8821d892125006991d42e41c48195a0e25a68dd46f6bd",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164718.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 34,
+    "score": 70,
+    "raw_response": "芦田均は戦後の不安定な情勢の中で連立を組み、占領政策を受け入れつつ社会保障や民主主義の再建を目指した政治家で、実務的な妥協と現実対応を重視した面が強い。一方で平和主義や法治・人権の重視など理念的な側面も持っており、理想追求と現実主義を両立させようとしたタイプと評価できます。汎用的な政治的スタンスを踏まえ、ややリアリスト寄りと判断します。  \nスコア: 70",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 798,
+      "reasoning_tokens": 576,
+      "total_tokens": 929
+    },
+    "elapsed_seconds": 8.082,
+    "response_id": "resp_01d523b13fb142e9006991d42ee104819c86e70adab6e7bf5a",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164718.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 35,
+    "score": 30,
+    "raw_response": "鳩山一郎は戦後日本の復興と独立を強く志向した政治家で、対米従属からの自立やソ連との関係改善など「国家のあるべき姿」を掲げる理想主義的色彩が強かった一方で、政党結成や連立工作、現実的な妥協もしばしば行っており単なる夢想家ではありません。理念重視の傾向が目立つが、実務的な調整力も併せ持っていた、という評価です。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 998,
+      "reasoning_tokens": 832,
+      "total_tokens": 1130
+    },
+    "elapsed_seconds": 9.307,
+    "response_id": "resp_0ef46e27ba55585b006991d42efda88197a58606cacc226e33",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164719.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 36,
+    "score": 65,
+    "raw_response": "石橋湛山は政治的信念や倫理的な政治観を重視する「思想家・良識派」の側面を強く持ちながら、財政均衡や現実的な経済政策を重視して慎重に政治を進めた実務家でもありました。理想主義的な言説や政治の道徳性へのこだわりは目立つ一方で、政権運営では妥協や実際的な調整を重んじる傾向が強く、結果として現実的・実利的な判断に寄る面が多い人物です。\n\nスコア: 65",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 796,
+      "reasoning_tokens": 576,
+      "total_tokens": 928
+    },
+    "elapsed_seconds": 10.441,
+    "response_id": "resp_081ed9c0e0d5ef09006991d42fe608819cac804657300b9918",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164719.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 37,
+    "score": 85,
+    "raw_response": "岸信介は官僚出身の実務家で、戦後は経済復興と日米安保の強化を最優先に据えた現実的・実利的な判断を重視した政治家です。国家主義的・憲法改正志向などの強い信念は持っていたものの、政策遂行は手腕と権力行使による現実的解決を重視する傾向が強く、安保改定を押し切った点などでリアリスト色が強いと言えます。したがってこの軸ではリアリスト寄りの評価になります。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 130,
+      "cached_input_tokens": 0,
+      "output_tokens": 567,
+      "reasoning_tokens": 384,
+      "total_tokens": 697
+    },
+    "elapsed_seconds": 6.757,
+    "response_id": "resp_081ab821ff44f4b0006991d43037c4819288154243601ce136",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164720.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 38,
+    "score": 85,
+    "raw_response": "池田勇人は「所得倍増計画」に代表される明確なビジョンを掲げた指導者ではあるが、それを達成するために現実的な経済政策、官僚機構との連携、実利重視の行政運営を徹底した実務家です。外交・党内調整でも妥協と安定を優先し、イデオロギーより成長と社会安定の実現を優先した点から、ロマンチストというよりリアリスト寄りと評価できます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 641,
+      "reasoning_tokens": 448,
+      "total_tokens": 772
+    },
+    "elapsed_seconds": 7.508,
+    "response_id": "resp_0f533047d3387ced006991d430395c819189b60cc943fae23f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164720.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Refining income doubling plan**\n\nI'm presenting the income doubling plan as an ambitious but pragmatically implemented idea. The focus will be on forming technocratic and bureaucratic alliances to drive economic growth through practical policies, rather than getting caught up in ideological crusades. This approach seems well-balanced and feasible. I think I could score this around 85 for its clarity and potential effectiveness. Now, let’s finalize this plan!"
+  },
+  {
+    "no": 39,
+    "score": 85,
+    "raw_response": "佐藤栄作は官僚出身で長期政権を通じて現実的・実利的な政策運営を重視した実務家です。日韓基本条約締結や沖縄返還交渉、経済成長を優先する政策決定など、外交・内政ともに妥協と現実的調整で成果を追った点が目立ちます。平和・非核の姿勢は理念的側面もあるものの、多くは国内世論や米国との関係を踏まえた現実対応と言えます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 647,
+      "reasoning_tokens": 448,
+      "total_tokens": 779
+    },
+    "elapsed_seconds": 10.476,
+    "response_id": "resp_088091b7605562f5006991d431622c8196a3b62e3dd78f32e0",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164721.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "I'm getting ready to provide the response using the phrase \"スコア: 85.\" I want to make sure the Japanese text is clear and concise, around 3 to 5 sentences. I should focus on keeping it straightforward but impactful, ensuring it relates to the context of the question. This way, the user gets exactly what they need without any fluff. Alright, let’s create a well-structured response in Japanese!"
+  },
+  {
+    "no": 40,
+    "score": 80,
+    "raw_response": "田中角栄は「日本列島改造論」などの大きな構想を掲げた点でビジョナリーな側面を持つ一方、選挙基盤の構築や利権・官僚との現実的な調整、具体的なインフラ投資で成果を出す実務重視の政治手法が際立つ人物です。対外では中華人民共和国との国交正常化を迅速に進めるなど現実的な利益配分を優先し、資金・人脈による現実主義的運営が目立ちます。総じて理想を手段化して現実の利害や成果を重視した「リアリスト寄り」と評価します。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 808,
+      "reasoning_tokens": 576,
+      "total_tokens": 940
+    },
+    "elapsed_seconds": 13.276,
+    "response_id": "resp_074b962b4b38a6b6006991d4320dec819cb7e3290237ad4e84",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164722.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 41,
+    "score": 65,
+    "raw_response": "三木武夫は1974–76年の首相で、政治倫理・行政改革を掲げ「クリーン政治」を追求した理想主義的な面が強い一方、オイルショック対応や財政引き締めなど現実的・実務的な政策判断も重視した。派閥政治に対する原理的な対処で政治的犠牲を払ったため理想主義の色も濃いが、政策面では実利志向が勝っていたと言えます。\n\nスコア: 65",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 1149,
+      "reasoning_tokens": 960,
+      "total_tokens": 1280
+    },
+    "elapsed_seconds": 9.957,
+    "response_id": "resp_009773b3e0b7625b006991d4326d488196a31f3f31de5731a0",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164722.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 42,
+    "score": 85,
+    "raw_response": "福田赳夫は、理念先行というよりは安定と現実的な妥協を重視する政治家でした。政治的実務と合意形成を優先し、行政運営や経済政策で着実さを求めるタイプ。外交でも過度な理想主義は避け、現実的な関係維持と実利を重視しました。一方で「クリーンな政治」や倫理観を重んじる信念は持っていたが、それも実務的な信頼確保のための姿勢が強く、総じてリアリスト寄りです。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 454,
+      "reasoning_tokens": 256,
+      "total_tokens": 586
+    },
+    "elapsed_seconds": 4.233,
+    "response_id": "resp_093237e53b20405d006991d4332c2081919a5ccf71f803e246",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164723.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 43,
+    "score": 85,
+    "raw_response": "大平正芳は党内調整と安定を重視し、経済・財政運営で現実的な解決を図った実務型の首相でした。理想主義的な大風呂敷よりも合意形成や段階的な政策実行を好み、外交でも実利優先の現実主義的対応を取ることが多かったため、この軸ではリアリスト寄りと評価できます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 602,
+      "reasoning_tokens": 448,
+      "total_tokens": 733
+    },
+    "elapsed_seconds": 6.856,
+    "response_id": "resp_022799b76f726fef006991d4337e8481a2baeb671ce8a00e89",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164723.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "I'm thinking about being careful not to claim specifics that might not be accurate. It's better to keep things general. So, I plan to write 3 to 4 sentences and keep the last line with \"スコア: 85.\" I want to ensure everything is clear and precise while still delivering useful information. Let's make sure I stay on track with that!"
+  },
+  {
+    "no": 44,
+    "score": 85,
+    "raw_response": "鈴木善幸は党内調整や安定した政権運営を重視した現実主義的な政治家です。大風呂敷な理想やイデオロギーよりも、妥協・実務・経済の安定を優先して成果を出すタイプで、低姿勢で現実的な対応を取ることが多かったと言えます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 860,
+      "reasoning_tokens": 704,
+      "total_tokens": 992
+    },
+    "elapsed_seconds": 7.589,
+    "response_id": "resp_0903e1b15e2aed77006991d4339f7c8196a587a5fa5006c483",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164723.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 45,
+    "score": 80,
+    "raw_response": "中曽根康弘は、国家の地位向上や保守的価値へのこだわりを持ちつつも、現実的な政策実行力と実利重視の手法で知られる政治家です。国鉄民営化や行政・財政改革、日米関係の強化など具体的・市場志向の改革を推進し、利害調整や権力基盤の現実的運営を優先しました。一方で外交・歴史観におけるナショナリスティックな理想やリーダー像へのこだわりも一定程度見られるため、完全なリアリスト一辺倒ではありませんが、全体としては実利・現実重視の傾向が強いと言えます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 713,
+      "reasoning_tokens": 512,
+      "total_tokens": 846
+    },
+    "elapsed_seconds": 8.923,
+    "response_id": "resp_07411adc36d52690006991d43416c88190bbcb00d73e9d8291",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164724.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Considering the Nakasone revolution**\n\nI’m examining the Nakasone revolution, which involved privatization, fiscal reforms, and education reforms. His approach mixed political theatre with trade negotiations, and I see him as more of a realist than a romantic. I’m debating between scoring him a 75 or 80 to reflect his pragmatic reforms and national pride while emphasizing pro-American alignment. I’ll conclude with a brief analysis in Japanese, ensuring to include the score at the end. \n\nスコア: 80."
+  },
+  {
+    "no": 46,
+    "score": 85,
+    "raw_response": "竹下登は派閥力と調整力で政局を操り、具体的な課題解決（財政・税制の扱い、党内調整など）を重視した実務家タイプです。理想やビジョンを掲げて国民的なムーブメントを起こすというより、現実的な妥協と実利を優先して安定を図る政治手法が目立ちます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 130,
+      "cached_input_tokens": 0,
+      "output_tokens": 807,
+      "reasoning_tokens": 640,
+      "total_tokens": 937
+    },
+    "elapsed_seconds": 7.176,
+    "response_id": "resp_0766be2b6461ae0d006991d434385c819d97d57c18af9ddce9",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164724.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 47,
+    "score": 80,
+    "raw_response": "宇野宗佑は短期政権で「妥協と安定」を求められた中で選ばれた調整型の政治家で、理念先行というよりは現実的な収拾・実務重視の姿勢が強かった印象です。文化や教養を重んじる側面はあるものの、首相としては派閥・世論対応や行政の安定を優先し、大胆な理想主義で国を牽引したタイプではありません。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 681,
+      "reasoning_tokens": 512,
+      "total_tokens": 813
+    },
+    "elapsed_seconds": 7.065,
+    "response_id": "resp_00b74b03db288d07006991d434453c8193a58b1fbf1c3c728c",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164724.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Assessing political personality**\n\nIt's better to avoid overly specific factual claims that might turn out to be incorrect. I think focusing on general personality traits works well. He was a pragmatic and moderate politician, noted for his humanism and appreciation of art. After politics, he became an essayist and art collector, gaining a reputation as a \"gentleman\" with a liberal stance on social issues. He prioritized continuity and stability over grand visions, so I would score him around 80 for realism."
+  },
+  {
+    "no": 48,
+    "score": 80,
+    "raw_response": "海部俊樹は派閥調整や合意形成を重視する現実的な政治家で、リクルート事件後の収拾、行政・政治改革の実務的推進、湾岸危機での現実的な国際対応などから「理想より実利」を重視したタイプと評価できます。国際的役割の拡大やクリーンな政治を志向する面はあるが、手法は慎重で現実的だったため、リアリスト寄りと判断します。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 580,
+      "reasoning_tokens": 384,
+      "total_tokens": 712
+    },
+    "elapsed_seconds": 5.425,
+    "response_id": "resp_0f291ab632593c6f006991d4351e2c81a1a4bb98a3c82df99d",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164725.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 49,
+    "score": 85,
+    "raw_response": "官僚出身で財政や経済運営に長く携わり、首相在任時もバブル後の現実的な危機対応や妥協を重視した実務家タイプです。大局的な安定や改革の意欲はあるものの、理想や情熱に突き進むよりはデータ・利害調整に基づく現実的判断を優先しました。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 739,
+      "reasoning_tokens": 576,
+      "total_tokens": 871
+    },
+    "elapsed_seconds": 6.784,
+    "response_id": "resp_0084a821ecfbe7df006991d43569e881948fa394b3998d1239",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164725.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 50,
+    "score": 25,
+    "raw_response": "短評:\n細川護熙は1993年に非自民連立を率いて政治改革や反汚職を掲げた「理念先行」のリーダーで、理想や潔癖さを重視する姿勢が際立ちました。一方で、連立内の現実的な権力調整や長期政権運営のための実務的妥協には弱さがあり、短命政権に終わった点からも理念寄りと評価できます。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 937,
+      "reasoning_tokens": 768,
+      "total_tokens": 1069
+    },
+    "elapsed_seconds": 10.203,
+    "response_id": "resp_028c2cd9dc96bc13006991d4356ba8819590d67f1d33ed61a2",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164725.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Analyzing political reform efforts**\n\nI need to highlight key points about the figure's role in anti-corruption reform and desire to break LDP dominance, while also noting their moral and visionary goals. However, they had limited political skills and struggled with pragmatic compromises. Notably, they focused on cultural pursuits and idealism. I’ll conclude with a score around 25, emphasizing a romantic view. I should carefully phrase the challenges they faced, like resigning due to funding issues, without asserting any personal wrongdoing. Final note: “スコア: 25.”"
+  },
+  {
+    "no": 51,
+    "score": 80,
+    "raw_response": "羽田孜は短期政権（1994年4〜6月）ながら、政治改革や行政改革、クリーンな政治の実現といった理念を掲げた一方で、非自民連立政権の維持・調整や現実的な妥協を重ねることで政権運営を行った点が目立ちます。理想は持ちつつも、現実の勢力・利害調整や実務的対応を優先して行動するタイプで、理想追求の「ロマンチスト」よりも現状対応・実利重視の「リアリスト」寄りと評価できます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 595,
+      "reasoning_tokens": 384,
+      "total_tokens": 726
+    },
+    "elapsed_seconds": 5.459,
+    "response_id": "resp_0ac798f6ac3bc82d006991d4363ca08195a415d8b81978b34d",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164726.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 52,
+    "score": 65,
+    "raw_response": "村山富市は社会党出身で歴史認識に関する「村山談話」など理念や謝罪を重視する面が強く、理想に基づく姿勢が見える一方で、1994年に自民党と連立を組むなど政治的現実主義や安定優先の妥協も受け入れた実務家でもありました。したがって理念志向はあるが、現実的な手段で目標達成を図る「リアリスト寄りの理想主義者」と評価できます。\n\nスコア: 65",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 528,
+      "reasoning_tokens": 320,
+      "total_tokens": 659
+    },
+    "elapsed_seconds": 5.939,
+    "response_id": "resp_01b75f639c5cb935006991d436415c819dbfbdb61f3e0afd26",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164726.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Crafting concise reasoning in Japanese**\n\nI see that the user wants a balance between romanticism and realism, scoring from 0 to 100. I'll write brief reasoning in Japanese about the subject's idealism, highlighting their socialist roots and pragmatic coalition strategies. The score will emphasize more realism, so I’ll choose 65 for the final line. I'll keep the sentences concise and ensure the last line is “スコア: 65” as requested. No heavy formatting is needed, just clarity."
+  },
+  {
+    "no": 53,
+    "score": 85,
+    "raw_response": "橋本龍太郎は財政再建や行政改革、規制緩和といった具体的・技術的な課題に強い関心を払い、現実的な政策手段で成果を出そうとした実務派です。1990年代後半の金融危機対応や公共事業・国営企業の改革、官僚との調整においても理念的な大言壮語より現実的な妥協と実行を重視しました。したがって「ロマンチスト」よりは明確に「リアリスト」に寄る評価が妥当です。\nスコア: 85",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 665,
+      "reasoning_tokens": 512,
+      "total_tokens": 797
+    },
+    "elapsed_seconds": 6.73,
+    "response_id": "resp_067a8e4f9f8d78e8006991d436f4a48195b6672859965780d6",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164726.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 54,
+    "score": 80,
+    "raw_response": "小渕恵三は、イデオロギーよりも現実的な経済・行政の課題解決を優先した実務家型の首相でした。アジア通貨危機後の景気下支えのための公共事業や金融安定化策など、即効性ある政策で混乱の鎮静を図り、派閥や連立調整で合意形成を重視。改革は漸進的で安定と継続を優先する傾向が強く、強烈な「理想追求型」の政策志向は薄いです。ただし地方振興や国民に語りかけるやさしいイメージなど、象徴的・情緒的な面も一部に見られます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 867,
+      "reasoning_tokens": 640,
+      "total_tokens": 1000
+    },
+    "elapsed_seconds": 7.808,
+    "response_id": "resp_0a19a937492691ee006991d436f3f8819483f187d9eb85101a",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164726.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 55,
+    "score": 85,
+    "raw_response": "概して森喜朗氏は、長年の自民党内での派閥運営や利害調整を重視してきた「実務型」の政治家と見られます。首相在任中も短期間での政権運営や党内バランスを優先し、政策面での大きな理想実現よりも現実的・実利的な対応を重ねた印象が強いです。発言上の失言や保守的な姿勢はあるものの、それも現状維持や実務優先の文脈で説明されることが多く、ロマンチスト寄りとは言い難いでしょう。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 130,
+      "cached_input_tokens": 0,
+      "output_tokens": 615,
+      "reasoning_tokens": 384,
+      "total_tokens": 745
+    },
+    "elapsed_seconds": 5.915,
+    "response_id": "resp_004dc80b8beb6257006991d4370150819cba89642a0381a3fa",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164727.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 56,
+    "score": 35,
+    "raw_response": "小泉純一郎は強い改革信念とカリスマ的演出で「聖域なき構造改革」を推し進めた点で理想志向が強く、政治的・象徴的行為（靖国参拝など）にも理念性が見える一方、郵政民営化をめぐる解散・再選や派閥調整など成果を重視した現実的な戦術・実利主義も併せ持っていた。総じて「理想を掲げて実務的手段で貫く」タイプで、ややロマンチスト寄りと評価します。\n\nスコア: 35",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 730,
+      "reasoning_tokens": 512,
+      "total_tokens": 862
+    },
+    "elapsed_seconds": 7.609,
+    "response_id": "resp_01c755cf3bb23f87006991d43764748197847d0e501754009f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164727.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 57,
+    "score": 70,
+    "raw_response": "安倍晋三は大きな理念（憲法改正や積極的平和主義、国家像の提示）を掲げたリーダーだが、目標達成のために実務的・段階的な戦術を多用し、経済政策では市場や中央銀行との協調を重視するなど非常に現実的な手法を取った点が強い。理念を持ちつつも政治的現実や利害調整に応じて柔軟に路線を運用したため、「長期ビジョンを持つ現実主義者」に近い評価が妥当と考えられる。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 623,
+      "reasoning_tokens": 448,
+      "total_tokens": 754
+    },
+    "elapsed_seconds": 6.128,
+    "response_id": "resp_064603e71f48c779006991d437baac8190918efc6a1d1a446c",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164727.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 58,
+    "score": 85,
+    "raw_response": "福田康夫は「温厚で対話重視、現実的な調整力を重んじる保守的な政治家」という印象が強く、大胆な理念先行よりも現実の妥協と安定を優先してきた。外交・内政ともに漸進的・実務的な対応を選び、大きなビジョンよりも現実的な合意形成と生活課題への対応を重視していた点から、リアリスト寄りと評価できます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 704,
+      "reasoning_tokens": 512,
+      "total_tokens": 835
+    },
+    "elapsed_seconds": 6.515,
+    "response_id": "resp_0f3e0abb4f0b77c1006991d4384c2081a09747f324ad3d7c69",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164728.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Preparing summary content**\n\nThe user specified a scale from 0 to 100, indicating 0 for romanticist and 100 for realist. They want a concise Japanese summary of two or three sentences along with a final line showing the assignment clearly. I'll make sure to avoid any defamatory language while producing this content. Let's get that written up carefully!"
+  },
+  {
+    "no": 59,
+    "score": 85,
+    "raw_response": "解説：麻生太郎は長年の政界経験と現実的な派閥運営、財務・経済政策での実務志向から、理念よりも現状での効果や利害調整を重視するタイプです。保守的な信念やナショナリスティックな発言もありますが、政策運営や権力維持においては現実主義的な判断を優先してきた印象が強いです。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 457,
+      "reasoning_tokens": 320,
+      "total_tokens": 588
+    },
+    "elapsed_seconds": 5.022,
+    "response_id": "resp_0b94e6cee93e195f006991d43a58508191b15f0679661e2b77",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164730.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "I'm focusing on creating a structured response with an introductory remark followed by a score in Japanese. I'll start with \"考察：\" or \"解説：\" and aim for 2-3 sentences to provide some context. After that, I just need to present the score in the format \"スコア: X\", ensuring the number is an integer. I have to be careful about not making unverified claims and sticking to general statements. So, let's craft this exciting response!"
+  },
+  {
+    "no": 60,
+    "score": 25,
+    "raw_response": "鳩山由紀夫は「友愛」を掲げ、東アジア共同体構想や米軍基地問題での理念重視など、理想やビジョンを前面に出す政治姿勢が特徴的です。一方で、現実的・実務的な調整や政治力での妥協に弱く、理想と現実のギャップで短命に終わった点が目立ちます。総じて理想主義寄りと評価できます。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 849,
+      "reasoning_tokens": 704,
+      "total_tokens": 982
+    },
+    "elapsed_seconds": 7.858,
+    "response_id": "resp_0451c5763c67314b006991d43a57308197a03f1135645750fd",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164730.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Evaluating political legacy**\n\nI’m looking at Hatoyama, who was Prime Minister from 2009 to 2010 with the Democratic Party of Japan. He campaigned as a “politician of the people,” emphasizing ideals like fraternity and environmentalism. However, despite his ambitious ideas and vision, his short time in office was marked by moments of pragmatism, and he often faced criticism for being idealistic or naive. Ultimately, he resigned after failing to meet his promises, and his later political engagement was less impactful. I might score him lower due to a romanticized view in politics."
+  },
+  {
+    "no": 61,
+    "score": 35,
+    "raw_response": "菅直人は長年の野党時代から理想や信念を重視する姿勢（反原発・市民運動との親和性、政策理念の追求）が目立つ一方で、首相在任中や大臣時代には専門的・技術的な政策議論に強く、危機対応での実務的判断も求められた人物です。総じて理念を優先する「ロマンチスト寄り」だが、現実的な政策実務もこなすため極端には走らない、という印象です。\n\n- 理想寄りの要素：反原発や市民志向の発言・政策志向、理念に基づく政治姿勢が明確。  \n- 現実寄りの要素：技術的・政策的議論に強く、実務的な決断を行う場面もある（ただし批判では判断の遅さや現実対応の不十分さを指摘されることもあった）。\n\nスコア: 35",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 871,
+      "reasoning_tokens": 576,
+      "total_tokens": 1002
+    },
+    "elapsed_seconds": 8.141,
+    "response_id": "resp_0d05e7e2be4eca14006991d43a89b881908df1f0ea2781635d",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164730.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 62,
+    "score": 80,
+    "raw_response": "野田佳彦は在任中に消費税率引き上げなど財政再建を掲げ、支持率低下を承知で現実的な決断を進めた点が目立ちます。党内抗争や利害調整を経て妥協しながら政策を実行する実務志向が強く、理想先行というよりも実利・現実重視のリーダー像と言えます。一方で社会保障維持などの理念も持ちつつ、現実的手段で達成しようとした点は評価に影響します。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 768,
+      "reasoning_tokens": 576,
+      "total_tokens": 899
+    },
+    "elapsed_seconds": 6.41,
+    "response_id": "resp_096c54ce03aeb16c006991d43b3b508192ba76106dc016c35c",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164731.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 63,
+    "score": 90,
+    "raw_response": "菅義偉は長年の官房長官経験を通じて「実行力・調整力」を重視してきた人物で、派手な理想やイデオロギーを掲げて人心を動かすタイプではありません。デジタル庁創設や行政・規制改革、縦割り打破といった具体的・即効性のある政策に注力し、現場での合理的な解決を優先する実務家的スタンスが目立ちます。人柄も低姿勢で粛々と成果を出す「職人型」の政治家であり、ロマンチックなビジョン提示より現実的な手段選択を重視したため、リアリスト寄りと評価します。\n\nスコア: 90",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 539,
+      "reasoning_tokens": 320,
+      "total_tokens": 671
+    },
+    "elapsed_seconds": 4.72,
+    "response_id": "resp_0893d8938e4cfaf5006991d43b56d88193942f92bacba28710",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164731.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 64,
+    "score": 80,
+    "raw_response": "岸田文雄は理想や理念を大事にする面（「新しい資本主義」「対話重視の外交」など）を持ちつつも、実務重視・リスク回避で合意形成や漸進的な実行を好むタイプです。派手な政策転換よりも現状を踏まえた現実的な調整や官僚機構との協働を優先するため、リアリスト寄りと評価できます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 467,
+      "reasoning_tokens": 320,
+      "total_tokens": 598
+    },
+    "elapsed_seconds": 4.953,
+    "response_id": "resp_0acb48561d21ae42006991d43b64f48194a7d2405f9477507a",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164731.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  }
+]

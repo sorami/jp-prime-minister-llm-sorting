@@ -1,0 +1,1154 @@
+[
+  {
+    "no": 1,
+    "score": 70,
+    "raw_response": "伊藤博文は国家設計や外交を冷静かつ独立した知性で主導した「リーダー然とした孤高さ」が目立ちます。集団の一員として調整力も発揮しましたが、基本的には長期的ビジョンを自分の判断で進めるタイプで、感情に左右されずマイペースに物事を進める印象が強いです。したがって「猫っぽい」寄りと評価します。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 670,
+      "reasoning_tokens": 512,
+      "total_tokens": 820
+    },
+    "elapsed_seconds": 7.879,
+    "response_id": "resp_0bf35027697a1153006991d4c6d5d8819385e06f0e90069bb7",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 2,
+    "score": 30,
+    "raw_response": "黒田清隆は薩摩出身の明治官僚・政治家として開拓事業や政府の実務を重視し、官僚的な組織運営や人脈を活かして大規模な集団プロジェクト（北海道開拓など）を推進した点で「集団行動志向」「忠実・協調的」な側面が強いです。一方で、派閥内での実務的な立ち回りや独自の政治判断もあり、完全な「従順」ではなくある程度の自主性も持っていました。総じて犬っぽさ寄りと評価します。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 994,
+      "reasoning_tokens": 768,
+      "total_tokens": 1144
+    },
+    "elapsed_seconds": 9.494,
+    "response_id": "resp_08ba20a6bf0789e4006991d4c6dc7081a0bef9805ff59daf5d",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 3,
+    "score": 12,
+    "raw_response": "山県有朋は近代日本の軍人・政治家として、軍制・官僚制を整備し、規律・忠誠・集団的統制を重視した人物です。政党や民意よりも上意下達の組織運営や国家の安定を優先した点から、「犬っぽい」忠実で集団行動を好む性格が強く出ています（ただし強い独裁性や個人的な権力掌握志向もあり、完全な「群れの犬」一辺倒ではありません）。\n\nスコア: 12",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 634,
+      "reasoning_tokens": 448,
+      "total_tokens": 784
+    },
+    "elapsed_seconds": 6.729,
+    "response_id": "resp_0e9dce11c2ff790a006991d4c6d960819681e5d3a9b3108456",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 4,
+    "score": 80,
+    "raw_response": "松方正義は財政再建や金融整備に厳格に取り組んだ実務家で、規律・節約を重んじる冷静で独立した印象が強い人物です。派手な人気取りより合理性や政策遂行を優先し、人情に訴えるタイプよりもマイペースで堅実な仕事ぶり。逆に言えば、政府内の協調も重視して完全に孤立していたわけではなく、集団行動をまったく嫌ったわけでもありません。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 574,
+      "reasoning_tokens": 384,
+      "total_tokens": 724
+    },
+    "elapsed_seconds": 6.739,
+    "response_id": "resp_0b62f5ed993f3f2d006991d4c6d52c8196a8aa573c708645b8",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 5,
+    "score": 70,
+    "raw_response": "大隈重信は学究的で独立色が強く、藩閥や元老に対しても自説を曲げずに行動した点で「マイペースな猫」的な性格が色濃い一方、政党を結成して支持基盤を作り、学生や支持者を組織して動かすリーダー性も持っており集団活動も重視しました。総合すると自主性・独立性がやや勝るが、孤立型ではなく協働も辞さないタイプという印象です。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 707,
+      "reasoning_tokens": 512,
+      "total_tokens": 858
+    },
+    "elapsed_seconds": 7.139,
+    "response_id": "resp_07de3194ff5d2912006991d4c6d7a08190b384f15721279e6e",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 6,
+    "score": 70,
+    "raw_response": "桂太郎は陸軍出身で元帥・元老的な立場から政策を主導し、政党や大衆よりも官僚・軍部や元老との結びつきで政治を進めた。指導はトップダウンで冷静・実務的、個人の権威に依る面が強く、親しみやすい「群れに溶け込む」タイプよりは独立心・孤高さが目立つ。したがって猫っぽい寄りの評価。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 149,
+      "cached_input_tokens": 0,
+      "output_tokens": 768,
+      "reasoning_tokens": 576,
+      "total_tokens": 917
+    },
+    "elapsed_seconds": 8.218,
+    "response_id": "resp_019888f0753218dd006991d4c6da3881908f55eac41ffd834a",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 7,
+    "score": 40,
+    "raw_response": "西園寺公望は公家出身で欧州留学経験もあり、礼儀正しく穏健な調停者・合意形成者として知られます。政党政治を尊重し長年にわたり協調的に振る舞い、内外での外交や制度維持を重視したことから、集団行動や協働を好む「犬っぽさ」が強い一方で、老成した独自の節度や私人としての独立性も持っていました。総じて協調性と忠実さが目立つため、犬寄りと評価します。\n\nスコア: 40",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 756,
+      "reasoning_tokens": 576,
+      "total_tokens": 907
+    },
+    "elapsed_seconds": 7.602,
+    "response_id": "resp_0be42e0633f700bd006991d4c6d8888194850999362c2b183d",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 8,
+    "score": 75,
+    "raw_response": "山本権兵衛は海軍出身の軍人・官僚で、個人主導で決断する強い独立性や威厳があり、政党政治に距離を置く「一匹狼」的な側面が強い一方、職務への忠義心や組織内での責任感も持っていました。社交的で愛想を振りまくタイプではなく、マイペースで厳格な印象が強いため、猫っぽさの方が優勢と判断します。  \nスコア: 75",
+    "usage": {
+      "input_tokens": 152,
+      "cached_input_tokens": 0,
+      "output_tokens": 801,
+      "reasoning_tokens": 640,
+      "total_tokens": 953
+    },
+    "elapsed_seconds": 8.817,
+    "response_id": "resp_083b9adfc1d63fc9006991d4c6dc0c8197939a78a160a28cf0",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 9,
+    "score": 15,
+    "raw_response": "寺内正毅は陸軍出身の軍人・官僚で、天皇への忠誠や規律・集団的行動を重んじる指導スタイルが目立ちます。朝鮮総督としての統治や内閣期の保守的・官僚的運営を見ると、独立気質の「猫」よりも組織への忠実さや統率を重視する「犬」寄りです。ただし人懐っこい社交性は高くなく、冷徹で厳格な面もあるため完全な0点にはしません。\n\nスコア: 15",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 728,
+      "reasoning_tokens": 512,
+      "total_tokens": 878
+    },
+    "elapsed_seconds": 7.354,
+    "response_id": "resp_002359cfed1a62ee006991d4c6d8f8819f91e20ea63805825e",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 10,
+    "score": 25,
+    "raw_response": "原敬は「政党政治」を標榜して実際に党員・派閥や官僚との調整を重視し、組織運営や集団での合意形成に長けた実務家でした。個人的なカリスマに頼るよりも、党組織を活かして安定的に政権を運営する姿勢が目立ち、協調性と忠実さが強い印象を与えます。一方で実務家としての自律性や政策決定での現実的な判断力もあり、完全な「犬」型ではないものの、全体としては犬っぽい要素が優勢です。 \nスコア: 25",
+    "usage": {
+      "input_tokens": 148,
+      "cached_input_tokens": 0,
+      "output_tokens": 767,
+      "reasoning_tokens": 576,
+      "total_tokens": 915
+    },
+    "elapsed_seconds": 8.402,
+    "response_id": "resp_04da3f6f3634d20e006991d4c6d5208196a16d4738b7f2103a",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 11,
+    "score": 75,
+    "raw_response": "高橋是清は技術官僚出身で、中央銀行総裁や大蔵大臣として独自の経済判断（金融緩和・財政出動、金本位制離脱など）を断行し、党や軍部の圧力に抗して政策決定を行った点で独立志向・マイペースな猫っぽさが強い。一方で長年の官僚経験と政党・内閣との折衝で協調・調整役も務めており、完全に孤高というわけではない。総合すると猫寄りだが協調性も残すイメージ。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 1024,
+      "reasoning_tokens": 832,
+      "total_tokens": 1174
+    },
+    "elapsed_seconds": 8.704,
+    "response_id": "resp_00c916547348d784006991d4c6e5bc819cbb76aedb3194d54f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 12,
+    "score": 20,
+    "raw_response": "加藤友三郎は海軍出身で軍人としての規律や上下関係・集団行動を重んじる経歴が強く、内閣でも現実的・協調的に政党や官僚と折り合いをつける実務志向が目立ちます。一方で慎重で寡黙な面や独自の判断を重んじるところはあるものの、全体としては忠実で協調的な「犬っぽさ」が優る印象です。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 779,
+      "reasoning_tokens": 640,
+      "total_tokens": 930
+    },
+    "elapsed_seconds": 7.487,
+    "response_id": "resp_0839167d367907af006991d4c6d5d4819c9ba95a5fd9123212",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 13,
+    "score": 80,
+    "raw_response": "清浦奎吾は貴族院出身の保守的な官僚・元老的政治家で、政党中心の政治には距離を置き、非党内閣を率いるなど独立志向で上からの統治を好んだ印象があります。大衆に寄り添うタイプというより、法令や既存秩序を重んじて淡々と職務を遂行する「一匹狼」的な面が強く、集団での親密な連携や愛想の良さはあまり目立ちません。総じて猫っぽい傾向が強いと評価します。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 845,
+      "reasoning_tokens": 640,
+      "total_tokens": 996
+    },
+    "elapsed_seconds": 8.024,
+    "response_id": "resp_06187473db9b06e9006991d4c6d9d88194a4f55e51a64d8e4c",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 14,
+    "score": 30,
+    "raw_response": "加藤高明は政党を重視して連立を組み、議会活動や政策の実行で協調・妥協を重ねた実務の政治家でした。外交官出身で独自の判断力もあるものの、基本的には集団の中で調整しながら進めるタイプに見えるため、犬っぽさ寄りと評価します。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 688,
+      "reasoning_tokens": 576,
+      "total_tokens": 838
+    },
+    "elapsed_seconds": 9.635,
+    "response_id": "resp_0c861b0aea26d65a006991d4c6dbcc81a0a1d3396cf7848c02",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 15,
+    "score": 25,
+    "raw_response": "若槻礼次郎は温厚で妥協的、政党内外での協調や集団的な意思決定を重視した指導者でした。強硬な独断や孤高のスタイルはあまり取らず、周囲と連携して安定を図る性格が目立ちます（軍部に対しては一定の独自性も示したが、単独行動型ではなかった）。総じて「犬っぽい」寄りと判断します。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 152,
+      "cached_input_tokens": 0,
+      "output_tokens": 896,
+      "reasoning_tokens": 704,
+      "total_tokens": 1048
+    },
+    "elapsed_seconds": 8.591,
+    "response_id": "resp_0c238f9079a92393006991d4c6d93881958f1e4a6da8f8b68c",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 16,
+    "score": 80,
+    "raw_response": "軍人出身で強硬・独断的な政策運営が目立ち、個人の判断で行動することが多く、社交的で集団に従う印象は薄い。従って「猫っぽい」傾向が強いと評価します。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 834,
+      "reasoning_tokens": 704,
+      "total_tokens": 984
+    },
+    "elapsed_seconds": 11.031,
+    "response_id": "resp_01edf6896a735034006991d4c6dcc0819d8a22881976e5af99",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Calculating a Personality Score**\n\nI’m assessing a character with an army background who shows authoritarian and decisive traits. He prioritizes national interest and military expansion, which makes him less group-oriented. This leads me to lean towards a cat-like score between 70-85. His loyalty could suggest some dog-like traits, but I'll keep it brief, highlighting his military background and authoritarian nature. So, I'll conclude with: \"軍人出身で強硬・独断的な外交・内政姿勢、個人の方針で動きやすく、柔和で集団行動を好む犬っぽさは低い。従って猫寄り。スコア: 80\"."
+  },
+  {
+    "no": 17,
+    "score": 25,
+    "raw_response": "浜口雄幸は立憲民政党を率いて議会政治や党内調整、国際協調（海軍軍縮など）を重視した協調的な指導者でした。緊縮財政などで強い個人の方針を示す場面もあったものの、全体としては合意形成と集団行動を重んじるタイプで、忠実で人懐っこい「犬っぽさ」が強いと言えます。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 825,
+      "reasoning_tokens": 640,
+      "total_tokens": 975
+    },
+    "elapsed_seconds": 7.707,
+    "response_id": "resp_06e9976fd6761174006991d4c6dd408192a4c9b3edffcdfa12",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 18,
+    "score": 28,
+    "raw_response": "犬養毅は立憲政友会の長として党内外の調整や議会政治を重視し、妥協と協調で支持基盤を築いたタイプ。温厚で人当たりが良く集団での政治運営を好む一方、軍部に対しては毅然と抵抗する独立性も見せたため、全体としては「犬っぽい」寄り。ただし完全な従順ではない点を考慮しました。\n\nスコア: 28",
+    "usage": {
+      "input_tokens": 149,
+      "cached_input_tokens": 0,
+      "output_tokens": 672,
+      "reasoning_tokens": 512,
+      "total_tokens": 821
+    },
+    "elapsed_seconds": 6.829,
+    "response_id": "resp_0bbd42a1d0a35eab006991d4c6df308192a68e4518711e72e8",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 19,
+    "score": 25,
+    "raw_response": "斎藤実は海軍出身の官僚・統治者で、官僚機構や軍の序列を重んじ、総理在任中も妥協・調停して政局を安定させる「制度重視・集団志向」の色が強かったため、犬っぽさが強い印象です。一方で朝鮮総督や海軍長官としての強い権限行使や独自の決断力もあり、完全な追随型ではない独立性も見られます。総合すると犬寄りだが多少の猫的要素もある、という評価です。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 815,
+      "reasoning_tokens": 640,
+      "total_tokens": 965
+    },
+    "elapsed_seconds": 8.153,
+    "response_id": "resp_050828e94058aecb006991d4c6ddac819f942a01179e66b09f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 20,
+    "score": 70,
+    "raw_response": "海軍出身で公務と秩序を重んじる一方、穏健で独自の信念に基づいて冷静に行動した人物という印象があります。集団への忠誠心はあるものの、目立たずマイペースに政策の安定を優先する面が強く、どちらかといえば猫っぽい雰囲気が目立ちます。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 890,
+      "reasoning_tokens": 768,
+      "total_tokens": 1041
+    },
+    "elapsed_seconds": 8.024,
+    "response_id": "resp_0c179bda66277449006991d4c6daf88191bb90ea794d46de99",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164870.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 21,
+    "score": 25,
+    "raw_response": "広田弘毅は外務官僚出身の穏健な外交官・技術官僚で、協調と合意形成を重んじるタイプでした。軍部との折衝にあたっては妥協と順応を示し、強い独断やマイペースな個性で周囲を振り回す感じは薄く、集団内での役割遂行を優先した印象があります。一方で大局的な国益や国際的立場を重視する独立した判断も見られますが、全体としては「犬っぽい」傾向が強いと評価します。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 681,
+      "reasoning_tokens": 512,
+      "total_tokens": 831
+    },
+    "elapsed_seconds": 6.04,
+    "response_id": "resp_0a6fab86fa097e11006991d4cc74288196b4fea0a930679a87",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164876.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "To summarize, I need to create a brief Japanese paragraph that conveys some thoughts before presenting the final score. I should ensure that the last line is exactly \"スコア: 25\" as requested. It's important to keep everything concise and clear, so I’ll do my best to communicate effectively while adhering to these specifications. Let's get started on this task! The final line will be the specified score, ensuring everything aligns perfectly."
+  },
+  {
+    "no": 22,
+    "score": 20,
+    "raw_response": "林銑十郎 — 考察:\n軍人出身で規律・忠誠を重んじ、体制や集団の中で行動する傾向が強かった人物像が目立ちます。独立心やマイペースな「猫的」な自己主張よりも、上位や組織に従う「犬的」な性格の方が当てはまりやすいと判断します。ただし個人の判断や短期政権で見られる独自性も皆無ではないため、完全な犬寄りではありません。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 891,
+      "reasoning_tokens": 704,
+      "total_tokens": 1042
+    },
+    "elapsed_seconds": 7.274,
+    "response_id": "resp_079423c4fbb8fc41006991d4cc8f808193996f5b8d38645097",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164876.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 23,
+    "score": 70,
+    "raw_response": "近衛文麿は皇族や華族出身のエリートで、知性的・独善的な側面が強く、個人的なビジョンやプライドに基づいて政策を進めることが多かったため「マイペースで独立心が強い＝猫っぽい」印象が強い。一方で政党解体や大政翼賛会の結成など集団動員や軍部との協調を図る場面もあり、完全に孤高というわけではない。総じて猫寄りだが、集団行動を重視する実務的な側面も併存する。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 770,
+      "reasoning_tokens": 576,
+      "total_tokens": 921
+    },
+    "elapsed_seconds": 6.383,
+    "response_id": "resp_04b06a88af322a49006991d4cc8eb08196a0939fe2d3aff122",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164876.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 24,
+    "score": 30,
+    "raw_response": "平沼騏一郎は司法出身の保守的な政治家で、天皇制・国家秩序の重視や反共・治安立て直しを掲げ、軍部や保守勢力との連携で政務を進めたタイプです。個人的な信念は強く独自の判断をする面もあるものの、基本的には体制・集団の維持と協調を重視する路線で、マイペースな「孤高の一匹狼」よりは忠実で集団行動を好む犬っぽさが強いと評価できます。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 153,
+      "cached_input_tokens": 0,
+      "output_tokens": 952,
+      "reasoning_tokens": 768,
+      "total_tokens": 1105
+    },
+    "elapsed_seconds": 7.638,
+    "response_id": "resp_086ffd5cfb1de6f3006991d4cce26c819d9c21556134d6f6a6",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164876.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 25,
+    "score": 30,
+    "raw_response": "元陸軍将校で官僚的・慎重な性格と、政界・軍部の間で折衝する妥協志向が強かった点から、集団や上位組織に従う傾向が強く「犬っぽい」要素が目立ちます。一方で軍人・侯爵としての独立したキャリアや、自分の立場を守る判断力には猫っぽさもわずかに見えます。総合すると犬寄りの評価です。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 1129,
+      "reasoning_tokens": 960,
+      "total_tokens": 1279
+    },
+    "elapsed_seconds": 9.511,
+    "response_id": "resp_05b2284eb9655ac3006991d4cd15d081909642def337819a45",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164877.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 26,
+    "score": 75,
+    "raw_response": "米内光政は海軍の生え抜きで組織的な規律や仲間意識は強い一方、日独伊三国同盟や軍部の強硬路線に対しては慎重・独自の判断を示したことが知られます。公的人格は控えめで自立性が高く、集団の圧力に流されないタイプだったため、「猫っぽい」要素が強いと評価します。ただし軍人としての団結性や責任感も併せ持っていたため完全な孤独型ではありません。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 624,
+      "reasoning_tokens": 448,
+      "total_tokens": 774
+    },
+    "elapsed_seconds": 5.998,
+    "response_id": "resp_0ed965b7e4116a44006991d4cd3a08819ea957a03d385729b6",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164877.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 27,
+    "score": 20,
+    "raw_response": "東條英機は軍人として規律・忠誠・集団的行動を重視し、天皇・軍という組織的枠組みの中での責務や協調を優先した人物です。強い決断力や権威主義的な面はあるものの、個人主義的な「マイペースさ」よりも制度や集団への従属・責任を重んじたため、猫より犬っぽい傾向が強いと評価します。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 732,
+      "reasoning_tokens": 576,
+      "total_tokens": 882
+    },
+    "elapsed_seconds": 6.04,
+    "response_id": "resp_0c06a289dd070b7b006991d4cd5880819fb310999c96f58f09",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164877.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 28,
+    "score": 20,
+    "raw_response": "小磯国昭は陸軍のキャリア官僚・将軍で、天皇制や軍部の枠組みの中で忠実に職務を果たすタイプと評価されます。首相就任も妥協的な人選で、個人の独創的リーダーシップより集団的・官僚的な運営や軍の意向に従う姿勢が目立ちました。一方で朝鮮総督などで行政責任を負った経験はあり、完全に依存的というわけでもありません。総じて「忠実で集団行動を重んじる犬っぽさ」が強い印象です。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 812,
+      "reasoning_tokens": 640,
+      "total_tokens": 963
+    },
+    "elapsed_seconds": 6.993,
+    "response_id": "resp_0e929e9108d06534006991d4cd71bc8196b82ab6ecec423746",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164877.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 29,
+    "score": 25,
+    "raw_response": "鈴木貫太郎は海軍出身で「天皇への忠誠・公務優先」を体現した礼節と責任感の強い政治家でした。個人の派手な主張や権力抗争よりも秩序と集団の安定を重んじ、終戦処理でも国体と公務を守るために務めを果たした点は忠実で集団行動志向の犬っぽさが強いと言えます。一方で老練な判断力や毅然とした独自の責任感もあり完全に依存的ではありませんが、総じて猫寄りというより犬寄りです。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 153,
+      "cached_input_tokens": 0,
+      "output_tokens": 697,
+      "reasoning_tokens": 512,
+      "total_tokens": 850
+    },
+    "elapsed_seconds": 6.292,
+    "response_id": "resp_0717cf8553cdb32c006991d4cd9cfc81978d931160b949d1e8",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164877.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Writing character traits**\n\nI’m thinking about crafting a few sentences that highlight this character's naval background and their devout loyalty to the emperor and duty. I want to emphasize their consensus-oriented nature, conservative demeanor, and calm approach, showing how they place the state's interests above personal ambition, rather than being a maverick. I should probably wrap it all up with a final line: \"スコア: 25\". That seems concise and captures the essence well!"
+  },
+  {
+    "no": 30,
+    "score": 20,
+    "raw_response": "東久邇宮稔彦王は皇族かつ軍人としての強い「公」の責務意識と忠誠心が目立ち、戦後直後の混乱期に国難に応じて首相を引き受けた点から集団的責任や上位者への服従を重んじる傾向が強いです。一方で皇族という特殊な立場ゆえの一定の距離感や威厳もあるものの、政治的に独自路線を押し通したタイプではなく、むしろ既存の枠組みや命令系統に従う「犬っぽさ」が優勢と判断します。  \nスコア: 20",
+    "usage": {
+      "input_tokens": 155,
+      "cached_input_tokens": 0,
+      "output_tokens": 675,
+      "reasoning_tokens": 448,
+      "total_tokens": 830
+    },
+    "elapsed_seconds": 5.97,
+    "response_id": "resp_09746e9013e31adc006991d4cdc518819c91c3bd9737ef54fa",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164877.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 31,
+    "score": 30,
+    "raw_response": "幣原喜重郎は外交官出身で「シデハラ外交」と呼ばれる協調的・穏健な政策を重視し、敗戦直後の占領期には連合国や政党と折衝して秩序維持を図った点で集団行動や協調性を重んじる。個人的には慎重で控えめ、原則に忠実な面が強く独立的な良識も持つが、総じて協調志向で官僚的な性格が目立つため「犬っぽさ」寄りと評価する。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 152,
+      "cached_input_tokens": 0,
+      "output_tokens": 722,
+      "reasoning_tokens": 512,
+      "total_tokens": 874
+    },
+    "elapsed_seconds": 8.979,
+    "response_id": "resp_0de28f7c7924ccfd006991d4cdc2bc8196874b0a5084c24e01",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164877.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Considering Shidehara diplomacy**\n\nI want to summarize the reasons behind Shidehara diplomacy. It emphasizes international cooperation and is characterized as cooperative and conciliatory. I notice it involves a bureaucratic approach, reflecting a moderate stance. The diplomatic style seems to have a shy or reserved quality, almost like a cat's behavior, but overall, it maintains a collective-minded perspective. I should keep this short and concise as I finalize my thoughts on it."
+  },
+  {
+    "no": 32,
+    "score": 80,
+    "raw_response": "吉田茂は強い独自の信念と政策哲学（いわゆる吉田ドクトリン）を貫き、対米関係や戦後復興で自らの判断を重視して行動した「独立心の強い」指導者でした。人懐っこく集団行動を好むタイプというよりは、気分や方針を自分で決めるマイペースさ・孤高さが目立ちますが、必要に応じて実務的に連携もするため完全に孤立するわけではありません。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 687,
+      "reasoning_tokens": 512,
+      "total_tokens": 837
+    },
+    "elapsed_seconds": 5.842,
+    "response_id": "resp_0fc9559c59e99704006991d4cde584819e912ae124f9f3cb52",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164877.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 33,
+    "score": 20,
+    "raw_response": "片山哲は社会党系で穏健・誠実な印象が強く、幅広い勢力との連携や合意形成を重視して現実的に政権運営を行おうとしたため、集団行動を好む犬っぽい特徴が目立ちます。理念に忠実で奉仕的な姿勢があり、派手な独立路線やマイペースな振る舞いはあまり見られません。以上から犬寄りと評価します。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 149,
+      "cached_input_tokens": 0,
+      "output_tokens": 709,
+      "reasoning_tokens": 576,
+      "total_tokens": 858
+    },
+    "elapsed_seconds": 7.318,
+    "response_id": "resp_06ff03ef8ffd9db3006991d4cdf458819e81b34ea9e971516e",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164877.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Crafting a brief analysis**\n\nI need to write a succinct analysis in Japanese. It should be around 3-4 sentences, summarizing the main points effectively while keeping clarity in focus. Then, I'll end with \"スコア: 20\". It’s important that I ensure each sentence serves a purpose and contributes to the overall understanding, so I'll make sure everything flows smoothly. Let’s get this done!"
+  },
+  {
+    "no": 34,
+    "score": 30,
+    "raw_response": "芦田均は法学者・官僚出身で妥協と協調を重んじる現実主義者。戦後の混乱期に連立や調整を通じて政治をまとめようとした点は集団行動を好む「犬っぽさ」が強い一方、法と原則に基づく独自の信念も持っており完全な追従型ではないため、やや犬寄りの評価です。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 674,
+      "reasoning_tokens": 512,
+      "total_tokens": 824
+    },
+    "elapsed_seconds": 6.294,
+    "response_id": "resp_052a9802d324b6b9006991d4ce227c8197b19490b0e7d99849",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164878.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 35,
+    "score": 25,
+    "raw_response": "鳩山一郎は人当たりがよく親交を重んじ、派閥調整や党の再編など集団のまとまりを作る役割を果たしたため「忠実で協調的な犬っぽさ」が強い印象です。一方で独自の政治理念や外交方針にこだわる面もあり、完全な追随型ではありませんが、全体としては集団行動志向が目立ちます。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 746,
+      "reasoning_tokens": 576,
+      "total_tokens": 897
+    },
+    "elapsed_seconds": 6.945,
+    "response_id": "resp_0e3eaa3751c9ca94006991d4ce52ac8194bf94a60e864e5bf7",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164878.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 36,
+    "score": 85,
+    "raw_response": "石橋湛山は自立心が強く、派閥や党内の利害に流されず良心や信念を重視した政治家という印象が強いです。穏やかで礼儀正しく協調もする一方、独自の見解を曲げずマイペースに行動する場面が多く、集団行動を好む「犬っぽさ」よりは単独での信念遂行に近い「猫っぽさ」が目立ちます。したがって猫寄りの評価になります。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 579,
+      "reasoning_tokens": 384,
+      "total_tokens": 730
+    },
+    "elapsed_seconds": 5.31,
+    "response_id": "resp_097915f7ad75e4f5006991d4ce6e0881978b796364aab760da",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164878.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 37,
+    "score": 75,
+    "raw_response": "岸信介は官僚出身で強いリーダーシップと政策実行力を発揮し、日米安全保障条約改定などを強引に推し進めた点で独立心・自己決定性が強く「猫っぽい」印象が強いです。一方で保守政界や官僚機構との結びつきを重視し、集団的な利害や派閥に忠実に振る舞う面もあるため完全な単独行動型ではありません。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 149,
+      "cached_input_tokens": 0,
+      "output_tokens": 714,
+      "reasoning_tokens": 576,
+      "total_tokens": 863
+    },
+    "elapsed_seconds": 6.927,
+    "response_id": "resp_023e293b31356495006991d4ce8eb081a39193da31cc6f3c49",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164878.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Crafting the perspective**\n\nI want to create a paragraph that highlights traits associated with a cat-like demeanor, such as being independent, authoritative, and decisive. Then, I’ll acknowledge the influence of existing group loyalty among conservative elites and bureaucrats, which could diminish that cat-like quality. I need to make sure to keep it fair and not defamatory since it's just an opinion. Finally, I’ll wrap up with a score. Sounds like a fun challenge!"
+  },
+  {
+    "no": 38,
+    "score": 20,
+    "raw_response": "池田勇人は旧制一貫の官僚出身で、党内調整や官僚・財界と連携して「所得倍増計画」などを推進した合意形成型の実務家です。カリスマ単独行動よりもチームでの政策実行や安定志向を重んじるため、「犬っぽい」側面が強いと評価します（ただし合理主義で独自の政策判断も取るため完全な犬型ではない）。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 708,
+      "reasoning_tokens": 576,
+      "total_tokens": 858
+    },
+    "elapsed_seconds": 6.047,
+    "response_id": "resp_02cd436c2b01f8e7006991d4cf3c10819d8fbe6a14119baa21",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164879.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 39,
+    "score": 20,
+    "raw_response": "佐藤栄作は長期政権を維持し、自民党内での調整や官僚との協力を重視した安定志向の政治家で、集団内での役割を全うするタイプ。沖縄返還などで外交的手腕を発揮した一面はあるが、基本は党内の合意形成や継続性を重視する「まとまって動く」姿勢が目立つため、犬っぽさ寄りと判断します。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 707,
+      "reasoning_tokens": 576,
+      "total_tokens": 858
+    },
+    "elapsed_seconds": 5.956,
+    "response_id": "resp_0b1ef9974c317ba4006991d4cf5f2481a0bb5815e6bef0b28b",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164879.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 40,
+    "score": 25,
+    "raw_response": "田中角栄は派閥と地元基盤を軸に強力な「お膝元」ネットワークと個人的な信頼関係を築き、客接・馴致を重視するポピュリスト型のリーダーだった点で犬っぽい要素が強いです。一方で権力志向や独断的な政治手法、既成秩序を壊す強い個性もあり、完全な犬寄りではありません。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 676,
+      "reasoning_tokens": 512,
+      "total_tokens": 827
+    },
+    "elapsed_seconds": 6.804,
+    "response_id": "resp_0bc2d4eb249c4531006991d4d0c61481948e987edc9d68ebee",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164880.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "I'm deciding on a score that reflects a mix of independence and dog-like qualities. I’m thinking maybe 20 would be more aligned with a dog vibe, but I’ll go with 25 for that sense of independence. It's important to remember how I categorize this: 0 represents a dog, while 100 represents a cat. I’ll finalize it with: \"スコア: 25.\" That feels like a fitting choice!"
+  },
+  {
+    "no": 41,
+    "score": 80,
+    "raw_response": "三木武夫は派閥や利害に流されず清廉さと独立性を重んじた「一本筋の通った」政治家で、汚職追及や党内改革にあえて対立を恐れず取り組んだ点が猫っぽいです。一方で首相としての調整力や庶民的な親しみやすさも持ち合わせており、完全な孤高タイプではありません。総合すると猫寄りだが協調性も残る印象です。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 618,
+      "reasoning_tokens": 448,
+      "total_tokens": 768
+    },
+    "elapsed_seconds": 5.454,
+    "response_id": "resp_07fefe4684233126006991d4d281ec819d9445b207c744a684",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164882.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 42,
+    "score": 20,
+    "raw_response": "福田赳夫は穏健で控えめ、派閥調整や合意形成を重視するタイプの政治家でした。誠実で党内外の人間関係を大切にし、安定志向・協調志向が強いことから「犬っぽい」要素が強く、個人プレーや気ままな独立性はあまり目立ちません。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 575,
+      "reasoning_tokens": 448,
+      "total_tokens": 726
+    },
+    "elapsed_seconds": 4.369,
+    "response_id": "resp_05c2e81fb7cf130e006991d4d2f428819f83e1081e6f0395e1",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164882.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 43,
+    "score": 20,
+    "raw_response": "大平正芳は穏健で協調志向、派閥や官僚との調整を重視して集団の和を作るタイプとして知られます。控えめで人当たりが良く、合意形成を重視する姿勢は「忠実で人懐っこく集団行動を好む犬っぽい」側面が強いと評価できます。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 762,
+      "reasoning_tokens": 640,
+      "total_tokens": 912
+    },
+    "elapsed_seconds": 5.924,
+    "response_id": "resp_0ab68f4808f23c30006991d4d33a5481a2bb62f6f3091cc2c7",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164883.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 44,
+    "score": 20,
+    "raw_response": "鈴木善幸は派閥や党内調整を重視し、安定と合意形成を最優先した穏健なリーダーでした。個人のカリスマ性や独断で突っ走るタイプではなく、周囲と歩調を合わせて粛々と職務を遂行する「集団行動寄り」の印象が強いです。控えめで目立たない面はあるものの、基本的には忠実で協調的な犬っぽさが強いと言えます。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 511,
+      "reasoning_tokens": 320,
+      "total_tokens": 662
+    },
+    "elapsed_seconds": 5.032,
+    "response_id": "resp_0d9d0e0282c46520006991d4d36114819c94d5802b213305ab",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164883.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 45,
+    "score": 80,
+    "raw_response": "中曽根康弘は強い個性と明確な政策ビジョンで知られ、英米とのパーソナルな関係構築や国鉄民営化など自らの判断で大胆に舵を切った点が「独立心が強くマイペース」な猫っぽさを感じさせます。一方で派閥政治や党内調整もこなし、人心掌握のために親しみやすさを見せる場面もあったため完全な孤高型ではありません。総じて猫寄りと評価します。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 152,
+      "cached_input_tokens": 0,
+      "output_tokens": 609,
+      "reasoning_tokens": 448,
+      "total_tokens": 761
+    },
+    "elapsed_seconds": 6.038,
+    "response_id": "resp_01228f9b9d6bdae7006991d4d3be3481a1b5d862e27bf7909c",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164883.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Clarifying scoring**\n\nI need to make sure it's clear that 100 represents a cat and 0 represents a dog. The user already specified this, but I could briefly restate it. They wanted a short consideration and then the final score, so I’ll do that. I'll keep my response concise and write it in Japanese, just to meet their request effectively. It's important that I follow their instructions closely!"
+  },
+  {
+    "no": 46,
+    "score": 30,
+    "raw_response": "竹下登は派閥を背景に巧みに人間関係と合意形成で権力を維持した「チーム志向」の政治家で、親密な朋党関係や馴染みやすさを重視する面が強いです。一方で裏方での策略や独自の政治判断（消費税導入など）を辞さない独立性もあり、完全な「犬」ではなくやや慎重な面もあります。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 149,
+      "cached_input_tokens": 0,
+      "output_tokens": 616,
+      "reasoning_tokens": 448,
+      "total_tokens": 765
+    },
+    "elapsed_seconds": 7.04,
+    "response_id": "resp_005d7f7f1d574cb0006991d4d3bd54819fbb0738fb9dbeb446",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164883.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 47,
+    "score": 25,
+    "raw_response": "宇野宗佑は元外務官僚で礼儀正しく調整型の政治家。派閥や党内調整を重視して穏健にまとめようとする姿勢が強く、自己主張で突き抜けるタイプではなく集団に合わせる傾向があるため、「犬っぽい」面が強いと判断します。ただし外交官出身の洗練された個人性や短命政権での独自の判断もあるため完全に「犬一色」ではありません。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 688,
+      "reasoning_tokens": 512,
+      "total_tokens": 839
+    },
+    "elapsed_seconds": 6.49,
+    "response_id": "resp_070ff67015bb4857006991d4d3c00c81a28908f0a8b2811776",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164883.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 48,
+    "score": 20,
+    "raw_response": "穏やかで人当たりが良く、派閥調整や合意形成を重視した穏健なリーダー像が強い人物です。外交重視で柔軟に妥協する実務志向かつ集団の中で役割を果たすタイプで、「人懐っこく集団行動を好む犬っぽさ」が目立ちます。個人的な独立性やマイペースさよりも協調性が優先される印象です。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 701,
+      "reasoning_tokens": 512,
+      "total_tokens": 852
+    },
+    "elapsed_seconds": 5.717,
+    "response_id": "resp_010b35b86ff6fd27006991d4d3bf1c81979c57dbe714bf725b",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164883.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 49,
+    "score": 35,
+    "raw_response": "宮澤喜一は長年の官僚出身で派閥内での調整力や合意形成を重んじる実務家でした。穏健で協調的、集団の中で役割を果たすタイプという印象が強く、犬っぽさの要素が多い一方、学者肌で控えめ・内向的な面もあり単純に「人懐っこい」だけではないため猫っぽさも一部あります。総合すると犬寄りだが完全ではない評価です。\n\nスコア: 35",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 628,
+      "reasoning_tokens": 448,
+      "total_tokens": 779
+    },
+    "elapsed_seconds": 4.929,
+    "response_id": "resp_0598fc91a1e518ed006991d4d3e828819ebce9381a4569e540",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164883.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 50,
+    "score": 80,
+    "raw_response": "忠実で集団行動を好む「犬っぽさ」より、独立心が強くマイペースな「猫っぽさ」が強い人物と評価します。自ら新党を立ち上げて既存政党勢力を打破し短期ながら首相になった経歴、家柄や教養を感じさせる品位、党内路線に従うより自分の方針を優先する傾向、のちの環境・脱原発の活動などから、協調はする一方で自律的・個人主義的な印象が強いです。一方で連立政権の旗振り役も務めたため完全に孤立型ではありません。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 807,
+      "reasoning_tokens": 576,
+      "total_tokens": 958
+    },
+    "elapsed_seconds": 6.284,
+    "response_id": "resp_0575b3b8450dba78006991d4d470ec81a1846db71bbcda748f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164884.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 51,
+    "score": 70,
+    "raw_response": "羽田孜は既成政党を離れて新党を作るなど改革志向で独立性が強く、首相在任も短期で周囲と衝突することもあった一方、連立を組んで実務的に協調する場面も持っていた。全体としてはマイペースで自分の方針を重視する「猫っぽさ」がやや強い印象です。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 906,
+      "reasoning_tokens": 768,
+      "total_tokens": 1056
+    },
+    "elapsed_seconds": 7.081,
+    "response_id": "resp_0d4c677c1ae033f3006991d4d46ee48193a0ad97d243015ab0",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164884.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 52,
+    "score": 25,
+    "raw_response": "村山富市は穏やかで協調的、集団の和を重んじる政治姿勢と、1995年の「村山談話」に見られる謝罪・反省の姿勢から、犬っぽい（忠実で人懐っこく集団行動を好む）印象が強い人物です。党の枠を越えて連立を組み政権を担った経緯は実利的・協調的な判断によるもので、独立性やマイペースさよりも合意形成を優先するタイプと評価できます。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 556,
+      "reasoning_tokens": 384,
+      "total_tokens": 706
+    },
+    "elapsed_seconds": 6.324,
+    "response_id": "resp_01e6ba7d843b4812006991d4d481548197bc4f913ed4047127",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164884.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Providing a score reasoning**\n\nI'm considering the traits of being a coalition-builder and having a conciliatory approach. I think valuing collective harmony is pretty dog-like, and since the user wants a score between 0 (dog) and 100 (cat), I believe a score of 25 makes sense here. I can mention their pragmatic decision to ally with others while maintaining a modest persona. So, in Japanese, I’ll say something like ‘連携を重視する姿勢から犬っぽいと評価し、スコア: 25’ for clarity."
+  },
+  {
+    "no": 53,
+    "score": 70,
+    "raw_response": "橋本龍太郎は官僚出身の実務家・改革派で、政策推進に強い意志を見せる一方で派閥政治や政党運営も重視した指導者でした。人懐っこいリーダーというよりは独立して論理的に物事を進めるタイプで、既得権益や抵抗勢力と対峙する場面も多く、どちらかと言えば猫っぽい側面が強いと考えます。ただし党内政治や連携も重視していたため極端な「孤高」の猫というわけでもありません。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 821,
+      "reasoning_tokens": 640,
+      "total_tokens": 972
+    },
+    "elapsed_seconds": 6.497,
+    "response_id": "resp_0a91514e8b851081006991d4d544ac8196bd20adf05ff14008",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164885.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 54,
+    "score": 20,
+    "raw_response": "穏やかで協調性が高く、党内外の合意形成やチームワークを重視した手堅い首相像。個人プレーで突き進むよりも安定と連携を優先し、人当たりの良さや忠実さが目立つため「犬っぽい」要素が強いと評価します。大胆な独立性・マイペースさは比較的乏しい印象です。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 152,
+      "cached_input_tokens": 0,
+      "output_tokens": 621,
+      "reasoning_tokens": 448,
+      "total_tokens": 773
+    },
+    "elapsed_seconds": 5.052,
+    "response_id": "resp_013ac7f8dea67897006991d4d545708197831778bbdeaad7c5",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164885.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 55,
+    "score": 30,
+    "raw_response": "長年の派閥政治や人脈づくりで集団内の調整・連携を重視してきた点や、親しみやすく率直に話す性格は犬っぽい要素が強いです。失言や独断的に見える場面もあり猫っぽさも一部にありますが、全体としては忠誠心や集団志向が勝る印象です。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 149,
+      "cached_input_tokens": 0,
+      "output_tokens": 827,
+      "reasoning_tokens": 704,
+      "total_tokens": 976
+    },
+    "elapsed_seconds": 6.888,
+    "response_id": "resp_09dad35c3a1ec0c9006991d4d546848197a6deb03f13ba73e3",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164885.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 56,
+    "score": 80,
+    "raw_response": "小泉純一郎は強い個性とカリスマ性で自分の信念を貫く「一匹狼」的な側面が目立ちます。郵政民営化など党内反対を押し切る行動や派手なパフォーマンスで注目を集めた点から、独立心が強くマイペースな猫っぽさが優勢です。一方で大衆を惹きつけて政策を推進するリーダーシップも持っているため完全な猫一辺倒ではありませんが、総じて猫寄りと評価します。  \nスコア: 80",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 732,
+      "reasoning_tokens": 576,
+      "total_tokens": 883
+    },
+    "elapsed_seconds": 6.793,
+    "response_id": "resp_02bfb841309c104f006991d4d554948192b10826836ddb60fa",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164885.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 57,
+    "score": 70,
+    "raw_response": "安倍晋三氏は長期政権を維持し、党内外での調整力や人脈を駆使して組織運営を重視した側面（犬っぽさ）がある一方で、自らの政策（アベノミクスや安全保障観）を強く推進するなど個の信念で動く独立性やカリスマ性（猫っぽさ）も目立ちます。外向的な親和力とトップダウンの決断力が混在するため、純粋な「犬」よりはやや「猫」寄りと評価します。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 671,
+      "reasoning_tokens": 512,
+      "total_tokens": 821
+    },
+    "elapsed_seconds": 6.519,
+    "response_id": "resp_096bca7f33f48559006991d4d57cd48192a415ad31a896e4d5",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164885.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 58,
+    "score": 25,
+    "raw_response": "福田康夫は穏やかで控えめ、合意形成や調整を重視するタイプ。派閥や党内外との協調を重んじ、目立たず安定を優先する姿勢が強く、独立性や型破りなマイペース感は比較的薄い。総じて犬っぽさ寄り。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 493,
+      "reasoning_tokens": 384,
+      "total_tokens": 643
+    },
+    "elapsed_seconds": 4.991,
+    "response_id": "resp_03ce1a44e6322a13006991d4d6977c8193856d54ea7052ed31",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164886.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 59,
+    "score": 75,
+    "raw_response": "麻生太郎氏は長年の党内重鎮として組織に属しつつも、発言や振る舞いに独自性・マイペースさが目立ちます。率直かつ時に孤立気味のスタンスをとる一方、派閥や政治家仲間との連携も重視する二面性があり、「一匹で動く猫」の色が強い印象です。そのため猫寄りの評価としました。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 616,
+      "reasoning_tokens": 448,
+      "total_tokens": 766
+    },
+    "elapsed_seconds": 6.104,
+    "response_id": "resp_031a6cce507470d1006991d4d6bf70819e851f447ae710d4cb",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164886.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 60,
+    "score": 75,
+    "raw_response": "評価軸: 0＝犬っぽい（忠実で人懐っこく集団行動を好む）〜 100＝猫っぽい（独立心が強くマイペース）\n\n考察: 鳩山由紀夫は理想主義で個性的、政策や発言において自己のビジョンを優先する傾向が強く、マイペースで独立色が目立つ。人当たりは良く親しみやすい面もあるが、党内外での調整より自分のスタイルを貫く場面が多く、全体として「猫っぽさ」が強く感じられる。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 152,
+      "cached_input_tokens": 0,
+      "output_tokens": 792,
+      "reasoning_tokens": 576,
+      "total_tokens": 944
+    },
+    "elapsed_seconds": 7.256,
+    "response_id": "resp_021eb93bc3381d31006991d4d751c08191a7414ab8c0a4090a",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164887.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 61,
+    "score": 75,
+    "raw_response": "菅直人は医師出身で市民活動や政策信念を重視し、官僚・党内の調整より自分の考えで行動する場面が目立ちます。リーダーシップは強いが妥協を嫌い単独で突っ走る傾向や独立心が強い印象があり、「集団に従順で従来の枠に収まる犬っぽさ」より「自分のペースを貫く猫っぽさ」が勝ると判断します。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 649,
+      "reasoning_tokens": 448,
+      "total_tokens": 799
+    },
+    "elapsed_seconds": 6.431,
+    "response_id": "resp_00677ef23eded139006991d4d7937081a3bc93b07090741f2f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164887.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 62,
+    "score": 35,
+    "raw_response": "野田佳彦氏は誠実で地道に説明・調整を重ねる実務派という印象が強く、党内外との合意形成や責任感を重視するため「集団行動を好む犬っぽさ」が目立ちます。一方で消費税率引き上げなど困難な決断を止めずに進めた面もあり、完全に従順というよりは独自の信念に基づく行動も見られます。総じてやや犬寄り、しかし独立性も一定程度ある中間よりの評価です。\n\nスコア: 35",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 507,
+      "reasoning_tokens": 320,
+      "total_tokens": 657
+    },
+    "elapsed_seconds": 4.222,
+    "response_id": "resp_09eb6ca0a984a377006991d4d7f3248197819b694b118e91bc",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164887.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 63,
+    "score": 20,
+    "raw_response": "菅義偉は官僚出身で安倍政権の忠実な参謀として長年仕え、政策継承や党内の秩序維持を重視するチームプレーヤー的な面が強いです。個人的には無表情で孤高に見える側面もあるが、行動様式は組織への忠誠・規律を優先する「犬っぽさ」が勝ります。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 151,
+      "cached_input_tokens": 0,
+      "output_tokens": 532,
+      "reasoning_tokens": 384,
+      "total_tokens": 683
+    },
+    "elapsed_seconds": 4.523,
+    "response_id": "resp_02f9b7a36c3cfc90006991d4d869748190bf5da7fe4c5e2962",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164888.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 64,
+    "score": 30,
+    "raw_response": "岸田文雄氏は調整力や和を重んじる姿勢、党内外との合意形成を重視する安定志向のリーダー像が強く、集団行動や忠誠心を重んじる「犬っぽさ」が目立ちます。一方で熟慮型で慎重に政策を進めるためマイペースさや独自の判断を示すこともあり、完全な「犬」一辺倒ではありません。総合すると犬寄りと評価します。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 150,
+      "cached_input_tokens": 0,
+      "output_tokens": 636,
+      "reasoning_tokens": 448,
+      "total_tokens": 786
+    },
+    "elapsed_seconds": 7.651,
+    "response_id": "resp_0158080f5f5cc862006991d4d8d58c81a29628ed4cf228032b",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164888.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Creating score assessment**\n\nI see that I need to determine a score between 0 and 100, where 0 is dog-like and 100 is cat-like. A score around 30 seems reasonable, indicating Kishida has moderate dog-like traits but also some independence. I'll start my assessment in Japanese, pointing out his consensus-building approach and caution, which are dog-like, while also mentioning his independent policy stances. Finally, I’ll conclude with “スコア: 30.” Sounds good!"
+  }
+]

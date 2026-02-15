@@ -1,0 +1,1154 @@
+[
+  {
+    "no": 1,
+    "score": 65,
+    "raw_response": "伊藤博文は明治期の政敵・外交実務家として国内外で広く活動し、複数回の内閣総理大臣や条約交渉、憲法起草など公的な場でリーダーシップを発揮したため社交性や対外的な行動力は高い。一方で私生活や表情は冷静で礼節を重んじる「沈着・控えめ」な印象が強く、派手な社交家というよりは寡黙で計算高いタイプでもある。総合すると外向的な公的人格が勝るが、個人的には落ち着いた内向性も併せ持つ。\n\nスコア: 65",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 654,
+      "reasoning_tokens": 448,
+      "total_tokens": 786
+    },
+    "elapsed_seconds": 5.807,
+    "response_id": "resp_0fd35bc83e353f0e006991d3553cc881a1b3d2ba66ba0e7e5e",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 2,
+    "score": 30,
+    "raw_response": "黒田清隆は薩摩出身の元軍人・官僚で、北海道開拓や内閣の指導を担った実務型のリーダー。公的役割を着実にこなす一方で、派手な社交や愛想の良さよりも寡黙で厳格、裏方で権力を行使する印象が強く、どちらかといえば内向的な雰囲気があると見られます。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 746,
+      "reasoning_tokens": 576,
+      "total_tokens": 878
+    },
+    "elapsed_seconds": 7.571,
+    "response_id": "resp_0babd556c5115b6b006991d3553a9c8194b574c556b14f5edc",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 3,
+    "score": 20,
+    "raw_response": "山県有朋は陸軍出身で威厳・規律を重んじる「軍人肌」の性格が伝えられ、華やかな社交家というよりは厳格で寡黙、裏方で権力を行使するタイプの印象が強い。派手に人気取りをする陽キャというより、冷静で距離を置く陰キャ寄りと評価します。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 595,
+      "reasoning_tokens": 448,
+      "total_tokens": 727
+    },
+    "elapsed_seconds": 5.221,
+    "response_id": "resp_0fd1c32697d8244b006991d3553cdc81a09c35d871c6f3323a",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 4,
+    "score": 25,
+    "raw_response": "松方正義は財政再建や緊縮政策で知られる技術官僚型の政治家で、派手さや大衆迎合よりも実務・節約・堅実さを重んじた人物像が強い。演説・人気取りより内向的で慎重なリーダーという印象があり、社交的で明るい「陽キャ」よりは一人で淡々と仕事をこなすタイプに近いと評価できます。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 547,
+      "reasoning_tokens": 384,
+      "total_tokens": 679
+    },
+    "elapsed_seconds": 5.179,
+    "response_id": "resp_0f5c3db87c13b62b006991d35539d4819084f5eac18dfb1b52",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 5,
+    "score": 70,
+    "raw_response": "考察：留学経験や演説、政党活動・選挙・外交での積極的な表舞台での活動や、早稲田大学創設など公的・社交的な働きかけが多く見られる一方、学者肌で文筆や思想面に重きを置く内省的側面も強い。総合すると社交性寄りの「陽キャ」寄りだが、典型的な社交家ほどは突出していない。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 516,
+      "reasoning_tokens": 384,
+      "total_tokens": 649
+    },
+    "elapsed_seconds": 5.3,
+    "response_id": "resp_004c619a9852b688006991d3553b048196a204f2cb0b2b3138",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 6,
+    "score": 30,
+    "raw_response": "桂太郎は陸軍出身で官僚・政界のエスタブリッシュメントとして、厳格で威厳のある公的イメージが強く、個人的には控えめで慎重、派手な社交性や親しみやすさはあまり伝わりません。政治的影響力は大きかったものの「明るく社交的な陽キャ」というよりは、孤高で冷静な指導者タイプに近いと評価できます。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 540,
+      "reasoning_tokens": 384,
+      "total_tokens": 671
+    },
+    "elapsed_seconds": 5.044,
+    "response_id": "resp_0b50b59a58e19d4f006991d3553c50819fa6b4ad8886360a39",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 7,
+    "score": 30,
+    "raw_response": "西園寺公望は公家出身で教養深く穏健な政治家。外交や交渉に長けて社交の場にも出ることはあったが、派手に目立つタイプではなく、合意形成や裏方での調整を重んじる控えめな印象が強い。よって陰キャ寄り寄りの評価にします。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 681,
+      "reasoning_tokens": 576,
+      "total_tokens": 814
+    },
+    "elapsed_seconds": 6.089,
+    "response_id": "resp_07bef9f8087ab11c006991d3553cb481a1889bda9eb7625056",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 8,
+    "score": 35,
+    "raw_response": "海軍出身の官僚肌で、派手なパフォーマンスや大衆動員型のカリスマ性よりも、慎重で穏健な調整役としての印象が強い。公的場面での対応力はあるが、私生活や言動からは社交的・明るい「陽キャ」より控えめな「陰キャ」寄りに感じられる。\n\nスコア: 35",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 797,
+      "reasoning_tokens": 640,
+      "total_tokens": 931
+    },
+    "elapsed_seconds": 7.089,
+    "response_id": "resp_0ab44b8d3f731143006991d3553c348192b796f022ed3215b8",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 9,
+    "score": 25,
+    "raw_response": "軍人出身で厳格・沈着な印象が強く、政界でも派手なカリスマや社交性で人気を集めたタイプではなく、統率・規律を重んじる内向的な振る舞いが目立ちます。公的役割は多かったものの、人間的には「一匹狼」「実務寄り」の印象が強いと評価されがちです。以上を踏まえると陽キャ寄りはあまり当てはまらない判断です。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 583,
+      "reasoning_tokens": 448,
+      "total_tokens": 715
+    },
+    "elapsed_seconds": 5.915,
+    "response_id": "resp_0fada7a95c634f40006991d3553d948192b98e41856ef12c46",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 10,
+    "score": 30,
+    "raw_response": "原敬は控えめで穏やかな印象が強く、公の場での派手なパフォーマンスよりも、党内部での折衝や地道な調整を重視した政治家です。社交の場で人脈を築く実務能力は高かったものの、個人的なキャラは目立たず内向的な雰囲気があるため、極端な陽キャ寄りではありません。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 130,
+      "cached_input_tokens": 0,
+      "output_tokens": 772,
+      "reasoning_tokens": 640,
+      "total_tokens": 902
+    },
+    "elapsed_seconds": 6.632,
+    "response_id": "resp_02de02ae10f27463006991d35538d881a2ab396c54a6d31421",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 11,
+    "score": 25,
+    "raw_response": "高橋是清は金融・財政の実務家として知られ、政策立案や交渉で手腕を発揮した技術官僚的な人物像が強い。派手なパフォーマンスや大衆的人気で引っ張るタイプではなく、理知的で慎重、裏方で問題解決を進める印象が強いため「陰キャ寄り」と判断します。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 747,
+      "reasoning_tokens": 576,
+      "total_tokens": 879
+    },
+    "elapsed_seconds": 6.439,
+    "response_id": "resp_0fcec606a095a5a6006991d3553d4c819dbd7912fb94e17a63",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 12,
+    "score": 30,
+    "raw_response": "加藤友三郎は海軍の職業軍人・外交官出身で、実務的・節制的・沈着な印象が強い人物です。公的には礼儀正しく落ち着いた振る舞いで目立つ社交的パフォーマンスを好んだ記録は少なく、必要な場面では外交的に振る舞えたものの、根底は控えめで内向的な性格がうかがえます。よって「陰キャ寄り」に寄せて評価します。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 595,
+      "reasoning_tokens": 448,
+      "total_tokens": 728
+    },
+    "elapsed_seconds": 5.389,
+    "response_id": "resp_0339b5a6e67de5ef006991d3553c58819eb77647c9e799980e",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 13,
+    "score": 20,
+    "raw_response": "清浦奎吾は官僚出身で老成した保守的な風格が強く、演説や大衆迎合よりも院内・エリート路線での統治を好したため、外向的で社交的な「陽キャ」よりは内向的で落ち着いた「陰キャ」寄りの印象です。短期内閣で目立ったカリスマ性や大衆的な人気を振るうタイプではなく、慎重で控えめな態度が目立ちます。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 517,
+      "reasoning_tokens": 320,
+      "total_tokens": 650
+    },
+    "elapsed_seconds": 6.09,
+    "response_id": "resp_0c4e316c2d821881006991d3553b808194b2d4411d070a106e",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Crafting a response in Japanese**\n\nI’ll aim to write concisely in Japanese, creating two short paragraphs. The first paragraph will contain an assessment of the user's request, and I think I might add a supporting point in a bullet format. Since the user wanted it concise, I’ll keep that to 2-3 sentences. It seems that a score of 20 indicates a leaning towards 陰キャ, so I'll ensure to conclude with \"スコア: 20.\" Let’s get this done!"
+  },
+  {
+    "no": 14,
+    "score": 60,
+    "raw_response": "加藤高明は外交官出身で議会政治を重視した穏健なリーダー。公的な折衝や連立工作に長けており社交性・調整力は高い一方で、派手さや自己顕示欲はあまりなく落ち着いた物腰で知られる。外向的な社交力はあるが、印象としては控えめなリーダーというバランス。\n\nスコア: 60",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 471,
+      "reasoning_tokens": 320,
+      "total_tokens": 603
+    },
+    "elapsed_seconds": 4.405,
+    "response_id": "resp_043d6ca4bbf93423006991d3553970819cafec524ea5fb1897",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 15,
+    "score": 25,
+    "raw_response": "若槻礼次郎は穏健で理知的、調整役としての印象が強く、派手な大衆的カリスマ性や社交的な演出はあまり見られません。行政や党内調整で着実に動くタイプとされるため、どちらかといえば内向き寄りと判断します（史料や印象に基づく推測です）。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 748,
+      "reasoning_tokens": 576,
+      "total_tokens": 882
+    },
+    "elapsed_seconds": 7.188,
+    "response_id": "resp_08f3f6481e8eaa6b006991d3553ad88193bc63dd2e7c54466b",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 16,
+    "score": 30,
+    "raw_response": "田中義一は軍人出身で厳格・威厳を重んじる印象が強く、私生活や感情をあまり表に出さないタイプと評価されます。政務や外交には積極的に出てはいるものの、社交的で陽気に場を盛り上げる「陽キャ」よりも、冷静・孤高で統制を重視する「陰キャ」寄りの人物像が妥当です。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 555,
+      "reasoning_tokens": 384,
+      "total_tokens": 687
+    },
+    "elapsed_seconds": 5.048,
+    "response_id": "resp_0ef0ad5dd2dd43c1006991d3553bf081a184f6f81e9f7c1a19",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 17,
+    "score": 30,
+    "raw_response": "浜口雄幸は穏やかで実務的、学者肌・倹約家の印象が強く、大衆を盛り上げるタイプのカリスマ性や派手さはあまりなかった。国際主義や妥協の実務を重視して政党内外と調整はこなしたが、公の場での明るく社交的な「陽キャ」的振る舞いよりは、控えめで内省的な「陰キャ」寄りのイメージが強い。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 583,
+      "reasoning_tokens": 384,
+      "total_tokens": 715
+    },
+    "elapsed_seconds": 5.389,
+    "response_id": "resp_0eea8929c00075be006991d35536ec81908aaf96037c28de64",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 18,
+    "score": 35,
+    "raw_response": "犬養毅は穏健で理知的、議会を通じた党内調整や討論を重視した「温厚な実務家」タイプ。大衆を煽るような派手なカリスマ性は乏しく、私的には落ち着いて控えめな印象が強い。一方で政治家としては幅広く人脈を築き交渉もこなしており、完全な内向型ではないため、陰キャ寄りだが中程度の内向性と評価します。\n\nスコア: 35",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 874,
+      "reasoning_tokens": 704,
+      "total_tokens": 1005
+    },
+    "elapsed_seconds": 7.662,
+    "response_id": "resp_0753089b293660bb006991d355366c8196b4d18823a63a6bc3",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 19,
+    "score": 20,
+    "raw_response": "海軍出身で官僚的・実務的な経歴（朝鮮総督や軍政の立場など）から、派手さや社交的な「陽キャ」的イメージよりは淡々とした統制型・控えめな印象が強いです。公的記録や政治手法も形式・規律重視で、個人的に社交的で明るいタイプだったとは想定しにくいので、陰キャ寄りと評価します。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 730,
+      "reasoning_tokens": 576,
+      "total_tokens": 862
+    },
+    "elapsed_seconds": 10.35,
+    "response_id": "resp_0c772a7f689a8dc6006991d3553b9c8193ae2a71bc1dc1bc9b",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Rating Saitō Makoto**\n\nThe user asks me to rate the Japanese Prime Minister Saitō Makoto on an introvert-extrovert scale from 0 to 100, along with a brief rationale. I need to consider his historical context and demeanor. Saitō was known for being reserved and bureaucratic, fitting a more introverted personality. With that, I think a low score toward introversion is appropriate, indicating he would be around 10 on the scale. So, I’ll conclude with \"スコア: 10\"."
+  },
+  {
+    "no": 20,
+    "score": 30,
+    "raw_response": "岡田啓介 — 海軍のキャリア官僚・政治家で、冷静で実務優先、華やかなカリスマ性や社交性よりも抑制的・控えめな印象が強い。外交・軍務での節度ある振る舞いが目立ち、外向的な「陽キャ」タイプとは言いにくい。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 705,
+      "reasoning_tokens": 576,
+      "total_tokens": 838
+    },
+    "elapsed_seconds": 6.298,
+    "response_id": "resp_0f5edcaf9fee4809006991d3553bec8191a779167e56c0d808",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164501.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 21,
+    "score": 30,
+    "raw_response": "広田弘毅は長年の外交官・官僚出身で、穏健で理知的、感情表現は控えめな印象が強い。大衆に訴えるカリスマ性や派手な社交性は乏しく、政策も審議・調停型だったことから「陰キャ寄り」の評価が妥当と考えられる。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 515,
+      "reasoning_tokens": 384,
+      "total_tokens": 647
+    },
+    "elapsed_seconds": 4.78,
+    "response_id": "resp_0bc0cce97ccfa937006991d35973a881a1973653e0a539d263",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164505.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 22,
+    "score": 30,
+    "raw_response": "軍人出身で厳格・儀礼的な印象が強く、公的な場での振る舞いは堅め。派手な社交性や明るいキャラクターが伝わる記録は少なく、内向的・淡泊なイメージの方が近いと判断します。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 729,
+      "reasoning_tokens": 640,
+      "total_tokens": 862
+    },
+    "elapsed_seconds": 6.482,
+    "response_id": "resp_042a4cabb1bd1446006991d35a14a88197892f7cd10dfcda8d",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164506.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 23,
+    "score": 25,
+    "raw_response": "近衛文麿は康成院出身の華族で、学問・文化的教養を重んじる洗練された雰囲気が強く、人前での大衆的なパフォーマンスや熱狂的な社交性よりも内向的・礼儀正しい佇まいが目立ちます。政界では影での調整や仲介を重視し、感情を前面に出すタイプではなく、どちらかといえば個人的な内省や限られたエリート圈での交流を好んだ印象です。以上から「陰キャ寄り」と評価します。 \nスコア: 25",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 681,
+      "reasoning_tokens": 512,
+      "total_tokens": 814
+    },
+    "elapsed_seconds": 6.712,
+    "response_id": "resp_0b7136018c59a158006991d35a2220819099af3e721f2ebc28",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164506.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 24,
+    "score": 30,
+    "raw_response": "平沼騏一郎は元司法官僚・法学者出身で、堅物で厳格、道徳観や規律を重視するいわば「学者肌」の政治家でした。大衆迎合する陽気さや社交的なカリスマ性は乏しく、強硬で内向的な印象が強い一方、国家主義的活動や政治的には積極的に行動したため完全な孤高タイプでもありません。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 724,
+      "reasoning_tokens": 576,
+      "total_tokens": 859
+    },
+    "elapsed_seconds": 6.31,
+    "response_id": "resp_0f4cf25b7e4d8909006991d35a33508196b50a39eba64d6df7",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164506.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 25,
+    "score": 30,
+    "raw_response": "阿部信行は軍人・官僚出身で、史料に残る印象は沈着で実務重視、社交的なパフォーマンスやカリスマ性を強調するタイプではありません。公的な振る舞いからは内向的・落ち着いた印象が強く、陰キャ寄りと評価できます。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 887,
+      "reasoning_tokens": 768,
+      "total_tokens": 1019
+    },
+    "elapsed_seconds": 7.725,
+    "response_id": "resp_04fafbf6d72e8405006991d35a3e308195ac2bcb13662e3e0c",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164506.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 26,
+    "score": 25,
+    "raw_response": "米内光政は海軍軍人で官僚的・慎重な性格で知られ、公の場での派手さや大衆迎合的な振る舞いは少なく、冷静で内向的な印象が強いです。戦時前後の政治でも対外妥協や穏健路線を取ろうとし、感情を前面に出すタイプではなかったため、社交的な「陽キャ」よりは落ち着いた「陰キャ」寄りと評価できます。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 533,
+      "reasoning_tokens": 384,
+      "total_tokens": 665
+    },
+    "elapsed_seconds": 5.067,
+    "response_id": "resp_0572e6209ec7a701006991d35a5278819595fbd6d6cf1250e4",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164506.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 27,
+    "score": 30,
+    "raw_response": "東條英機は軍人・政治家として強い指導力と決断力を示した一方で、私生活や人柄は厳格・無骨で社交的というよりは規律を重んじる reserve な印象が強い。演説や公務での活動は目立つが、基本的には威厳と統率を重視する「硬い」性格であり、明るく社交的な陽キャ像とは距離があると判断します。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 585,
+      "reasoning_tokens": 448,
+      "total_tokens": 717
+    },
+    "elapsed_seconds": 4.924,
+    "response_id": "resp_0d549c48d335a259006991d35a6f9c81a18ccdeb9d43fdd030",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164506.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 28,
+    "score": 25,
+    "raw_response": "小磯国昭は海軍出身の官僚的軍人で、政治的にもどちらかといえば事務的・静的な手法を好んだとされます。大衆迎合のカリスマ性や社交的なイメージは乏しく、儀礼的で控えめな印象が強い人物です。従って「陰キャ↔陽キャ」の軸では陰寄りに評価します。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 695,
+      "reasoning_tokens": 576,
+      "total_tokens": 828
+    },
+    "elapsed_seconds": 5.767,
+    "response_id": "resp_06602c1520953092006991d35a6f3481a1ad537893a4ebafd6",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164506.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 29,
+    "score": 20,
+    "raw_response": "鈴木貫太郎は海軍出身で高齢（首相就任時は77歳）、質素で慎み深い人物として知られ、威厳あるが派手さや社交的な陽気さはあまり感じられません。公的場面でも落ち着いた沈着さや宗教的・倫理的な内向性が強調されることが多く、「社交的で明るい陽キャ」より「静かで控えめな陰キャ」に近い印象です。ただし指導力や存在感はあったため、完全な内向一辺倒ではありません。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 720,
+      "reasoning_tokens": 512,
+      "total_tokens": 855
+    },
+    "elapsed_seconds": 5.943,
+    "response_id": "resp_0d397670dca3abd2006991d35aae5881a382cc77487e6805ad",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164506.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 30,
+    "score": 30,
+    "raw_response": "東久邇宮稔彦王は皇族かつ軍人としての格式と落ち着きを重視する振る舞いが目立ち、公の場でも控えめで儀礼的な印象が強いです。政治家としての積極的な社交性や陽気さを前面に出したタイプではなく、どちらかというと内向的・寡黙な印象があるため、陰キャ寄りの評価になります。\nスコア: 30",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 726,
+      "reasoning_tokens": 576,
+      "total_tokens": 863
+    },
+    "elapsed_seconds": 6.291,
+    "response_id": "resp_035bd6bfe908df60006991d35af79c819ca0f31cda7b553cc0",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164506.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 31,
+    "score": 30,
+    "raw_response": "幣原喜重郎は長年の外交官であり、柔和で理性的な調停者として知られます。派手な演出や大衆動員を好まず、慎重で控えめな物腰で対話を重視したため、外向的・社交的というよりは内向的・穏やかな印象が強いです。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 524,
+      "reasoning_tokens": 384,
+      "total_tokens": 658
+    },
+    "elapsed_seconds": 4.544,
+    "response_id": "resp_02ac116eaa5b5e44006991d35b21d0819e9ff7d566c84f7c47",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164507.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 32,
+    "score": 30,
+    "raw_response": "考察: 吉田茂は冷静で理性的、質素で控えめな公的人物という印象が強く、派手な大衆受けや陽気なパフォーマンスよりも静かな交渉力や裏での調整を重視したタイプと評価される。一方で外交・政界で積極的に人脈を築き影響力を発揮した面もあり、完全な内向一辺倒ではないと判断できます。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 627,
+      "reasoning_tokens": 448,
+      "total_tokens": 759
+    },
+    "elapsed_seconds": 5.59,
+    "response_id": "resp_0e61dde009154914006991d35b201c8190a7b315cdaac4acff",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164507.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 33,
+    "score": 30,
+    "raw_response": "片山哲は戦後初期の社会党系首相で、派手なカリスマ性よりも誠実・理知的で政策重視の印象が強いです。公的記録や評伝でも落ち着いた控えめな人物像が伝わっており、社交的に目立つタイプではなく内向的寄りと評価できますが、政治家としての調整役も務めていたため完全に陰キャというわけではありません。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 905,
+      "reasoning_tokens": 768,
+      "total_tokens": 1036
+    },
+    "elapsed_seconds": 7.63,
+    "response_id": "resp_0402bd4e4f6386cc006991d35b5970819687d2e3965c9a39db",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164507.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 34,
+    "score": 30,
+    "raw_response": "芦田均は法学・行政出身で政策や交渉を重んじる実務型の政治家。華やかなカリスマ性や大衆受けするパフォーマンスよりも、冷静で理知的・控えめな印象が強く、社交的ではあるが内向的なタイプ寄りと評価できます。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 622,
+      "reasoning_tokens": 512,
+      "total_tokens": 754
+    },
+    "elapsed_seconds": 5.286,
+    "response_id": "resp_0eb37eb85319de1d006991d35b7c38819192eb1e201f453ed0",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164507.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 35,
+    "score": 80,
+    "raw_response": "鳩山一郎は幅広い人脈を築き、演説や調整で主導力を発揮したリーダータイプで、社交性や外向的な振る舞いが目立ちます。落ち着いた品位や私的な内向性もあるものの、全体的には陽キャ寄りの印象です。\nスコア: 80",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 483,
+      "reasoning_tokens": 384,
+      "total_tokens": 616
+    },
+    "elapsed_seconds": 4.214,
+    "response_id": "resp_0fa423cf3c68ac98006991d35bad7481a089eee26d001152e6",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164507.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 36,
+    "score": 25,
+    "raw_response": "石橋湛山は新聞記者・随筆家としての知性的で内省的な側面が強く、政治家としても穏やかで控えめ、派手な大衆向けのカリスマ性よりも少人数での議論や執筆活動を好む印象があります。その発言や行動は慎重で節度があり、社交的ではあるがどちらかといえば陰キャ寄りと評価できます。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 578,
+      "reasoning_tokens": 448,
+      "total_tokens": 711
+    },
+    "elapsed_seconds": 8.433,
+    "response_id": "resp_0884da3dc5e56f74006991d35c1f248196b3c24d1390b92e2a",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164508.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Rating Ishibashi’s Personality**\n\nAlright, I need to keep this concise, with the last line being “スコア: X.” The score must be an integer from 0 to 100. The user mentioned that 0 indicates a fully introverted personality, while 100 signifies extroversion. \n\nFor Ishibashi, I think a score of 25 reflects his more introverted nature, indicating he's reserved and intellectual, with a calm demeanor. I'll summarize and conclude with: “石橋湛山 — 考察:” followed by a few sentences in Japanese, then finish with “スコア: 25.” Let's go ahead and produce that!"
+  },
+  {
+    "no": 37,
+    "score": 75,
+    "raw_response": "岸信介は官僚的で冷静・実務重視の面があり個人的にはやや内向的に見える側面もある一方、政治家としては強い主導力で派閥づくりや交渉・動員を行い、公の場で存在感を示した。温厚な社交家というよりは「社交的で攻めのリーダー」タイプなので、陰キャ寄りよりは陽キャ寄りの評価が妥当です。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 720,
+      "reasoning_tokens": 576,
+      "total_tokens": 851
+    },
+    "elapsed_seconds": 6.308,
+    "response_id": "resp_0553f23650567768006991d35c3c5c8191afa7f7fbe6bd0de0",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164508.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 38,
+    "score": 30,
+    "raw_response": "池田勇人は政策実行力と説得力で大衆に訴えた一方、個人の振る舞いは穏やかで控えめな実務家型。社交や交渉は得意だが派手さやハイテンションな外向性よりも、内向的で調整を好む印象が強いです。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 594,
+      "reasoning_tokens": 448,
+      "total_tokens": 726
+    },
+    "elapsed_seconds": 5.303,
+    "response_id": "resp_0a6c9102c890ec05006991d35c9774819798b2f6fb359bc889",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164508.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 39,
+    "score": 25,
+    "raw_response": "佐藤栄作は公の場で寡黙で落ち着いた印象が強く、派手に自己アピールするよりも合意形成や官僚手続きを重視するタイプでした。外交や政治手腕で存在感を示した一方で、社交的で明るい「陽気なリーダー」というよりは控えめで内向的なイメージが根強いです。極端な陰キャではないものの、全体としては陰キャ寄りと判断します。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 607,
+      "reasoning_tokens": 448,
+      "total_tokens": 740
+    },
+    "elapsed_seconds": 5.286,
+    "response_id": "resp_0a6fd1bc4ccd02e3006991d35cb6508191b22cead6396dc19f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164508.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 40,
+    "score": 90,
+    "raw_response": "田中角栄についての考察：田中角栄は派手で人脈重視、庶民受けする親しみやすさを前面に出したポピュリスト的な政治家で、宴席や地元回りを通じて直接支持を固めるタイプ。社交的で場慣れしており、政治資金や派閥運営でも積極的に人と接して権力を築いた点から、かなり陽キャ寄りと評価できます。\n\nスコア: 90",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 835,
+      "reasoning_tokens": 640,
+      "total_tokens": 968
+    },
+    "elapsed_seconds": 6.954,
+    "response_id": "resp_0642939f47eda20b006991d35e3ba881919f4779c592b4a472",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164510.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 41,
+    "score": 30,
+    "raw_response": "三木武夫は冷静で誠実、派手さを好まない落ち着いた印象が強く、政策や信念を重んじる「内向的・沈着」なイメージがあります。一方で政治家としての公的場面での発言力や人当たりもあるため、極端な陰キャではありません。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 706,
+      "reasoning_tokens": 576,
+      "total_tokens": 838
+    },
+    "elapsed_seconds": 6.244,
+    "response_id": "resp_035d08079855d5c0006991d35f5cb88192b09deeb2c8068681",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164511.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 42,
+    "score": 30,
+    "raw_response": "穏やかで落ち着いた印象の実務派で、派手なパフォーマンスや社交的なアピールよりも合意形成や慎重な調整を重視したタイプ。公の場でも控えめで内向的な雰囲気が強く、陽キャ寄りとは言い難いです。\nスコア: 30",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 752,
+      "reasoning_tokens": 640,
+      "total_tokens": 885
+    },
+    "elapsed_seconds": 6.585,
+    "response_id": "resp_0aac1602a9e4038f006991d35f667481a1bea8183317760a0d",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164511.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 43,
+    "score": 25,
+    "raw_response": "大平正芳は穏やかで控えめ、声は小さく私生活や感情を大きく表に出さないタイプとして知られます。派手な演出や強烈なカリスマ性はなく、内向的な印象を与える一方で、合意形成や外交で着実に人と調整する社交能力は発揮していたため、完全な陰キャではないと判断します。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 578,
+      "reasoning_tokens": 448,
+      "total_tokens": 710
+    },
+    "elapsed_seconds": 4.998,
+    "response_id": "resp_034b3919963ad2c6006991d35f668c819f8d18b114f97ce540",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164511.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 44,
+    "score": 30,
+    "raw_response": "公的なイメージや報道評価から見ると、鈴木善幸は派手さのない穏健・控えめな政治家で、調整役・合意形成を重視するタイプとして知られています。社交的に活動はする一方で表現や振る舞いは落ち着いており、目立つパフォーマンスやカリスマ性はあまり強くなかったため、陰キャ寄りの印象が強いです。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 618,
+      "reasoning_tokens": 448,
+      "total_tokens": 751
+    },
+    "elapsed_seconds": 6.358,
+    "response_id": "resp_0ff78a2b839ef890006991d35fabac8194abc41a4d485b00c0",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164511.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Rating a historical figure**\n\nThe user is asking me to rate Suzuki Zenkō, a Prime Minister of Japan from 1980-1982, on a 0-100 scale between introversion and extroversion. His name is 鈴木善幸, and he passed away in 2004, which means that discussing his personality is allowed. Known for being low-profile and a moderate, I can describe him as a consensus builder who was calm, steady, and not flamboyant, often described as a quiet politician. I'll provide relevant observations without false specifics."
+  },
+  {
+    "no": 45,
+    "score": 85,
+    "raw_response": "中曽根康弘は公の場での振る舞いが堂々としており、対外関係やマスメディアへの露出を重ねて強いリーダーシップとカリスマを示した人物です。外交での社交性や演説・パフォーマンス志向が目立ち、内向的というより外向的・社交的な印象が強いです。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 607,
+      "reasoning_tokens": 448,
+      "total_tokens": 741
+    },
+    "elapsed_seconds": 5.143,
+    "response_id": "resp_010306a0e3a411d3006991d35fe394819ca235fb0655632d36",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164511.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 46,
+    "score": 30,
+    "raw_response": "竹下登は表立った派手さや大衆的カリスマより、派閥調整や裏方での手腕で力を発揮した「影の実力者」的な印象があります。会合や交渉には積極的に関わる一方、記者向けのパフォーマンスや陽気なリーダー像はあまり強くなく、落ち着いた・控えめな人物像が強く伝わります。したがってこの軸では陰キャ寄りと判断しますが、あくまで公的な振る舞い・評伝に基づく推測です。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 659,
+      "reasoning_tokens": 448,
+      "total_tokens": 790
+    },
+    "elapsed_seconds": 6.104,
+    "response_id": "resp_08abe798358284a9006991d36034508193bbfedc2fa9329e52",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164512.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 47,
+    "score": 75,
+    "raw_response": "外交官・政治家として人前で振る舞うことが多く、メディア対応や華やかな私生活の逸話もあるため、公的イメージは比較的外向的・社交的。私生活の内向き側面があった可能性はあるが、全体として陽キャ寄りに見える。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 556,
+      "reasoning_tokens": 448,
+      "total_tokens": 689
+    },
+    "elapsed_seconds": 6.232,
+    "response_id": "resp_03d6ffb45e05385c006991d360880481a29c89042ee48f543a",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164512.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 48,
+    "score": 35,
+    "raw_response": "海部俊樹は穏やかで控えめ、争いを避けて合意形成を重んじる印象の政治家でした。公の場でも派手さはなく淡々とした物腰で、内向的・落ち着いた雰囲気が強い一方で、外交や地元との交流では親しみやすさも見せるため「極端な陰キャ」ではありません。\n\nスコア: 35",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 504,
+      "reasoning_tokens": 384,
+      "total_tokens": 637
+    },
+    "elapsed_seconds": 4.381,
+    "response_id": "resp_0ce426439e077060006991d36091a4819da4e00a1b25f6623e",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164512.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 49,
+    "score": 25,
+    "raw_response": "穏やかで学者肌、声や物腰が控えめで大衆迎合より政策や理路を重視するタイプの印象が強い。外交での社交はできるものの、全体としては内向的・落ち着いた人物像で、陽キャ寄りではないと評価します。\nスコア: 25",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 633,
+      "reasoning_tokens": 512,
+      "total_tokens": 766
+    },
+    "elapsed_seconds": 5.535,
+    "response_id": "resp_0ba8243569fa4a8c006991d360a1e88195b80af4ac8fd5b393",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164512.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 50,
+    "score": 30,
+    "raw_response": "細川護熙は公的場面でも落ち着いた物腰・穏やかな語り口が目立ち、退任後は書や絵画・文化活動に深く打ち込み「静的で熟考的」な印象が強い人物です。派手さや社交的なイメージより、内省的・芸術家肌の側面が表に出ることが多く、陽キャ寄りというよりは陰キャ寄りに評価されます。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 598,
+      "reasoning_tokens": 448,
+      "total_tokens": 731
+    },
+    "elapsed_seconds": 5.938,
+    "response_id": "resp_08a1c0e2d5cda03e006991d360b8888193a0f146e12a667574",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164512.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 51,
+    "score": 70,
+    "raw_response": "羽田孜は短期政権ながらも連立調整や折衝、公式行事での応対が多く、穏やかで人当たりの良い印象が強い。外交・政治の場での発信力や折衝力があり社交的な側面が目立つ一方、派手さはなく理性的・落ち着いた人物でもあったため、完全な「陽キャ」ではない。総合すると陽寄りの中程度。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 549,
+      "reasoning_tokens": 384,
+      "total_tokens": 681
+    },
+    "elapsed_seconds": 5.479,
+    "response_id": "resp_08169e660dd3b438006991d360c2788193b1912bb413f81b1e",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164512.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 52,
+    "score": 30,
+    "raw_response": "村山富市は穏やかで落ち着いた話し方、控えめで誇示性の低い物腰が印象的な政治家です。社交的で協調を重んじる一面はあるものの、派手さや自己主張の強さはあまり見られず、内向的・慎重な印象が強いです。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 671,
+      "reasoning_tokens": 512,
+      "total_tokens": 803
+    },
+    "elapsed_seconds": 5.996,
+    "response_id": "resp_0c48badaa91d7729006991d360cec4819681e5ddcd50b43303",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164512.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 53,
+    "score": 65,
+    "raw_response": "橋本龍太郎は強いリーダーシップと積極的な対外活動で存在感を示した政治家で、討論やメディア対応、党内外の調整において社交的・行動的だった。一方で厳格で真面目、ユーモアや軽い社交性はあまり前面に出さないため「陽キャ」の中でも落ち着いたタイプといえる。\n\nスコア: 65",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 563,
+      "reasoning_tokens": 448,
+      "total_tokens": 696
+    },
+    "elapsed_seconds": 4.724,
+    "response_id": "resp_013896532c757781006991d3613ffc8195955054912af2cecf",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164513.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 54,
+    "score": 70,
+    "raw_response": "小渕恵三は温和で親しみやすいイメージが強く、有権者や派閥との調整に長けた「和ませ役」的な側面があったため、社交的で人当たりの良い印象が強い一方、派手さや目立ちたがりなタイプではない落ち着いた人物像でもある。したがって完全な陽キャではないが、外向的で明るい雰囲気の方に寄る評価が妥当です。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 536,
+      "reasoning_tokens": 384,
+      "total_tokens": 670
+    },
+    "elapsed_seconds": 5.272,
+    "response_id": "resp_08802c76a3c6e629006991d361e3a8819793249baaea0a241d",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164513.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 55,
+    "score": 85,
+    "raw_response": "公の場での発言が多く、饒舌で場を仕切るタイプの印象が強いです。失言やユーモアで目立つこともあり、社交的で外向的なイメージがあるため、陽キャ寄りと評価します。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 131,
+      "cached_input_tokens": 0,
+      "output_tokens": 682,
+      "reasoning_tokens": 576,
+      "total_tokens": 813
+    },
+    "elapsed_seconds": 6.375,
+    "response_id": "resp_0bb2acca9a981b66006991d361f92481a19d11bbb127b5bc2c",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164514.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 56,
+    "score": 90,
+    "raw_response": "小泉純一郎は派手なパフォーマンスやメディア露出を厭わないカリスマ的なパブリックイメージが強く、演説や選挙活動での積極的なコミュニケーションが目立つため、明るく社交的な印象が強いです。個人的な趣味や一面での独特さはあるものの、全体としては外向的で「陽キャ」寄りと評価できます。\n\nスコア: 90",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 599,
+      "reasoning_tokens": 448,
+      "total_tokens": 732
+    },
+    "elapsed_seconds": 5.714,
+    "response_id": "resp_0643d0f4b959b0ff006991d361fd448197a84e8d2fa64af32c",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164514.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 57,
+    "score": 75,
+    "raw_response": "安倍晋三についての考察：\n公の場での発信力や選挙演説、外交での積極的な交流から、社交的で自己表現を厭わない「陽キャ」寄りの印象があります。一方で政策や政局では慎重で沈着な面もあり、完全な社交家一辺倒ではありません。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 550,
+      "reasoning_tokens": 448,
+      "total_tokens": 682
+    },
+    "elapsed_seconds": 4.474,
+    "response_id": "resp_0cf6af03d782c70b006991d3628bb4819e8c0c6c9ed61919ce",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164514.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 58,
+    "score": 25,
+    "raw_response": "福田康夫は穏やかで控えめ、目立つ演説や強烈なカリスマ性よりも調整と合意形成を重んじる印象が強いです。公の場でも落ち着いた低めのトーンで話すことが多く、「おとなしい」「内向的」と評されることが多いので、陰キャ寄りと評価します。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 467,
+      "reasoning_tokens": 320,
+      "total_tokens": 599
+    },
+    "elapsed_seconds": 4.566,
+    "response_id": "resp_06711ce8a6e5dea6006991d362f80c8197b110aa9bc54d5765",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164514.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 59,
+    "score": 85,
+    "raw_response": "考察：麻生太郎氏は公の場での発言が率直でユーモアを交えたコミュニケーションが多く、演説や記者対応でも目立つ存在感を示すことが多い。社交的で人前に立つのを苦にしない印象が強く、陽キャ寄りのパブリックイメージがある。ただし時に一匹狼的・ドライな一面も見せるため、完全な陽キャとは言い切れない。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 481,
+      "reasoning_tokens": 320,
+      "total_tokens": 613
+    },
+    "elapsed_seconds": 4.879,
+    "response_id": "resp_00c4970b6bfc7f16006991d36465188194bea454d9caf24672",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164516.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 60,
+    "score": 75,
+    "raw_response": "鳩山由紀夫はメディア慣れしており、演説や会見でユーモアや感情を表に出すことが多く、人当たりも良い印象があります。派手さや親しみやすさを前面に出すタイプで、支持者との対話やパフォーマンス志向の側面が強いので、陰キャ寄りというより陽キャ寄りと言えます。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 456,
+      "reasoning_tokens": 320,
+      "total_tokens": 590
+    },
+    "elapsed_seconds": 4.158,
+    "response_id": "resp_09394d7fd6292dcf006991d3648e648196ad7d34790795f6db",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164516.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 61,
+    "score": 35,
+    "raw_response": "菅直人は政策志向で真面目・熱血な実務家という印象が強く、国会での厳しい追及や論争的な発言が目立つ一方で、派手な社交性や陽気さはあまり感じられません。活動的ではあるが社交的なムードメーカータイプではなく、どちらかといえば内向寄りの実直な人物像です。\nスコア: 35",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 652,
+      "reasoning_tokens": 512,
+      "total_tokens": 784
+    },
+    "elapsed_seconds": 5.272,
+    "response_id": "resp_0d1ca4c945213b42006991d364f334819dad25ae412e8e0315",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164516.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 62,
+    "score": 35,
+    "raw_response": "全体として政策重視で控えめ、派手さやカリスマ性は少なめ。公務や選挙での対応はしっかりしているが、私生活や素の場面での社交性を前面に出すタイプではない印象。よってやや陰キャ寄りの評価。\n\nスコア: 35",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 446,
+      "reasoning_tokens": 320,
+      "total_tokens": 578
+    },
+    "elapsed_seconds": 4.104,
+    "response_id": "resp_093e250c62312409006991d36508e881a1baac6a983d7de0bb",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164517.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 63,
+    "score": 30,
+    "raw_response": "菅義偉は長年の官僚的・実務志向の経歴と、官房長官時代の寡黙で淡々とした会見ぶりから「内向的・落ち着いた」印象が強い。派手な社交性やカリスマ性はあまり見られず、職務優先で個人的な明るさを前面に出すタイプではない一方、政治家としての対外折衝や記者対応は的確で、完全な陰キャとも言えない。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 810,
+      "reasoning_tokens": 640,
+      "total_tokens": 943
+    },
+    "elapsed_seconds": 6.806,
+    "response_id": "resp_0e6c498c5f6835ec006991d3652f1c8194b0c73dae0a12c384",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164517.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 64,
+    "score": 35,
+    "raw_response": "岸田文雄さんについて（公の場での印象に基づく簡潔な考察）：\n落ち着いて丁寧、慎重な受け答えが多く、派手さや強いリーダーシップを前面に出すタイプではありません。外交や会見では礼儀正しく社交的な場面もある一方で、全体的には控えめで内向的な印象が強いです。\n\nスコア: 35",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 687,
+      "reasoning_tokens": 512,
+      "total_tokens": 819
+    },
+    "elapsed_seconds": 5.805,
+    "response_id": "resp_0f4df9f0be1c8ed0006991d3659a2081a38014626ca90e0b0b",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164517.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  }
+]

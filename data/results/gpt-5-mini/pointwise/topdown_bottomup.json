@@ -1,0 +1,1154 @@
+[
+  {
+    "no": 1,
+    "score": 10,
+    "raw_response": "伊藤博文は明治期の元勲として近代日本の制度設計（内閣制度、帝国憲法の制定、官僚中央集権化）を主導した人物で、エリート主導で国家を上から作り上げる手法を取った名目上の「憲政」導入も実務的には強いトップダウン色が強い。一方で政党や議会との折衝や妥協も行う現実主義者ではあったが、基本的には中央官僚と元老による統治を重視した。簡潔に言えば「上からの統制・制度設計が中心」のリーダータイプ。\n\nスコア: 10",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 572,
+      "reasoning_tokens": 384,
+      "total_tokens": 706
+    },
+    "elapsed_seconds": 5.526,
+    "response_id": "resp_087adb9c7ec61a77006991d3db939481a3b929f915bc52d59f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 2,
+    "score": 15,
+    "raw_response": "黒田清隆は薩摩出身の元士族・官僚で、開拓使長官として北海道開発を主導するなど中央からの指導で政策を推進した人物です。開拓使官有物払下げ事件など中央主導・トップダウン的な決定が目立ち、元老や官僚グループ中心の政治慣行に馴染んでいたため、合意形成を重視するボトムアップ型とは言い難いです。以上を踏まえ、トップダウン寄りと評価します。\n\nスコア: 15",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 1052,
+      "reasoning_tokens": 896,
+      "total_tokens": 1186
+    },
+    "elapsed_seconds": 9.42,
+    "response_id": "resp_0432b7c8756890a6006991d3db9418819f87bccca1ba5c924c",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 3,
+    "score": 5,
+    "raw_response": "山県有朋は明治期の元帥であり薩長藩閥中心の官僚・軍事エリートとして実権を握った「元老」の一人です。近代陸軍整備・徴兵制導入や強権的な行政・軍事統制を推進し、政党政治や下からの合意形成を軽視して上から政策を押し付ける統治スタイルをとりました。官僚・軍人ネットワークを通じた統制と私的な力関係で支配したため、ボトムアップ型とは言い難いです。\n\nスコア: 5",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 582,
+      "reasoning_tokens": 384,
+      "total_tokens": 716
+    },
+    "elapsed_seconds": 5.371,
+    "response_id": "resp_066bf6ef58f7c7c3006991d3db92d0819dad1bbd27f257c437",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 4,
+    "score": 15,
+    "raw_response": "松方正義は財政再建（いわゆる「松方デフレ」）を押し進めた強力な財政官僚で、藩閥・元老中心の意思決定を重視した非党系の指導者でした。大局的・上意下達で物事を進め、政党や草の根の合意形成よりも中央官僚と元老の合意で政策を決める傾向が強く、トップダウン寄りのリーダー像です（ただし元老間での協議は行うものの、幅広いボトムアップ参加は限定的）。  \nスコア: 15",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 699,
+      "reasoning_tokens": 512,
+      "total_tokens": 833
+    },
+    "elapsed_seconds": 7.422,
+    "response_id": "resp_0b0032ed4eeb87ff006991d3db93548194b55fee0a0b922d77",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Drafting a concise summary**\n\nI’ll begin with a brief line: \"松方正義は...\" to introduce Matsukata. Next, I’ll discuss his role in deflation as Finance Minister, his centralized fiscal policy, and how he operated within non-party cabinets. I’ll touch on the bureaucratic and oligarchic leadership styles he endorsed, emphasizing his prioritization of discipline over consensus with lower-level stakeholders. Finally, I'll wrap things up with a conclusion score, ensuring that the entire piece remains concise."
+  },
+  {
+    "no": 5,
+    "score": 80,
+    "raw_response": "大隈重信は政党結成と議会中心の政治を重視し、党派と世論を基盤に合意形成を図るタイプでした。内閣運営でも政党の支持や連携を頼りに調整・妥協を重ねることが多く、上から強権的に押し切るより下からの支持を積み上げる政治家と評価できます。ただし老獪な指導力や明確な政策主張で主導する面もあり、純粋なボトムアップ一辺倒ではありません。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 734,
+      "reasoning_tokens": 576,
+      "total_tokens": 869
+    },
+    "elapsed_seconds": 7.134,
+    "response_id": "resp_098e78208e9aad11006991d3db93888194af6e3d3c39195d9d",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Crafting a Political Analysis**\n\nI want to provide a concise analysis of the founding parties and their approach to politics, focusing on Waseda and the emphasis on consensus building and coalition reliance in the Diet. It seems important to mention party cabinet roles and the balance between strong policy stances and centralized decisions. I’ll keep it short, with 3-4 sentences and end with the necessary score mention. It should say \"スコア: 80\" while reflecting the top-down or bottom-up preferences. Let’s produce that!"
+  },
+  {
+    "no": 6,
+    "score": 10,
+    "raw_response": "桂太郎について（簡潔な考察）\n軍人出身で元老（元勲）として政府の上層部や軍部と強く結びつき、政党や議会の合意よりも官僚・元老主導で政策決定を行うことが多かった。1912年の桂内閣は下院の反発を無視して組閣し、これが大衆的・議会的反発（いわゆる「桂内閣の危機」）を招いた点からも、トップダウン寄りの統治スタイルが鮮明である。ただし元老間の調整や妥協も行ってはいたため完全な一方的統治というわけではない。\n\nスコア: 10",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 722,
+      "reasoning_tokens": 512,
+      "total_tokens": 855
+    },
+    "elapsed_seconds": 6.32,
+    "response_id": "resp_0ebd50f1207df6b3006991d3db924481a187fd8aca9c004631",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 7,
+    "score": 85,
+    "raw_response": "西園寺公望は妥協と合意形成を重視した穏健な政治家で、立憲政治や政党との協働を通じて政策を進めることを旨としました。元老としての影響力はあったものの、基本的には議会や党派との調整で政治を組み立てる「ボトムアップ」志向が強いです。一方で裏面での調停や個人的影響力行使も見られ、完全に下からだけではありません。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 677,
+      "reasoning_tokens": 512,
+      "total_tokens": 812
+    },
+    "elapsed_seconds": 8.859,
+    "response_id": "resp_0a86c3b179ba31a8006991d3db93c881a28465ab7840a8044f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Writing scoring instructions**\n\nAlright, I need to write a few sentences and then wrap up with \"スコア: 85\". I want to clearly state, \"トップダウン寄りなら0点、ボトムアップ寄りなら100点として数字で回答してください.\" This will help clarify the scoring method for the user. After that, I'll make sure to provide the score clearly at the end. It feels good to get this organized!"
+  },
+  {
+    "no": 8,
+    "score": 20,
+    "raw_response": "山本権兵衛は海軍出身で官僚・軍部との人脈に依拠した指導者タイプ。政党基盤を持たず非党内閣を組織することが多く、政策決定は上からの指示や調整に頼る傾向が強かった。草の根的な合意形成や党派間のボトムアップ型調整はあまり得意ではない。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 1039,
+      "reasoning_tokens": 896,
+      "total_tokens": 1175
+    },
+    "elapsed_seconds": 9.375,
+    "response_id": "resp_01e4d22775117996006991d3db93d481a2899d4187f54f0346",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 9,
+    "score": 8,
+    "raw_response": "寺内正毅は陸軍出身の元将軍で、政党政治より軍・官僚中心の統治を志向した人物です。1916–18年の内閣は軍・官僚路線での強い上意下達型運営が特徴で、合意形成や党派的なボトムアップよりもトップダウンで政策を推進しました（米騒動・政変への対応でも市民の声を取り込む柔軟さに欠けた面があります）。\n\nスコア: 8",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 536,
+      "reasoning_tokens": 384,
+      "total_tokens": 670
+    },
+    "elapsed_seconds": 6.792,
+    "response_id": "resp_0984f6f52d0185b3006991d3db9318819c8b144be43dc8429c",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Evaluating military leadership score**\n\nI’m considering a score of maybe 10 or 5. He was a military leader, but not extremely autocratic compared to later PMs. So, I think I'll choose a low score of 8 since he was top-down but not absolute. My reasoning includes his background as a general, being appointed by the genrō, relying on military and bureaucrats, and his limited cooperation with political parties. He resigned after public unrest over rice riots, showing his detachment.  \nスコア: 8"
+  },
+  {
+    "no": 10,
+    "score": 80,
+    "raw_response": "原敬は立憲政友会を基盤に議会（党）・地方組織を重視して政党内閣を確立し、合意形成と組織動員で政策実行を図った点でボトムアップ寄りです。一方で党の結束や人事・縁故を使った統制力も強く、完全に非トップダウンというわけではありません。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 132,
+      "cached_input_tokens": 0,
+      "output_tokens": 725,
+      "reasoning_tokens": 576,
+      "total_tokens": 857
+    },
+    "elapsed_seconds": 7.369,
+    "response_id": "resp_04065840b84b8596006991d3db945c8192b15dfdae04c54954",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 11,
+    "score": 15,
+    "raw_response": "高橋是清は官僚出身の財政・金融の実務家で、世界恐慌期には金本位制離脱・金融緩和・財政出動などを強力に推し進めた決断力が目立ちます。政党政治や下部の合意形成よりも専門的判断と上からの主導で政策を実行する傾向が強く、軍や政党との摩擦も辞さない態度だったため、トップダウン寄りと評価できます。\n\nスコア: 15",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 698,
+      "reasoning_tokens": 512,
+      "total_tokens": 832
+    },
+    "elapsed_seconds": 6.313,
+    "response_id": "resp_024e689b6e4f1207006991d3db991481928d8b86e32831d636",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 12,
+    "score": 30,
+    "raw_response": "海軍出身の軍人・外交官で、官僚的・階層的な意思決定に慣れたタイプです。首相就任時は政党勢力との妥協で非党内閣を組成し、党派との協調や実務的合意形成も重視しましたが、元来の軍出身という性格から強い上意下達の傾向が色濃く出る場面が多かったため、完全なボトムアップ寄りとは言えません。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 932,
+      "reasoning_tokens": 768,
+      "total_tokens": 1067
+    },
+    "elapsed_seconds": 9.026,
+    "response_id": "resp_09a06756425fac63006991d3db9484819da572173c463042fc",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 13,
+    "score": 10,
+    "raw_response": "清浦奎吾は貴族院・元老寄りの非党内閣を組織し、政党多数の衆議院を無視して皇室・枢密院・官僚層に頼る形で政権を運営しました。政党や下からの合意形成を重視せず、短期で退陣に追い込まれたことから、スタイルは明確にトップダウン寄りです。\n\nスコア: 10",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 554,
+      "reasoning_tokens": 384,
+      "total_tokens": 689
+    },
+    "elapsed_seconds": 5.354,
+    "response_id": "resp_0ed8eee22aeef73c006991d3db94b88193b1c03aa2cf3421ce",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 14,
+    "score": 75,
+    "raw_response": "加藤高明は憲政会（のちの立憲政友会とは別）の党人として1924年に政党内閣を率い、議会と党組織による合意形成を重視して普通選挙（1925年）を実現するなど「下からの政治」を促進した。一方で治安維持法（1925年）を成立させるなど秩序維持のため強権的措置も採ったため、完全なボトムアップ型ではない。総じて議会中心・合意志向だが必要時に上からの統制も行う折衷型と評価できる。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 837,
+      "reasoning_tokens": 640,
+      "total_tokens": 971
+    },
+    "elapsed_seconds": 7.917,
+    "response_id": "resp_036c38642a92a28c006991d3db93fc81a38d65bd39c0e1c85f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 15,
+    "score": 80,
+    "raw_response": "若槻礼次郎は官僚出身で政党政治を重視した穏健な宰相で、党内外の合意形成と妥協で政権を維持しようとしました。強権で上から押し切るタイプではなく、内閣運営や予算・人事でも議会や派閥との調整を優先し、軍部や政治勢力との折衝に追われて退陣する場面もありました。以上から、トップダウンよりボトムアップ寄りの評価が妥当です。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 851,
+      "reasoning_tokens": 640,
+      "total_tokens": 987
+    },
+    "elapsed_seconds": 7.178,
+    "response_id": "resp_0dc69466b24b18fe006991d3db94cc81a3ab227300527d1758",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 16,
+    "score": 15,
+    "raw_response": "田中義一は陸軍出身で軍・官僚路線を重視し、外交・治安問題で軍事力や行政判断を優先して政策を進めるタイプでした。政党や幅広い合意形成を重視するより、指導層からの決定で物事を動かす傾向が強く、トップダウン寄りのリーダーシップが顕著です。\n\nスコア: 15",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 1074,
+      "reasoning_tokens": 960,
+      "total_tokens": 1208
+    },
+    "elapsed_seconds": 9.21,
+    "response_id": "resp_02c0e5bcc6037fc1006991d3db927081a0ac4a512e1d7b55a5",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 17,
+    "score": 75,
+    "raw_response": "浜口雄幸は政党出身で、立憲政友会と民政党時代の党内調整や議会合意を重視して政権運営を行った「政党内閣」的なリーダーであり、対立を避けて妥協や協調で政策を進める傾向が強かった。一方で、世界恐慌下での財政緊縮など強い政策決断も行い得たため、完全なボトムアップ一辺倒ではない点もある。総じては合意形成寄りの政治家と評価できる。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 752,
+      "reasoning_tokens": 576,
+      "total_tokens": 886
+    },
+    "elapsed_seconds": 7.839,
+    "response_id": "resp_00844f0aad1470e0006991d3db8f8c819694d7271ee0b547b5",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 18,
+    "score": 85,
+    "raw_response": "犬養毅は立憲政友会の党人で、政党政治と議会中心の統治を重視し、合意形成や党内外の調整を重視した政治家でした。首相在任中も「政党内閣」の理念を体現しようとし、軍部の暴走に強権で抑え込むタイプではなく妥協・協議を通じて政治を進めようとしたため、上から一方的に引っ張るトップダウン型よりはボトムアップ寄りと評価できます（ただし軍部に対しては弱さを指摘されることが多く、必ずしも理想的な合意形成が常にできていたわけではありません）。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 622,
+      "reasoning_tokens": 384,
+      "total_tokens": 755
+    },
+    "elapsed_seconds": 6.506,
+    "response_id": "resp_09336c360596b4e0006991d3db947c81a0b277f17d4a0161a0",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Evaluating Inukai Tsuyoshi**\n\nThe user wants an evaluation of Inukai Tsuyoshi, a historical PM from 1931-1932. I need to assess his leadership style along a top-down vs. bottom-up spectrum. He was part of the Rikken Seiyūkai party, promoted party politics, and resisted military influence, marking a more bottom-up approach. His premiership aimed for civilian governance, but he faced challenges, including assassination during the May 15 Incident. I’ll assign a score reflecting this, likely leaning closer to the bottom-up end. \n\nScore: 70."
+  },
+  {
+    "no": 19,
+    "score": 15,
+    "raw_response": "斎藤実は海軍大将・朝鮮総督という軍事官僚出身で、1932年の政治危機の中で元老や天皇の判断で迎えられた「非常時の収拾役」的な首相でした。政党や下からの合意形成よりも官僚・軍部と上からの命令系統による統制で政務を進め、治安維持や秩序回復を優先したため、トップダウン色が強いと言えます。ただし派手な独裁的手法ではなくエリート間の合意で政治を回した側面もあるため、完全に極端ではありません。\n\nスコア: 15",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 814,
+      "reasoning_tokens": 640,
+      "total_tokens": 948
+    },
+    "elapsed_seconds": 7.284,
+    "response_id": "resp_076a7d093f0fde9e006991d3db901c8193bd3e9de723646dc0",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 20,
+    "score": 75,
+    "raw_response": "岡田啓介は海軍出身の穏健な官僚政治家で、軍部の暴走を抑え外交的合意（条約順守など）を重視した。首相在任中も党派・官僚との調整や妥協で政治を運営し、強権で上から押し切るタイプではなく合意形成志向だった。ただし草の根的な参加型ボトムアップではなく上層での協議依存が強かった点は考慮する必要がある。  \nスコア: 75",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 950,
+      "reasoning_tokens": 768,
+      "total_tokens": 1085
+    },
+    "elapsed_seconds": 7.933,
+    "response_id": "resp_03e79ec44fdc7b13006991d3db90b08196937ea2cfd1caa593",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164635.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 21,
+    "score": 75,
+    "raw_response": "広田弘毅は外交官・外相経験のある実務家で、党派や官僚の合意形成や手続きを重視するタイプでした。軍部の台頭期に首相として強権で上から押し切る力を持たず、妥協や調停で安定を図ろうとしたため、トップダウン寄りというよりボトムアップ寄りの性格が強いと評価できます。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 809,
+      "reasoning_tokens": 640,
+      "total_tokens": 943
+    },
+    "elapsed_seconds": 7.853,
+    "response_id": "resp_014b8c17bd1b16cd006991d3e0d0d08195aad45bb3bf37872f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164640.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 22,
+    "score": 20,
+    "raw_response": "軍人出身で階級的・命令型の組織経験が強く、意思決定は上位から指示して進める傾向が強い。一方で首相在任は短期間で政党や元老・軍部との調整に追われ、自ら下支え型の合意形成をこなした面もある。総じてトップダウン寄りと評価します。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 805,
+      "reasoning_tokens": 640,
+      "total_tokens": 940
+    },
+    "elapsed_seconds": 7.714,
+    "response_id": "resp_086257dc18122e78006991d3e0d20c819d80d9c399a0bd60e2",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164640.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 23,
+    "score": 25,
+    "raw_response": "近衛文麿は貴族出身のエリート政治家で、国家動員と統制を上から進める傾向が強かった（1940年の大政翼賛会結成など）。一方で軍部や党派との妥協や合意形成に依存し、自らの強権で物事を押し切るタイプではなく、上からの統制を目指しつつも実際は調整と迎合を繰り返した指導者でした。総じて「上からまとめる」色が強いと評価します。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 774,
+      "reasoning_tokens": 576,
+      "total_tokens": 909
+    },
+    "elapsed_seconds": 7.707,
+    "response_id": "resp_0c49d86be542a2ef006991d3e0d0608197b81aab9dc8632b3c",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164640.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 24,
+    "score": 10,
+    "raw_response": "平沼騏一郎は法曹出身で1939年に非党系・官僚・軍部寄りの内閣を組織し、政党政治や左派勢力を抑え国家主義的・統制的な運営を志向した。合意形成や草の根からの積み上げというより上意下達で国家意志を貫こうとする傾向が強く、軍部や官僚機構を重視して指導力を発揮しようとしたが、その独断的傾向が内閣の短命にもつながった。したがってトップダウン寄りの評価が妥当です。 \nスコア: 10",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 692,
+      "reasoning_tokens": 512,
+      "total_tokens": 829
+    },
+    "elapsed_seconds": 6.32,
+    "response_id": "resp_00d8014d275e74b3006991d3e1c7d481969dd0c4923d89b207",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164641.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 25,
+    "score": 10,
+    "raw_response": "阿部信行は陸軍出身の軍人・官僚的な背景を持ち、1939–40年の内閣では軍部や官僚主導の統治が中心だったため、政策決定は上意下達型になりやすかった。派閥や大衆からの合意形成よりも軍・政府上層の論理で物事を進める傾向が強く、ボトムアップ的なリーダーシップはほとんど見られない。\n\nスコア: 10",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 803,
+      "reasoning_tokens": 640,
+      "total_tokens": 937
+    },
+    "elapsed_seconds": 7.359,
+    "response_id": "resp_0b90a460aef0feba006991d3e1c80c819d8e6a9675c719a5b9",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164641.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 26,
+    "score": 80,
+    "raw_response": "考察: 海軍出身で指導力はあるが、首相在任（1940年）は軍部と政党の対立が強く、強引に上から押し切るより合意と調整で問題を収めようとした。対外・内政とも穏健で妥協を重んじ、軍部過半を制する力が乏しかったためトップダウンというより合意形成型のリーダーだった。よってボトムアップ寄りの評価が妥当。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 543,
+      "reasoning_tokens": 384,
+      "total_tokens": 677
+    },
+    "elapsed_seconds": 5.013,
+    "response_id": "resp_05374f6d4002a3e2006991d3e1f9a88190b4a169fe06abe49b",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164641.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 27,
+    "score": 5,
+    "raw_response": "東條英機は軍人出身で首相在任中は内閣の最高権力者として戦争遂行と国家総動員を強力に指導、内務・警察機構を通じて言論・政党を抑圧し、上からの命令で政策を推進する手法をとった。軍上層部や皇室との調整は行ったが、国民や下位官僚の合意形成を重視するボトムアップ型ではなく、中央集権的・命令型の統制を強めた指導スタイルであった。\n\nスコア: 5",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 652,
+      "reasoning_tokens": 448,
+      "total_tokens": 786
+    },
+    "elapsed_seconds": 6.35,
+    "response_id": "resp_0ec9c46f9d537b52006991d3e242ac81a188cc7304c930dae8",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164642.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "I'm thinking about how to provide supporting points related to roles held, actions, and wartime mobilization, while also addressing the issue of suppression and the lack of grassroots consensus. It’s important to present this clearly and concisely, wrapping everything up with a score at the end. I want to ensure the final line reads exactly \"スコア: 5\" to meet the requirements. Okay, let's go ahead.  \nスコア: 5"
+  },
+  {
+    "no": 28,
+    "score": 20,
+    "raw_response": "小磯国昭は陸軍のキャリア官僚・軍人出身で、朝鮮総督（1942–44）を務めるなど中央から命令を下して統治する立場で活動してきました。首相就任（1944–45）も軍部と天皇の支持による「妥協的」指名で、政党基盤が弱く、合意形成によるボトムアップ型ではなく、軍・官僚機構の枠内で上意下達的に政策を実行する性格が強かったと言えます。強烈なカリスマで一方的に引っ張ったタイプ（東條英機のような強権型）ほどではないが、全体としてはトップダウン寄りの指導様式が目立ちます。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 911,
+      "reasoning_tokens": 704,
+      "total_tokens": 1046
+    },
+    "elapsed_seconds": 9.159,
+    "response_id": "resp_06a433fab0af60f3006991d3e29664819785a2cea2dfc9651f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164642.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Crafting the response**\n\nThe user asked me to include a score ranging from 0 to 100, depending on whether the analysis is top-down or bottom-up. I plan to provide a brief explanation followed by the final line with the score, such as \"スコア: 20.\" I'll focus on crafting 3 to 4 sentences for the analysis to make sure it’s clear and insightful. Let's ensure it communicates the intended message effectively while keeping the score format in mind!"
+  },
+  {
+    "no": 29,
+    "score": 70,
+    "raw_response": "鈴木貫太郎は高齢の海軍出身で権威はあったが、終戦直前の混乱期に首相として就任した際は個人的な強権で押し切るより内閣・軍部・宮中との調整や合意形成を重視し、穏健な調停者として振る舞った。命令型のトップダウンというよりは各勢力の折衝と合意によって物事を進めるタイプだったため、ボトムアップ寄りと評価できます。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 927,
+      "reasoning_tokens": 768,
+      "total_tokens": 1064
+    },
+    "elapsed_seconds": 12.689,
+    "response_id": "resp_0c50ef6a53d50a2b006991d3e2a3f881958da1677a1560434f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164642.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Evaluating leadership style**\n\nI'm placing this person towards the bottom-up approach because of his focus on consensus. However, given his military background, he also has some top-down influences. I think a score of about 65-70 fits him well. He worked to create a broad coalition, emphasizing collective decision-making, and promoted the emperor's will. Although he was an admiral used to command, he favored moral authority over forceful leadership. \n\nHere’s the final evaluation in Japanese:  \n高齢の海軍大将で、終戦前の混乱期に首相に就任。個人的な権威で纏めるより、内閣・陸海軍・宮中との調整や合意形成を重視し、穏健な調停者的な性格。強引なトップダウンで政策を押し切るタイプではなく、合意と調整に頼ったため、ボトムアップ寄りと評価する。  \nスコア: 70"
+  },
+  {
+    "no": 30,
+    "score": 12,
+    "raw_response": "東久邇宮稔彦王は1945年の敗戦直後に皇族・元軍人として首相に起用され、帝室や軍の権威に依拠して政務を行おうとした人物です。政党基盤や市民合意の形成には経験が乏しく、指導は上位からの指示型であり「下から積み上げる」スタイルではありませんでした。短期政権で連合国（GHQ）の制約も強く実行力は限定されたものの、志向性としては明確にトップダウン寄りです。\n\nスコア: 12",
+    "usage": {
+      "input_tokens": 139,
+      "cached_input_tokens": 0,
+      "output_tokens": 768,
+      "reasoning_tokens": 576,
+      "total_tokens": 907
+    },
+    "elapsed_seconds": 6.525,
+    "response_id": "resp_024665742c2579fc006991d3e2c34c81938eca35a887977f47",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164642.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 31,
+    "score": 90,
+    "raw_response": "幣原喜重郎は外交官出身で、妥協と合意形成を重視する穏健な実務家でした。戦後の内閣（1945–46年）は連合国占領下で強権的に指示を出せる立場になく、政治的・官僚的調整や説明を通じて改革を進めようとしたため、トップダウンというよりはボトムアップ志向が色濃く出ています。軍事力や強引な指導ではなく、交渉・説得を通じた政策遂行を好んだ点で、合意形成型のリーダー像に当てはまります。\n\nスコア: 90",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 589,
+      "reasoning_tokens": 384,
+      "total_tokens": 725
+    },
+    "elapsed_seconds": 5.189,
+    "response_id": "resp_00e54966d09be1d7006991d3e2d508819c8cc80b306e03c19b",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164642.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 32,
+    "score": 15,
+    "raw_response": "吉田茂は戦後日本の復興と対米関係を主導した強力な政治家で、政策決定は個人の判断と官僚機構・党上層部を通じて上から進めることが多かった。党内調整や妥協も行ったが、基本的にはトップダウンで路線を押し切るタイプです。\n\nスコア: 15",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 575,
+      "reasoning_tokens": 448,
+      "total_tokens": 709
+    },
+    "elapsed_seconds": 5.148,
+    "response_id": "resp_07b2486e9f665358006991d3e2dd7481a383743275c2fa5b56",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164642.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 33,
+    "score": 80,
+    "raw_response": "片山哲は社会党出身で労働運動・党内民主主義を重視し、戦後の連立政権を調整して合意形成で政策を進めようとしたため、上から一方的に引く強権型というよりは協議と妥協を重視するタイプでした。逆に派閥的な統率力やワンマン決断力に乏しく、連立内の調整力不足で辞任に至った面もあるため、完全なボトムアップというより合意重視の調整型に位置づけられます。  \nスコア: 80",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 686,
+      "reasoning_tokens": 512,
+      "total_tokens": 819
+    },
+    "elapsed_seconds": 6.112,
+    "response_id": "resp_0d94bc9205dcc2ae006991d3e34e90819c81a27ff406e1d001",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164643.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 34,
+    "score": 75,
+    "raw_response": "芦田均は法学出身の穏健な実務家で、戦後の不安定な政局の中で複数政党との連立や党内外の合意形成に頼って政権運営を行った。強引に上から方針を押し付けるタイプではなく、議会と党派間の調整、官僚や党組織との折衝による漸進的な政策実行を志向しており、トップダウンよりむしろボトムアップ寄りの性格が強い。ただし短期政権で指導力を強く示す機会が乏しく、完全な草の根型ではないため「ややボトムアップ」評価が妥当と考えられる。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 894,
+      "reasoning_tokens": 640,
+      "total_tokens": 1028
+    },
+    "elapsed_seconds": 7.835,
+    "response_id": "resp_0fba07f512f8493d006991d3e361348190a7c4d3291f0f13e6",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164643.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 35,
+    "score": 70,
+    "raw_response": "鳩山一郎は「保守合同」（1955年）で派閥・旧勢力を取りまとめて自由民主党の基盤を作るなど、対立を和らげ合意形成で安定を図った政治家です。家柄と個人の影響力は強かったものの、派閥や地域組織を重視して票と支持基盤を積み上げる政治スタイルで、中央から一方的に指示を押し付けるトップダウン型というより合意と妥協を通じたボトムアップ寄りのリーダーでした。一方で個人的なカリスマや決断で舵を取る場面もあり、完全なボトムアップ一辺倒ではありません。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 676,
+      "reasoning_tokens": 448,
+      "total_tokens": 811
+    },
+    "elapsed_seconds": 7.454,
+    "response_id": "resp_018c4cc6a1c26818006991d3e366d0819c8580967b1993abc3",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164643.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Summarizing party dynamics**\n\nI'm thinking about the origins of the LDP founded in 1955 and how it relied on coalition-building while emphasizing consensus. There’s also the influence of various factions and a strong electoral base. However, I can't overlook the top-down elements like personal prestige and cabinet-driven policies. Overall, I’d rate it a score of 70. Now, I just need to keep things concise and produce the final output!"
+  },
+  {
+    "no": 36,
+    "score": 80,
+    "raw_response": "石橋湛山は学識と節制を重んじる穏健な政治家で、強権で押し切るタイプではなく合意形成と道理で周囲を説得することを好んだ人物です。短期内閣で派閥や官僚を強力に掌握できず、妥協と調整で政策を進めようとした点や、自らの倫理観に基づく説明重視の姿勢から、ボトムアップ寄りと評価できます。健康問題や党内基盤の弱さで強権的リーダーシップを発揮できなかった側面もありますが、基本的なスタイルは合意志向でした。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 819,
+      "reasoning_tokens": 640,
+      "total_tokens": 954
+    },
+    "elapsed_seconds": 6.703,
+    "response_id": "resp_0367723c807bec3a006991d3e4545c81968a3d7e97bc0e11be",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164644.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 37,
+    "score": 10,
+    "raw_response": "岸信介は戦前・戦中の官僚出身で、政権でも政策決定を強力に主導した「上からの押し付け」型のリーダーです。日米安全保障条約改定（1960年・安保闘争）を強行した手法や警察・官僚機構を活用した統制志向が顕著で、合意形成より政策実行を優先しました。一方で自民党内の派閥運営や党内調整で一定の妥協や取引は行っており、まったくの独裁的ではなかった点を考慮しています。\n\nスコア: 10",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 519,
+      "reasoning_tokens": 320,
+      "total_tokens": 652
+    },
+    "elapsed_seconds": 4.439,
+    "response_id": "resp_0d754d0aec0f0fb6006991d3e47f1881a19bd5007d3e88a638",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164644.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 38,
+    "score": 25,
+    "raw_response": "池田勇人は「所得倍増計画」を掲げて国家目標を明確に打ち出し、官僚や与党内の調整を通じて政策を機動的に実行した点でトップダウン色が強い。一方で与党内の合意形成や大衆向けの説明・支持獲得にも配慮する現実主義者でもあり、完全な独断型ではないため極端な低得点にはしない評価です。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 602,
+      "reasoning_tokens": 448,
+      "total_tokens": 736
+    },
+    "elapsed_seconds": 6.001,
+    "response_id": "resp_0ef2767006c8184d006991d3e4af0c8192b1a49141679001ab",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164644.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 39,
+    "score": 65,
+    "raw_response": "佐藤栄作は派閥調整や官僚・自民党内の合意形成に長け、静かな調整力で政策を積み上げていく「事なかれではないが目立たない合意型」リーダーでした。一方で沖縄返還交渉など重要外交では決断力を発揮し、必要なら上から主導する場面もあったため、完全なボトムアップ型ではありません。総じて「合意重視の調整型寄りだが場面によってはトップダウンも行う」評価です。\n\nスコア: 65",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 1001,
+      "reasoning_tokens": 832,
+      "total_tokens": 1136
+    },
+    "elapsed_seconds": 8.297,
+    "response_id": "resp_00da3beb427680ea006991d3e4d3c48193b43c398cf08b2f76",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164644.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 40,
+    "score": 15,
+    "raw_response": "田中角栄は強烈なカリスマと決断力で党内外を引っ張り、政策も「日本列島改造論」などトップダウンで推進したタイプです。官邸・派閥運営では個人支配的で、官僚や閣僚を動かして短期間で成果を出す手法をとりました。一方で、地方の後援会（個人支持組織）や地盤を重視する票固めの手法はボトム側の要素でもありますが、全体としては上からの指導力が勝っていたと評価できます。\n\nスコア: 15",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 594,
+      "reasoning_tokens": 384,
+      "total_tokens": 729
+    },
+    "elapsed_seconds": 4.821,
+    "response_id": "resp_052a69860f76f633006991d3e4dd8881a3a4f27fd99a5b5d72",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164644.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 41,
+    "score": 70,
+    "raw_response": "三木武夫は「クリーン政治」「政治改革」を掲げて派閥政治や腐敗追及に取り組んだが、党内基盤は強くなく強権的に押し切る力は限定的だった。道徳的・調停的なリーダーシップで国民や党内合意を重視する姿勢が強く、上からの一方的な指導よりも合意形成・積み上げを志向したため、トップダウン寄りではなくボトムアップ寄りの評価が妥当です。  \nスコア: 70",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 890,
+      "reasoning_tokens": 704,
+      "total_tokens": 1024
+    },
+    "elapsed_seconds": 9.07,
+    "response_id": "resp_08ea806a80587717006991d3e6f8ec81968ccf0c4b207de73e",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164646.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 42,
+    "score": 80,
+    "raw_response": "考察: 福田赳夫は穏健で合意形成を重視するタイプとして知られ、派閥間調整や官僚・与党との協議を重視して政治を進めた。対外的にも「福田ドクトリン」でASEANとの協調や信頼醸成を掲げ、上から強引に引っ張るより合意と積み上げを優先する姿勢が目立つ。政策推進は慎重でトップダウンの強権的手法は少なかった。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 523,
+      "reasoning_tokens": 384,
+      "total_tokens": 658
+    },
+    "elapsed_seconds": 4.844,
+    "response_id": "resp_01faeabe28b4c4ec006991d3e80634819f963cb803f9cd4c76",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164648.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 43,
+    "score": 80,
+    "raw_response": "大平正芳は温厚で調整型の政治家として知られ、派閥間の橋渡しや党内合意形成を重視しました。強いカリスマ的な上からの指示で物事を押し切るより、官僚・党内勢力との協議や妥協で政策を進めるタイプで、閣僚・派閥調整を中心に下から積み上げる経営を行った点が目立ちます。ただし完全なボトムアップ型というよりは、合意形成を通じて統制を取る「協調的リーダーシップ」寄りです。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 674,
+      "reasoning_tokens": 448,
+      "total_tokens": 808
+    },
+    "elapsed_seconds": 6.948,
+    "response_id": "resp_022d5eb8dbd52a5c006991d3e8056c8196a4bbb435ddcc82d3",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164648.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 44,
+    "score": 80,
+    "raw_response": "鈴木善幸は派閥対立の中で妥協の産物として首相になった経緯があり、穏健で協調的、党内外の合意形成を重視するタイプでした。強引なトップダウンで政策を押し切るよりも、調整と根回しで支持基盤を固める「下から積み上げる」政治スタイルが目立ちます。ただし内閣としての決定権は保持していたため、完全なボトムアップとも言えません。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 582,
+      "reasoning_tokens": 384,
+      "total_tokens": 717
+    },
+    "elapsed_seconds": 5.906,
+    "response_id": "resp_0377836f2f99bb2e006991d3e817848190bef56aeaf585b222",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164648.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 45,
+    "score": 20,
+    "raw_response": "中曽根康弘は「戦後政治のタームを変えた」と評されるほど強い指導力で改革を推進した首相です。自らの政治的カリスマと行政・党内調整力を背景に、郵政・電電公社解体や財政・行政改革、対米関係の積極展開などを上から主導して実行した点が目立ちます。もちろん自民党内の派閥調整や官僚との駆け引きで一定の合意形成も行いましたが、方針決定と実行は基本的にトップダウンで押し切るタイプでした。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 617,
+      "reasoning_tokens": 448,
+      "total_tokens": 753
+    },
+    "elapsed_seconds": 5.401,
+    "response_id": "resp_065a111c8aa47005006991d3e8895c819ebd9f8fdfb215843e",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164648.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 46,
+    "score": 75,
+    "raw_response": "竹下登は表立ったカリスマ的専制型リーダーというより、派閥力と人脈を駆使して合意形成や分配を重ねるタイプでした。党内調整や利害調整で影響力を発揮し、政策決定でも裏での根回しや妥協で収めることを好んだため、上から一方的に押し切るより下から積み上げる運営に近いと言えます。ただし派閥支配や利権配分による統制も強く、完全なボトムアップ一辺倒ではありません。  \nスコア: 75",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 457,
+      "reasoning_tokens": 256,
+      "total_tokens": 590
+    },
+    "elapsed_seconds": 4.958,
+    "response_id": "resp_07e4fc409c5d4968006991d3e88b28819f8aa6ce1d83c3af66",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164648.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Crafting concise text**\n\nOkay, I've got a text in Japanese that needs to be concise. I’ll ensure the last line reads \"スコア: X\" with the score numeric completing it. It’s important to stick to that format exactly. I’ll focus on clarity while keeping it brief. Let’s make sure every part fits together well and meets the requirement. I'll keep refining until it feels just right!"
+  },
+  {
+    "no": 47,
+    "score": 75,
+    "raw_response": "宇野宗佑は外交経験や穏健な人物像から合意形成や調整を重視するタイプと評価されることが多く、派閥間の調停や妥協によって首相に選ばれた側面が強いです。短期政権で強権的に上から政策を押し切る力は乏しく、むしろ下からの支持や合意に依存する傾向がありました。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 690,
+      "reasoning_tokens": 512,
+      "total_tokens": 825
+    },
+    "elapsed_seconds": 6.196,
+    "response_id": "resp_00261d110354cba7006991d3e89a84819499ebf03a9c956246",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164648.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 48,
+    "score": 80,
+    "raw_response": "海部俊樹は、竹下改造内閣後の混乱の中で「信頼回復」と党内融和を重視して登場した宥和型の指導者でした。派閥間の合意形成や地方への丁寧な説明を重視し、強引なトップダウンで政策を押し切るタイプではなく、対話と調整によって下から積み上げるやり方を取ることが多かったと言えます。ただし党内基盤の弱さから妥協と折衝に追われる場面も多く、完全にボトムアップ一辺倒というわけではありません。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 504,
+      "reasoning_tokens": 320,
+      "total_tokens": 639
+    },
+    "elapsed_seconds": 4.949,
+    "response_id": "resp_0d8b4801dfda1ec4006991d3e8ad3081a29da0d014001109a2",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164648.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Creating a concise overview**\n\nI'm working on a few sentences that highlight restored party morale, the importance of building consensus, and the emphasis on listening to local communities. I'll touch on the lack of strong centralized control, noting the reliance on factions and intra-party consultation. The leadership I describe will be pragmatic and conciliatory. I'll also mention the zero top-down and one hundred bottom-up approach, but keep it concise. Finally, I’ll end with \"スコア: 80\" as requested."
+  },
+  {
+    "no": 49,
+    "score": 80,
+    "raw_response": "宮澤喜一は財務省出身の官僚型政治家で、政策決定での合意形成や調整を重視するタイプと評価されます。派閥や官僚組織との協働、慎重で穏健な語り口を通じて合意を取りつけることを良しとし、強引なトップダウンで押し切るよりも積み上げ型のプロセスを好みました。一方で、明確なリーダーシップを発揮して大ナタを振るう積極的な変革者ではなく、決定力に欠けるとの批判も受けました。総じてボトムアップ寄りの性格が強いと言えます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 591,
+      "reasoning_tokens": 384,
+      "total_tokens": 726
+    },
+    "elapsed_seconds": 6.413,
+    "response_id": "resp_0dfc80f6c3cee99a006991d3e8ec2481938495384cca184f39",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164648.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 50,
+    "score": 80,
+    "raw_response": "細川護熙は1993年の非自民連立政権を率い、複数政党間での合意形成と政治改革（選挙制度改革など）を重視して政権を組み立てた。個別指示で強権的に引っ張るより、連立や支持層との協調・調整で政策を進めるスタイルであり、首相としての求心力不足もあってトップダウンよりはボトムアップ寄りと評価される。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 865,
+      "reasoning_tokens": 704,
+      "total_tokens": 1000
+    },
+    "elapsed_seconds": 8.394,
+    "response_id": "resp_05c5883d2ab36d03006991d3e92ab481a1af80a0bb9e6dc1d8",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164649.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 51,
+    "score": 80,
+    "raw_response": "羽田孜は短期政権を率いた連立調整型の政治家で、党派間の合意形成や妥協を重視する姿勢が強かった。強権的に上から引っ張るというより、各勢力との調整で下から積み上げるスタイルだが、その弱さが政権の不安定さにも繋がった面がある。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 574,
+      "reasoning_tokens": 448,
+      "total_tokens": 708
+    },
+    "elapsed_seconds": 4.873,
+    "response_id": "resp_0fc82597e7ac3a18006991d3e948a881918ffabeede4a33549",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164649.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 52,
+    "score": 85,
+    "raw_response": "村山富市は社会党出身で連立政権の「調整役」として登場し、派閥や連立相手との合意形成を重視した穏健なリーダーでした。閣内や党内での協議を重ねて政策を進め、対外的にも和解（いわゆる「村山談話」）を通じた説明と合意を重視したため、上から一方的に引っ張る強権型ではありません。したがってボトムアップ寄りの評価が相応しいです。\nスコア: 85",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 512,
+      "reasoning_tokens": 320,
+      "total_tokens": 646
+    },
+    "elapsed_seconds": 5.172,
+    "response_id": "resp_0ee9ea7022dbfaa1006991d3e96ac0819392db199fa920c4a3",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164649.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 53,
+    "score": 25,
+    "raw_response": "橋本龍太郎は1996–98年の首相で、「橋本改革」と呼ばれる行政・財政構造改革を強力に推進したことで知られます。官僚権限の見直しや構造改革をトップダウンで押し切る手法を多用し、決断力を重視するリーダー像が目立ちました。一方で、派閥や与党内の調整は必要に応じて行っており、完全な独裁的手法ではなく実務的な妥協も取っていました。総じて上から引っ張るタイプ寄りと評価できます。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 623,
+      "reasoning_tokens": 448,
+      "total_tokens": 758
+    },
+    "elapsed_seconds": 6.212,
+    "response_id": "resp_09c6a4d04e440d2b006991d3e9b2a48196866d4718e883af52",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164649.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 54,
+    "score": 80,
+    "raw_response": "小渕恵三は温厚で調整志向の政治家で、派閥や連立・官僚との合意形成を重視して安定と漸進的改革を図った。強烈な個人主導で上から押し切るタイプではなく、後ろ盾と協議を通じて物事を進める「ボトムアップ寄り」のリーダー像が強い。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 573,
+      "reasoning_tokens": 448,
+      "total_tokens": 709
+    },
+    "elapsed_seconds": 5.217,
+    "response_id": "resp_0ec75c131eacab36006991d3eaaed88195aebd30133f2773d3",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164650.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 55,
+    "score": 20,
+    "raw_response": "森喜朗は自民党内の派閥型政治家で、年長の幹部として上意下達の決定・調整を重視する伝統的なリーダー像が強い人物です。首相在任中や東京五輪組織委員長時の発言・運営が批判されることが多く、合意形成よりも既存の権威と上下関係で物事を進める傾向があり、ボトムアップ志向は薄いと評価されます。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 634,
+      "reasoning_tokens": 448,
+      "total_tokens": 767
+    },
+    "elapsed_seconds": 6.065,
+    "response_id": "resp_0a2ebf69aac2ffb1006991d3eadaf88191a1b83480736468ad",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164650.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 56,
+    "score": 10,
+    "raw_response": "小泉純一郎は強いカリスマ性と個人の政治基盤（人気）を背景に、党内外の抵抗を押し切って構造改革を推進した「上から引っ張る」タイプです。郵政民営化など主要政策では首相の強い意志と首相主導の党運営を貫き、派閥を抑えたりメディアを活用して直接国民に訴える手法を取ったため、合意形成を重視するボトムアップ志向は相対的に弱いと言えます。\n\nスコア: 10",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 505,
+      "reasoning_tokens": 320,
+      "total_tokens": 640
+    },
+    "elapsed_seconds": 5.351,
+    "response_id": "resp_0b599d7515ccadbd006991d3eb04dc819599dc8835b1ca4cdb",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164651.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 57,
+    "score": 20,
+    "raw_response": "安倍晋三は長期政権を維持し、アベノミクスや安全保障政策などを強い意志で推進したトップダウン型のリーダーです。党内調整や官僚主導の政策形成も行ったが、最終的な方向性やタイミングは個人の意思決定や党幹部主導で決まることが多く、合意形成より政策実行を優先する傾向が強かったと言えます。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 603,
+      "reasoning_tokens": 448,
+      "total_tokens": 737
+    },
+    "elapsed_seconds": 4.936,
+    "response_id": "resp_06d691a6a5289f5b006991d3eb38a48191bd3c2c50b0a34561",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164651.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 58,
+    "score": 80,
+    "raw_response": "福田康夫は「和」を重んじ、派閥調整や官僚との協議を重視して合意形成で政策を進めようとした首相で、強引なトップダウン型ではなく慎重でボトムアップ志向が強い。大胆なリーダーシップより協調・分権や調整を優先し、決断力不足を指摘されることもあった点もボトムアップ寄りの特徴と言える。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 640,
+      "reasoning_tokens": 512,
+      "total_tokens": 774
+    },
+    "elapsed_seconds": 6.258,
+    "response_id": "resp_03d324488ac4c8a0006991d3ebc098819ea55454f5e6553c65",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164651.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 59,
+    "score": 25,
+    "raw_response": "麻生太郎は強い個性と上からの発信力が目立つ政治家で、所信表明や政策決定でリーダーシップを発揮する一方、演説や発言での一方的な印象が強く、合意形成よりもトップダウンで物事を進める傾向がある。とはいえ自民党内の派閥政治や官僚との調整に依存する面もあり、完全な独断型ではないため極端な数値にはしません。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 547,
+      "reasoning_tokens": 384,
+      "total_tokens": 681
+    },
+    "elapsed_seconds": 5.144,
+    "response_id": "resp_0d61eb0604bcaddb006991d3ecdd8c81a3942017a7d973a79f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164652.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 60,
+    "score": 80,
+    "raw_response": "鳩山由紀夫は「友愛」や地域主権、官僚主導からの脱却を掲げ、党内外の合意形成や住民参加を重視する姿勢を示した。決定を下すより調整・説明を優先する傾向が強く、トップダウンで強引に政策を推し進めるタイプではなかったため、ボトムアップ寄りと評価できます（ただし、指導力不足との批判もある）。  \nスコア: 80",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 781,
+      "reasoning_tokens": 640,
+      "total_tokens": 917
+    },
+    "elapsed_seconds": 6.991,
+    "response_id": "resp_03c28b43d9b6e718006991d3ed38e481a2923b01910d335587",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164653.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 61,
+    "score": 70,
+    "raw_response": "菅直人は長年の野党活動や市民志向の政策志向があり、党内外で議論や合意形成を重視する傾向が強い人物です。一方で、首相在任中の福島対応では指示系統が混乱しトップダウン的な強い統率力を発揮できなかったとの批判もあり、「現場の声を反映して進めるが統率は弱め」と評されます。総じてボトムアップ寄りのタイプと考えます。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 698,
+      "reasoning_tokens": 512,
+      "total_tokens": 832
+    },
+    "elapsed_seconds": 6.198,
+    "response_id": "resp_01a190fabf4f2e41006991d3ed7ce881949b2e4f994606f596",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164653.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 62,
+    "score": 30,
+    "raw_response": "野田佳彦は財政再建に強い意志を示し、消費税引上げや政府の重要政策を党内外で押し切って成立させた経験がある一方、民主党内の合意取りまとめや党内調整を重視する現実主義的な面も強かった。決断力はあるが指導力は穏やかで、強権的に上から押し付けるタイプというよりは「必要と判断したときに上から押すが、基本は合意形成を重視する」タイプと評価できます。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 624,
+      "reasoning_tokens": 448,
+      "total_tokens": 758
+    },
+    "elapsed_seconds": 5.905,
+    "response_id": "resp_08354b6b493b9a35006991d3ed9e68819cbaa2f4c941c9e8f3",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164653.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 63,
+    "score": 20,
+    "raw_response": "菅義偉は長年の官僚的・事務方経験（官房長官経験含む）を背景に、政権運営で指示・調整を行うトップダウン的スタイルが目立ちました。安倍路線の継承を強調し、省庁や党内に対して明確な方向性を示して迅速に意思決定する一方、広範な合意形成や草の根からの積み上げを重視するタイプではなく、支持基盤の弱さもあって必ずしも強権的というほどではないが、相対的には上からの統制寄りです。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 511,
+      "reasoning_tokens": 320,
+      "total_tokens": 646
+    },
+    "elapsed_seconds": 4.93,
+    "response_id": "resp_0f0a4e2a1e491c57006991d3edefcc819eaa6d169d540696b0",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164653.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 64,
+    "score": 70,
+    "raw_response": "岸田文雄は慎重で合意形成を重視するタイプと見なされることが多く、党内派閥調整や関係各所との対話を重視して政策を進める傾向があります。「聞く力」や調整型の意思決定が目立ち、強引なトップダウン型リーダーシップは控えめです。一方で、明確なビジョン提示や強権的な改革推進が弱いと評価されることもあり、完全なボトムアップ型とも言い切れません。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 623,
+      "reasoning_tokens": 448,
+      "total_tokens": 757
+    },
+    "elapsed_seconds": 5.28,
+    "response_id": "resp_02552ab2df5a4d44006991d3ee01ec81a1a60e043b180572a6",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164654.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  }
+]

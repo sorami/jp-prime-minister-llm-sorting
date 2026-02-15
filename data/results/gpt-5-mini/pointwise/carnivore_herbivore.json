@@ -1,0 +1,1154 @@
+[
+  {
+    "no": 1,
+    "score": 20,
+    "raw_response": "伊藤博文は明治期の実力者として近代国家の制度設計（初代内閣総理大臣、憲法起草、条約交渉など）を主導し、政治的決断力と野心を持って行動した人物です。外交・統治で妥協と調整も行ったものの、朝鮮での関与など積極的な外政・権力行使の面が強く、穏やかさよりは攻めの姿勢が目立ちます。したがって肉食系寄りの評価とします。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 659,
+      "reasoning_tokens": 448,
+      "total_tokens": 794
+    },
+    "elapsed_seconds": 6.371,
+    "response_id": "resp_059d00e4d43c1c75006991d5035ea0819581c7f86ebc0d20c2",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 2,
+    "score": 20,
+    "raw_response": "元薩摩藩士として明治期の軍事・行政の最前線で活躍し、北海道開拓使長官として殖民・近代化を強力に推進した人物です。中央政界でも実務主導で権限を行使し、野心的・行動的な面が目立つため「肉食系」寄りと評価します。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 795,
+      "reasoning_tokens": 640,
+      "total_tokens": 930
+    },
+    "elapsed_seconds": 8.674,
+    "response_id": "resp_03d3963dc57f7a17006991d5035fd881948dcad432194f5fd4",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 3,
+    "score": 10,
+    "raw_response": "山県有朋は明治期の軍人・政治家として近代日本の軍制と官僚支配を築いた中心人物で、強い国家観と実行力、権力集中や強権的手法をためらわない姿勢が特徴的です。軍人としての経歴や元老としての裏方支配、政策的野心・決断の速さから、非常に積極的・攻撃的な「肉食系」タイプと評価できます。\n\nスコア: 10",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 890,
+      "reasoning_tokens": 704,
+      "total_tokens": 1025
+    },
+    "elapsed_seconds": 8.146,
+    "response_id": "resp_082086586d91e786006991d50363288194b11d6f9cef5f46f8",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 4,
+    "score": 30,
+    "raw_response": "松方正義は財政再建に断固たる手を打った「松方デフレ」で知られる実務家タイプです。財政均衡と通貨安定を最優先に軍事や公共支出の削減、中央銀行整備など強いリーダーシップを発揮し、短期的な国民負担や反発を顧みない決断力を見せました。一方で個人的には穏やかで節度ある振る舞いの保守官僚でもあり、派手な攻勢やポピュリズムとは距離がありました。政策面の「積極的・攻撃的」さが勝るため、肉食寄りと評価します。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 798,
+      "reasoning_tokens": 576,
+      "total_tokens": 933
+    },
+    "elapsed_seconds": 8.488,
+    "response_id": "resp_0d7770be84248486006991d50365048193be510bae0a9d2c32",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 5,
+    "score": 30,
+    "raw_response": "大隈重信は政党結成・運営、議会主導の政府づくりを積極的に推進した政治家で、袂を分けながらも政界で権力を追求し続けた点で野心的・行動的です（立憲改進党系の運動や内閣形成、元老との対立など）。一方で学究的で教育事業（早稲田）にも力を入れ、妥協や制度整備を重視する面もあり、全面的な強硬型ではありません。総じて「攻める実務家」寄りと評価できます。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 728,
+      "reasoning_tokens": 512,
+      "total_tokens": 864
+    },
+    "elapsed_seconds": 7.767,
+    "response_id": "resp_0e3ea3de9fcedb39006991d5036510819d8119e166a4aab38f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Considering political strategies**\n\nI want to mention the founding of Waseda and touch on party politics, including the Prime Minister's role twice and their anti-genrō stance. I'll also explore assertive maneuvers, opportunistic alliances, and the modernization push. To wrap it up, I could note that with a meat-eating-leaning approach, the overall score may be lower. In the end, I’ll summarize with: \"スコア: 30.\" I’m aiming for clarity and conciseness!"
+  },
+  {
+    "no": 6,
+    "score": 10,
+    "raw_response": "桂太郎は陸軍将官出身で、外交・軍事面で積極的に国益を追求した強権的な指導者でした。日露戦後の勢力拡大や韓国併合（1910年）に関わり、元老として政治的にも強引に政策を推進した点から、野心的かつ攻撃的な「肉食系」的性格が色濃いです。市民の反発で退陣に追い込まれることもありましたが、それはむしろ強引な手法の反動で、穏やかさや受動性とは対極にあります。\n\nスコア: 10",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 839,
+      "reasoning_tokens": 640,
+      "total_tokens": 973
+    },
+    "elapsed_seconds": 8.035,
+    "response_id": "resp_0cdbf389d950d3d7006991d5035f4c81958cf14043804fdb32",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 7,
+    "score": 85,
+    "raw_response": "西園寺公望は立憲政治の擁護者で、妥協と調停を重んじた穏健派の宰相・元老でした。派手な攻勢や強硬な権力行使よりも、議会主義や漸進的改革、外交的な折衝で影響力を行使するタイプで、個人的にも学者肌で控えめな印象が強いです。強い野心や攻撃性で政敵をねじ伏せるというより、穏やかに道を整える草食系に近い人物です。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 528,
+      "reasoning_tokens": 320,
+      "total_tokens": 664
+    },
+    "elapsed_seconds": 5.534,
+    "response_id": "resp_06e74adb306e044b006991d503649c81a3a5956d82de5d12ae",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 8,
+    "score": 75,
+    "raw_response": "山本権兵衛は海軍出身で指導力はあるものの、首相としては対立を厭い、妥協と実務で政治を安定させようとしたタイプです。シーメンス事件で退陣するなど攻撃的に押し切るよりも調整役としての側面が強く、穏健で控えめな印象が強いと言えます。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 1012,
+      "reasoning_tokens": 896,
+      "total_tokens": 1149
+    },
+    "elapsed_seconds": 9.067,
+    "response_id": "resp_074e3905515ffcd2006991d50365188192b4202dac0a25934d",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 9,
+    "score": 15,
+    "raw_response": "寺内正毅は陸軍出身の強硬派で、朝鮮総督時代の統治や軍人としての経歴からトップダウンで決断し強権的に物事を進めるタイプ。党派的な柔軟さや穏やかな調整力には乏しく、積極的・攻撃的な側面が強いと評価できます。一方で老練な政治的駆け引きの巧妙さよりは軍人としての規律志向が目立つため、極端な好戦家というよりは権威的な「肉食系」と言えます。  \nスコア: 15",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 936,
+      "reasoning_tokens": 768,
+      "total_tokens": 1071
+    },
+    "elapsed_seconds": 7.626,
+    "response_id": "resp_0bd18410902c22f8006991d503615481a1b6a4421bf5c0aa1b",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 10,
+    "score": 80,
+    "raw_response": "原敬は「政党政治」を組織し、派手な軍事的強硬姿勢よりも妥協と官僚・地盤との調整で政権を維持した実務家です。出自は庶民でありながら党内外の駆け引きや人脈構築には長け、野心的に出世した面はあるものの、基本は穏健で慎重な手法を好んだため、攻撃的な肉食系というより穏やかな草食系寄りと評価できます。  \nスコア: 80",
+    "usage": {
+      "input_tokens": 133,
+      "cached_input_tokens": 0,
+      "output_tokens": 860,
+      "reasoning_tokens": 704,
+      "total_tokens": 993
+    },
+    "elapsed_seconds": 7.119,
+    "response_id": "resp_095bf998cec049c4006991d5036430819fa4f2f75423eb0812",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 11,
+    "score": 20,
+    "raw_response": "高橋是清は財政・金融面で危機に際して果断に手を打ち、金本位制離脱や積極的な財政出動で経済を立て直した実績がある。軍部や既得権と対立して予算削減などを押し通すなど政治的にも攻めの姿勢を示した一方、技術官僚的で妥協を重ねる慎重さも併せ持っていた。総じて積極的・決断力のある「肉食系」寄りと評価できる。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 930,
+      "reasoning_tokens": 768,
+      "total_tokens": 1065
+    },
+    "elapsed_seconds": 7.482,
+    "response_id": "resp_07095bc4421236fe006991d50363b081a195e6c147a7db8341",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 12,
+    "score": 80,
+    "raw_response": "海軍出身で軍人・外交官としての経歴がありつつ、首相としては政党対立を調整する「妥協的・事務的」な性格が強かった。ワシントン会議での国際的妥協を受け入れるなど攻撃的・野心的というよりは現実対応・穏健な運営を優先し、強権的に前に出るタイプではなかった。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 734,
+      "reasoning_tokens": 576,
+      "total_tokens": 870
+    },
+    "elapsed_seconds": 6.433,
+    "response_id": "resp_011fd6ce7e508474006991d503647881a1a8f896b333e4d8b9",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 13,
+    "score": 80,
+    "raw_response": "清浦奎吾は元官僚・元貴族院議長で、政党政治を排して貴族・官僚を中心に組閣した「非党内閣」を組織した一方で、自ら積極的に大衆や勢力闘争に乗り出すタイプではありませんでした。法制・官僚主導の穏やかな統治志向で、派手な攻勢や野心的な権力闘争よりも調停的・保守的な手法を好んだ点から、草食系寄りと評価できます。短期政権に終わったのも、攻めに転じる力よりも慎重さと回避傾向が強かったためと見られます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 958,
+      "reasoning_tokens": 704,
+      "total_tokens": 1094
+    },
+    "elapsed_seconds": 8.669,
+    "response_id": "resp_089ac29657f36902006991d503651c8195991e183c5d41a04a",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 14,
+    "score": 80,
+    "raw_response": "加藤高明は政党政治の推進者で、妥協と合意形成を重んじる穏健なリーダーだった印象が強い。普選法成立など積極的な改革は行ったが、軍や保守勢力には強硬に対抗するタイプではなく、外交も比較的細やかな交渉志向で「攻めより調整」を優先していた点から、草食系寄りと評価できます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 706,
+      "reasoning_tokens": 576,
+      "total_tokens": 841
+    },
+    "elapsed_seconds": 6.932,
+    "response_id": "resp_05a7366444688a49006991d5035e6081979ad19ac01bf094b2",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 15,
+    "score": 85,
+    "raw_response": "若槻礼次郎は立憲政友会出身の穏健な政党政治家で、二度内閣を率いたものの、昭和恐慌や金融危機、軍部の台頭などの危機に対して強硬な対抗手段を取らず妥協や辞任で事態を収めようとする傾向がありました。軍部や経済ショックに対して積極的に攻勢をかけるタイプではなく、合意形成や穏健な調整を重視したため、「草食系」に近いと評価できます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 848,
+      "reasoning_tokens": 640,
+      "total_tokens": 985
+    },
+    "elapsed_seconds": 8.441,
+    "response_id": "resp_06b9bd936aa97e88006991d50362648195adce93e64c2050bf",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 16,
+    "score": 15,
+    "raw_response": "田中義一は陸軍出身で陸相も務めた軍人政治家。総理在任中は中国（済南事件など）への強硬な軍事対応や治安対策で厳しい手段を取る傾向が強く、外交・軍事で積極的・攻撃的な姿勢が目立ちます。よって「肉食系寄り」と評価します。\n\nスコア: 15",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 1057,
+      "reasoning_tokens": 896,
+      "total_tokens": 1192
+    },
+    "elapsed_seconds": 8.832,
+    "response_id": "resp_0de0a660a8aab316006991d50364908190aafc93dbfb95acfd",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 17,
+    "score": 85,
+    "raw_response": "浜口雄幸は政党政治や議会主義を重んじ、外交でも妥協や協調を優先した穏健な政治家でした。経済面では財政引き締めなど断固たる方針を取る場面もありましたが、軍事的・攻撃的な路線からは距離を置き、強権的・好戦的というよりは調整・抑制的なリーダーだったと言えます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 874,
+      "reasoning_tokens": 704,
+      "total_tokens": 1009
+    },
+    "elapsed_seconds": 7.991,
+    "response_id": "resp_079853d847fe8868006991d503606c8190b106e92da163b2e4",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 18,
+    "score": 75,
+    "raw_response": "犬養毅は、政党政治の擁護者であり長年の議会経験を持つ実務家で、対立を極端に煽るより妥協と調停で政局をまとめることを重視した。満州事変以降の軍部暴走に対しては民政維持を訴えつつ強硬な軍事排除には踏み切れず、結果的に軍部との正面衝突を避ける穏健・受動的な姿勢が目立った。政治手法は攻撃的というより調整型であり、最終的に青年将校らの反発を招いて暗殺されるに至った点も、積極的な強権行使よりも草食的な対応が中心だったことを示す。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 715,
+      "reasoning_tokens": 512,
+      "total_tokens": 849
+    },
+    "elapsed_seconds": 6.217,
+    "response_id": "resp_0c9bc62fe3ba66c6006991d50363b081a2aced6a90f26e7aab",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 19,
+    "score": 70,
+    "raw_response": "斎藤実は海軍出身で行動力や権威はあったものの、首相在任中は政党色を避ける「調停・安定化」役に回り、過激な政策推進よりも現状維持や妥協を重視した。軍人としての強さはあるが、政治スタイルは積極攻撃型というより穏健で控えめだったため、草食系寄りの評価が妥当。  \nスコア: 70",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 1380,
+      "reasoning_tokens": 1216,
+      "total_tokens": 1515
+    },
+    "elapsed_seconds": 12.337,
+    "response_id": "resp_077bd55fc9b229d4006991d50362348190b6341a260f4b7b33",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 20,
+    "score": 80,
+    "raw_response": "海軍出身で軍人としての経歴はあるが、対外的には協調・条約志向（ロンドン海軍軍縮条約支持）で、国内でも軍部の暴走を抑えようとした一方で強硬策を取れず妥協的・穏健な姿勢が目立ちます。二・二六事件では内閣の対応に迷いが見え、結果的に軍部に押された形で退陣しており、積極的・攻撃的というよりは控えめで受動的なタイプと評価できます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 843,
+      "reasoning_tokens": 640,
+      "total_tokens": 979
+    },
+    "elapsed_seconds": 7.625,
+    "response_id": "resp_05b9bf196a5dc4b5006991d503672881919ce73476ae3d0b92",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164931.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 21,
+    "score": 80,
+    "raw_response": "広田弘毅はキャリア外交官で、外交や妥協を重んじる穏健な姿勢が特徴です。首相在任中は軍部の台頭や中国での事態悪化を強く抑え切れず、積極的に軍を主導して拡張を推進したというよりは、対立を避けて現状に妥協する姿勢が目立ちました。個人的な野心や攻撃性よりも調停・管理的で受動的な性格が強く、肉食系より草食系寄りと評価できます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 1215,
+      "reasoning_tokens": 1024,
+      "total_tokens": 1350
+    },
+    "elapsed_seconds": 9.688,
+    "response_id": "resp_0ab0b02ab03d5713006991d508dc6c8196bc674f94e2b00c35",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164936.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 22,
+    "score": 70,
+    "raw_response": "林銑十郎は陸軍将校出身で軍政との結びつきが強い人物ですが、首相在任は短期間の妥協的・事務的な側面が強く、大胆な政策推進や強烈な政治的野心を示したわけではありません。軍人としての硬さはあるものの、政治家としては積極攻勢に出るタイプではなく、どちらかと言えば受け身で穏やかな運営に終始した印象です。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 1045,
+      "reasoning_tokens": 896,
+      "total_tokens": 1181
+    },
+    "elapsed_seconds": 9.001,
+    "response_id": "resp_076c9894c28261c3006991d5098e3c8197a0cb9f1c9b67ad39",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164937.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Evaluating political leanings**\n\nI’m trying to determine whether to score lean meat or herb for Hayashi, and I'm wavering between 40 and 55. Hayashi’s cabinet attempt collapsed due to opposition, which makes me think he was more passive, as he only served briefly and was viewed as a compromise. Considering his military background but limited ambition, I think a moderate-high herb score of 70 fits best. This score balances his military role with a more caretaker style in politics."
+  },
+  {
+    "no": 23,
+    "score": 70,
+    "raw_response": "近衛文麿は皇族出身のエリートで理想や理念を重んじつつも、軍部の台頭に押され政策決定で強い主導性を発揮できなかった人物です。対外的には満州・中国への膨張や枢軸寄りの外交を進める面があった一方で、強硬な軍事主導型のリーダーというよりは妥協と調整を重ねつつ結果的に戦争への道を止められなかった「優柔不断で受動的」な側面が目立ちます。総じて積極的・攻撃的というよりは控えめ・受動的寄りと評価できます。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 997,
+      "reasoning_tokens": 768,
+      "total_tokens": 1133
+    },
+    "elapsed_seconds": 9.194,
+    "response_id": "resp_0952f33073fa61a3006991d509b87081a2a644541fea2dd586",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164937.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Analyzing historical leadership**\n\nI’m considering if he orchestrated the \"Go-Stop\" resignations and formed imperial conferences, while trying to rein in the military. Historical views label him as a thinker and idealist, not a strong leader, being passive and indecisive. I estimate his leadership style as more passive—maybe a score of 65-75 on a scale considering his conservative aristocratic background. He lacked decisive leadership but still pursued an expansionist vision, trying to negotiate with the US while accepting wartime policies."
+  },
+  {
+    "no": 24,
+    "score": 20,
+    "raw_response": "平沼騏一郎は法曹出身の保守・国家主義者で、政党政治を嫌い非党内閣を率いたほか、共産主義や左派の弾圧や統制強化を支持するなど積極的に国家方針を主導しようとした人物です。軍部礼賛や強硬な対中姿勢の中心人物というよりは、法や政治手段で国家的統制・動員を進める「攻め」の路線の実務家であり、内外に対して強い主導性を発揮した点で肉食系寄りと評価できます。一方で軍人ほどの突進性や派手さはなく、法経験に基づく慎重さ・現実主義も持っていたため極端なゼロ点にはしません。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 138,
+      "cached_input_tokens": 0,
+      "output_tokens": 846,
+      "reasoning_tokens": 576,
+      "total_tokens": 984
+    },
+    "elapsed_seconds": 7.307,
+    "response_id": "resp_0e37c1b08b6ee9f6006991d509c40c81979887168afc8ee4cd",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164937.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 25,
+    "score": 70,
+    "raw_response": "軍人出身で職業軍人としての行動力はある一方、首相としては妥協的・短命な「調整役」だった印象が強いです。強硬な拡張策を主導したというより、軍部や政党内の勢力調整に追われ積極的な野心や攻撃性を発揮できなかったため、草食系寄りと評価できます。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 1061,
+      "reasoning_tokens": 896,
+      "total_tokens": 1196
+    },
+    "elapsed_seconds": 8.6,
+    "response_id": "resp_066d08698fefb808006991d50a430881938f48cf7b2dcbb720",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164938.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 26,
+    "score": 85,
+    "raw_response": "米内光政は海軍出身で指導力はあるが、政治的には妥協・抑制を重んじた穏健派。首相在任中（1940年）は軍閥色の強い路線や枢軸国への接近に批判的で、無用な対外拡張や米英との衝突を避けようとした。攻撃的・野心的というより現実主義的に緩衝と回避を選んだため、「草食系」寄りの評価が妥当。  \nスコア: 85",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 641,
+      "reasoning_tokens": 448,
+      "total_tokens": 776
+    },
+    "elapsed_seconds": 5.222,
+    "response_id": "resp_026858b7cf4e20da006991d50a72a08196a3d6d194bca13069",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164938.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 27,
+    "score": 5,
+    "raw_response": "東條英機は軍人としての強い権威主義性、国策としての対外侵略を推進した積極的・攻撃的なリーダーであり、野心的かつ決断的に軍事行動を主導した点で「肉食系」に極めて近い人物です。統帥・戦時統治で厳格・主導的な姿勢を見せ、穏やか・受動的な要素はほとんど見られません（ただし組織内での合理性や統制志向という面はある）。  \nスコア: 5",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 753,
+      "reasoning_tokens": 576,
+      "total_tokens": 888
+    },
+    "elapsed_seconds": 7.165,
+    "response_id": "resp_02d0afbd259f9cf5006991d50ad298819cb71633cb123cbd09",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164938.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 28,
+    "score": 70,
+    "raw_response": "小磯国昭は陸軍出身で戦時下の首相に就いたが、強烈な政治的野心や積極的なリーダーシップを発揮したというより、派閥調整や軍部の力学に翻弄される「つなぎ」的・事務的な色合いが強かった。朝鮮総督時代の統治姿勢や戦争継続支持の側面はあるが、内閣運営では決定的な攻勢をかけるより受動的・穏健な対応が目立った。したがって草食系寄りの評価とする。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 1003,
+      "reasoning_tokens": 832,
+      "total_tokens": 1139
+    },
+    "elapsed_seconds": 9.806,
+    "response_id": "resp_08fea94db3656f6f006991d50af6bc819da450209b54842555",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164939.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 29,
+    "score": 85,
+    "raw_response": "鈴木貫太郎について（簡潔に）\n- 海軍大将としての経歴を持ち、1945年4月に78歳で内閣総理大臣に就任した。個人的野心は薄く「奉公」の立場で引き受けたとされる。  \n- 穏健かつ保守的・務実な人物で、攻撃的な外交・軍事路線を主導したタイプではない。  \n- とはいえ終戦時にはクーデター（宮城事件/宮城クーデター未遂）を封じ、天皇の終戦詔書放送を実現させるなど、必要な場面では断固とした行動を取った。総じて積極的侵略や野心的推進力よりも、責任感に基づく穏やかな指導が目立つ。\n\n結論：草食系寄り（受動的・穏やか）が強い。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 138,
+      "cached_input_tokens": 0,
+      "output_tokens": 902,
+      "reasoning_tokens": 640,
+      "total_tokens": 1040
+    },
+    "elapsed_seconds": 8.676,
+    "response_id": "resp_040b696365e0effc006991d50af94c81a18bea830a08f571ef",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164939.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 30,
+    "score": 30,
+    "raw_response": "軍人出身で皇族としても存在感があり、組織を率いる積極性や指導力は明確です。一方で、終戦直後の短期内閣では占領下での現実的・穏健な対応（秩序維持や復員・復興優先）を志向しており、好戦的に政策を押し進めるタイプではありません。総じて「肉食系寄りだが極端ではない」と評価します。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 140,
+      "cached_input_tokens": 0,
+      "output_tokens": 783,
+      "reasoning_tokens": 640,
+      "total_tokens": 923
+    },
+    "elapsed_seconds": 8.534,
+    "response_id": "resp_067721ac5bee74b0006991d50b197081978073704eb9ead941",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164939.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Summarizing personal score**\n\nI'm deciding on a score of 30, reflecting a moderately meat-eating inclination. In my reasoning, I’m considering his military background, leadership, and ambition as an imperial family member. His appointment suggests he was assertive, yet served primarily as a caretaker during a time of occupation, which indicates a less aggressive approach. I’ll write a brief Japanese answer with an explanation of the meat/grass axis. Finally, I’ll make sure to use careful phrasing and include the score at the end."
+  },
+  {
+    "no": 31,
+    "score": 90,
+    "raw_response": "幣原喜重郎は長年の外交官出身で「シデハラ外交」と呼ばれる穏健・協調路線を貫き、軍事・対外強硬を嫌い国際協調・平和主義を重視した人物です。首相としても占領軍との協調と混乱の収拾を優先し、強引な政治的攻勢や野心的な権力闘争を行った記録は少なく、控えめで妥協志向のリーダー像が強いと言えます。したがってこの軸では草食系寄りと評価します。\n\nスコア: 90",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 560,
+      "reasoning_tokens": 384,
+      "total_tokens": 697
+    },
+    "elapsed_seconds": 6.161,
+    "response_id": "resp_06ef42357d94f0fd006991d50b5440819ebf108f5f355de15c",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164939.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 32,
+    "score": 30,
+    "raw_response": "吉田茂は戦後日本の復興と主権回復を最優先に据え、占領当局や米国とした交渉で巧みに主導権を握った実務家・政治家でした。軍事拡張を回避して経済重視の「吉田ドクトリン」を採った点では慎重ですが、外交・政治面では強い意志と交渉力を示したため、積極的・攻撃的な側面が強いと評価します。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 702,
+      "reasoning_tokens": 512,
+      "total_tokens": 837
+    },
+    "elapsed_seconds": 6.24,
+    "response_id": "resp_0e91cd2ab1aca358006991d50b5e108196a5697e639d4df596",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164939.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 33,
+    "score": 85,
+    "raw_response": "片山哲は戦後日本で社会党出身の首相として、平和主義・福祉重視・倫理的な姿勢を前面に出し、協調・合意形成を重んじたリーダーでした。攻めの政治や強硬な権力行使というよりは穏やかで控えめな印象が強く、短期政権となった背景にも対立を押し切る強引さの欠如が影響しています。以上から「草食系」寄りと評価します。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 815,
+      "reasoning_tokens": 640,
+      "total_tokens": 949
+    },
+    "elapsed_seconds": 8.977,
+    "response_id": "resp_060c179cf6ae0fa4006991d50b992c81a081e7462de59675ff",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164939.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 34,
+    "score": 80,
+    "raw_response": "芦田均は元弁護士・外交官としての合理的・法治的な傾向が強く、戦後の占領期における妥協・協調を重視した政治運営を行いました。強烈な政治的攻勢や闘争的リーダーシップというよりは、合意形成と穏健な調整を旨とするタイプであり、肉食系より草食系寄りと評価できます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 700,
+      "reasoning_tokens": 576,
+      "total_tokens": 835
+    },
+    "elapsed_seconds": 6.731,
+    "response_id": "resp_0eb5047a3db057dd006991d50bc94481a2a03942a92125097e",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164939.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 35,
+    "score": 30,
+    "raw_response": "鳩山一郎は戦後の政界で派閥を整え、保守勢力を結集して政権を築いた実務家・政略家でした。外交・党内調整で自己主張を強める場面が多く、野心的で行動的な側面が目立つ一方、妥協や合意形成も重視する現実主義でもあり、極端に攻撃的というよりは積極的なリーダータイプです。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 804,
+      "reasoning_tokens": 640,
+      "total_tokens": 940
+    },
+    "elapsed_seconds": 7.228,
+    "response_id": "resp_0ae1817a8a52af60006991d50bcf20819081ef68b148235a74",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164939.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 36,
+    "score": 85,
+    "raw_response": "石橋湛山はジャーナリスト出身で、理性的・知的で慎重な人格とされ、派閥抗争や強引な権力行使を好まない穏やかな政治スタイルが目立ちます。短い首相在任（1956–57）も健康や合意重視の姿勢で終わり、積極的に攻勢を仕掛けるというより調停・慎重運営を志向した点から、草食系寄りと評価できます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 556,
+      "reasoning_tokens": 384,
+      "total_tokens": 692
+    },
+    "elapsed_seconds": 4.716,
+    "response_id": "resp_08a91bcb4b75eb78006991d50c026881a09dc32c4732f2491f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164940.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 37,
+    "score": 10,
+    "raw_response": "岸信介は官僚出身で戦後復権して自民党内外で強い影響力を行使し、国防・安保強化や経済界との結びつきを優先して政策を押し切るタイプでした。1960年の安保条約改定では強硬手段や権力行使を辞さず、非常に野心的・主導的なリーダー像が際立ちます。穏やかで受動的な草食系よりむしろ積極的・攻撃的な肉食系に近い評価が妥当です。\n\nスコア: 10",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 786,
+      "reasoning_tokens": 576,
+      "total_tokens": 920
+    },
+    "elapsed_seconds": 7.958,
+    "response_id": "resp_0f779968a79587fb006991d50c00188196a86fa5dbcbcab3b4",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164940.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Crafting analysis in Japanese**\n\nI think I should provide a mapping earlier in the analysis and keep it short. My goal is to write in Japanese with a neutral tone and deliver a succinct analysis, which includes aspects like being assertive and power-oriented, and mentioning things like bureaucratic background and authoritarian methods. I want to end with a score rating, so let's make it 3-4 concise sentences followed by \"スコア: 10\". I've got this!"
+  },
+  {
+    "no": 38,
+    "score": 35,
+    "raw_response": "池田勇人は「所得倍増計画」など積極的な経済成長政策を打ち出して国の方向性を強力に推進した点で、野心的かつ行動的なリーダー性が目立ちます。一方で手法は対立を避ける穏健な調整・説得型で、強硬な対立や過激な動きは少なく、実務的・合意志向の側面も強いです。総じて攻めの政策を着実に進める「やや肉食系」寄りと評価します。\n\nスコア: 35",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 557,
+      "reasoning_tokens": 384,
+      "total_tokens": 692
+    },
+    "elapsed_seconds": 5.388,
+    "response_id": "resp_0cb73092e40a7dd1006991d50c3434819692bf594813e42188",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164940.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 39,
+    "score": 70,
+    "raw_response": "佐藤栄作は長期政権を築いた老練な政治家で、派手な攻勢よりも静かな調整力と現実主義で成果を出したタイプです。沖縄返還交渉や「非核三原則」表明など外交・政策面で大きな成果を挙げた一方、対外的対決や劇的な強行策を好むタイプではなく、党内調整や合意形成を重視する穏健さが目立ちます。野心はあっても表に出さない印象で、全体として草食系寄りと評価できます。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 814,
+      "reasoning_tokens": 640,
+      "total_tokens": 950
+    },
+    "elapsed_seconds": 7.466,
+    "response_id": "resp_019d7f102e3a64b4006991d50c6b9c819da1b3b329c0e32559",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164940.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 40,
+    "score": 10,
+    "raw_response": "田中角栄 — 考察:\n非常に野心的で実行力があり、派閥運営や利権を背景に権力を積極的に獲得・行使した典型的な「肉食系」。談合的・取引的な政治手法や派閥力学を駆使して政策と勢力を拡大し、外柔内剛の顔もあるが基本は攻めの姿勢が強い。スキャンダル（例：ローゼンゲート＝ロッキード事件）もその強引さ・実利志向と結びついて評価されることが多い。\n\nスコア: 10",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 653,
+      "reasoning_tokens": 448,
+      "total_tokens": 789
+    },
+    "elapsed_seconds": 5.803,
+    "response_id": "resp_0eb89441e23857a1006991d50fab0c8197960f6eff35938ba5",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164943.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Analyzing political traits**\n\nThe user is asking me to rate the historical Japanese Prime Minister Tanaka Kakuei on a scale of \"meat-eating\" versus \"grass-eating,\" which reflects aggressive versus passive traits. This isn't defamatory, as he's a public figure. Considering Tanaka's ambition, populist nature, and aggressive political tactics, his score should reflect his transactional, power-hungry personality. I’d lean towards a low score—around 10 or 15. I need to remember to format the final line as \"スコア: X.\""
+  },
+  {
+    "no": 41,
+    "score": 80,
+    "raw_response": "三木武夫は清廉性と倫理を重視し、派閥抗争で権力を拡大するより合意形成や制度整備（政治資金規正法成立など）を志向した穏健な指導者です。果断さに欠ける面や大衆動員で前に出るタイプではなく、どちらかと言えば控えめで受動的な印象があります。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 863,
+      "reasoning_tokens": 704,
+      "total_tokens": 998
+    },
+    "elapsed_seconds": 7.132,
+    "response_id": "resp_006b936125588e24006991d50fae2c8191a1c900fdb8b89204",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164943.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 42,
+    "score": 85,
+    "raw_response": "福田赳夫は派閥力や政治的手腕を持ちながらも、個人としては穏やかで目立たない「調整型・穏健派」の首相でした。強引な攻めや派手な権力闘争よりも合意形成や節度を重んじ、控えめで慎重な印象が強いです。外交でも安定志向で急進的な姿勢はあまり見られません。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 552,
+      "reasoning_tokens": 384,
+      "total_tokens": 688
+    },
+    "elapsed_seconds": 4.883,
+    "response_id": "resp_0d113953f3382c48006991d510b9a0819ea2bf0ed54d63185b",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164944.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 43,
+    "score": 85,
+    "raw_response": "大平正芳は穏やかで控えめな人柄と、派閥調整や妥協による合意形成を重視する政治スタイルで知られます。公の場での強い攻勢や派手な自己主張は少なく、合議と安定を優先する「調整型」のリーダーだったため、この軸では草食系寄りと評価できます（政策実行では巧妙な交渉力を発揮した点はあるが、攻撃的・野心的という印象は薄い）。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 609,
+      "reasoning_tokens": 448,
+      "total_tokens": 744
+    },
+    "elapsed_seconds": 6.731,
+    "response_id": "resp_065ab836b1fa729b006991d51113688191a331da48217a288d",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164945.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Justifying the score**\n\nI’m thinking I’d score this individual around 85, emphasizing their moderate, consensus-oriented, and conciliatory nature. They weren't aggressive in personal ambition, but they had political experience and could assert themselves in policy discussions. I'd highlight their ability to package policies and negotiate within factions, showing some ambition for the Prime Minister role but maintaining a calm style. I’ll provide a brief reasoning and include the phrase \"スコア: 85\" at the end. The score indicates herbivorous traits, given the scale."
+  },
+  {
+    "no": 44,
+    "score": 80,
+    "raw_response": "鈴木善幸は穏やかで調整志向、派閥間の妥協や党内安定を重視した「管理型」の首相でした。強烈なリーダーシップや革新的な攻勢で周囲を引っ張るというより、対立を避けて合意形成で物事を進めるタイプ。外交・経済ともに極端な冒険はせず、リスク回避的で控えめな印象が強いです。総じて草食系寄りの評価になります。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 674,
+      "reasoning_tokens": 512,
+      "total_tokens": 810
+    },
+    "elapsed_seconds": 6.145,
+    "response_id": "resp_05737cb6f40a3ed2006991d5117b3c81939b0c87ae29836489",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164945.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 45,
+    "score": 10,
+    "raw_response": "中曽根康弘は強いリーダーシップと改革志向で知られ、外交でも米国との密接な関係構築や積極的な発言で存在感を示した「攻め」の政治家です。派閥活用や行政改革（電電公社の民営化など）を主導するなど野心的・行動的な側面が強く、草食系の穏当さ・受動性とは対極にあります。\n\nスコア: 10",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 504,
+      "reasoning_tokens": 320,
+      "total_tokens": 641
+    },
+    "elapsed_seconds": 5.505,
+    "response_id": "resp_06e2ca8994722cde006991d5118ed8819793206bb053292f46",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164945.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "I'm preparing to respond to the user's request for a Japanese answer. They want me to format the last line exactly as \"スコア: X,\" where X will be a numeric value reflecting a scoring system between carnivorous and herbivorous traits. I'll ensure my response is concise, without any unnecessary warnings or insults. It’s also essential to keep the response at about 3 to 5 sentences, wrapping it up neatly with the specified score format at the end."
+  },
+  {
+    "no": 46,
+    "score": 30,
+    "raw_response": "竹下登は派閥運営や根回しに長け、政策決定や人事を巧みに仕切る「裏方の権力者」タイプでした。公的には穏やかで物腰は柔らかく控えめに見えますが、政治的には積極的・野心的に権力を拡大し成果を追求したため、攻めの性格が強いと評価できます（リクルート事件での辞任など負の側面も含めて政治的行動力が顕著）。  \nスコア: 30",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 806,
+      "reasoning_tokens": 640,
+      "total_tokens": 940
+    },
+    "elapsed_seconds": 6.502,
+    "response_id": "resp_04db103601000f36006991d5119c708191b2d6bd935a804503",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164945.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 47,
+    "score": 75,
+    "raw_response": "宇野宗佑は外交経験と文化的な魅力を持ちつつ、1989年の短期内閣はスキャンダルと選挙敗北であっさり退陣した点から、政治的に攻め立てる強烈なリーダータイプというよりは穏やかで調整志向、自己主張は必ずしも前面に出さないタイプという印象です。首相就任の野心は見えるものの、危機管理や攻撃的な政策推進力には乏しく、総じて草食系寄りと評価します。  \nスコア: 75",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 751,
+      "reasoning_tokens": 576,
+      "total_tokens": 887
+    },
+    "elapsed_seconds": 6.464,
+    "response_id": "resp_05c25342b2300d6e006991d511fa4c8196b88626c3db30a5fb",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164945.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 48,
+    "score": 80,
+    "raw_response": "海部俊樹は穏やかで軟らかな語り口と合意形成を重視するスタイルが目立ち、派閥力や強権的手法で押し切るタイプではありませんでした。リクルート禍後の収拾役としての就任や、外交での調整型リーダーシップ（中国・ASEANとの関係改善など）、国内外の危機対応でも対話と手続きを重視したため、積極的・攻撃的というよりは控えめで受動的な印象が強いです。一方で、政権の安定化や政策実行には一定の決断力も示したため、完全に「草食」でもありません。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 592,
+      "reasoning_tokens": 384,
+      "total_tokens": 728
+    },
+    "elapsed_seconds": 5.394,
+    "response_id": "resp_0231ede6341c722a006991d51282b0819e8456eb1df1da9754",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164946.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 49,
+    "score": 80,
+    "raw_response": "宮澤喜一は経済・外交の専門家肌で、穏やかで理性的、合意形成を重視する「官僚的・調整型」のリーダーでした。強引に周囲を押し切るタイプではなく、派閥調整や慎重な政策積み上げを好み、失策やスキャンダルへの対処も控えめで攻撃的な強行策を取らない傾向が強かったため、肉食系というより草食系寄りと評価できます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 581,
+      "reasoning_tokens": 384,
+      "total_tokens": 717
+    },
+    "elapsed_seconds": 6.032,
+    "response_id": "resp_0374eec24d18a161006991d5128ee481a1b43ada599515d820",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164946.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 50,
+    "score": 70,
+    "raw_response": "細川護熙は1993年に非自民連立を率いて政治改革を掲げた点では積極的・チャレンジングだったが、個人の風貌や政治手法は穏やかで文化人的・合意志向。派手な攻めよりも穏健な調整と潔癖さが目立ち、スキャンダルや対抗闘争に積極的に踏み込むタイプではなかったため、草食寄りと評価します。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 564,
+      "reasoning_tokens": 384,
+      "total_tokens": 700
+    },
+    "elapsed_seconds": 6.617,
+    "response_id": "resp_0447af88d13689ec006991d5128ce88197aca195089e0c7ab0",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164946.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Assessing temperament scores**\n\nI’m thinking about a score around 60-70 for his herbivore level. Let's map it out: 0 is very aggressive and 100 is super passive. He took decisive actions to form coalitions and push reforms, which suggests some meat-like qualities, but he was much more gentle in temperament. He sought consensus and wasn't ruthless, so I’d lean towards 70 as a midpoint. The reasoning emphasizes his reformist yet mild demeanor. I'll conclude with \"スコア: 70\"."
+  },
+  {
+    "no": 51,
+    "score": 65,
+    "raw_response": "羽田孜は旧態依然の自民党から離れて改革路線に加わるなど行動力はある一方、連立工作や妥協で政局を乗り切ろうとするタイプで、強烈に攻め立てる「肉食系」というよりは穏健で調整志向の「草食系」に近いです。短期内閣に終わったことや、派手な強硬姿勢よりも合意形成を優先した点から、受動的・控えめな性格の要素が強く見えます。\n\nスコア: 65",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 897,
+      "reasoning_tokens": 704,
+      "total_tokens": 1032
+    },
+    "elapsed_seconds": 8.601,
+    "response_id": "resp_09f7d4aa06ca6e6e006991d512db4c8195838aebe8df9557b4",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164946.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 52,
+    "score": 85,
+    "raw_response": "村山富市は穏やかで協調志向、謝罪と和解を重視する姿勢が特徴的でした。党内外での合意形成や自らの反省・謝罪表明（いわゆる「村山談話」）など、攻撃的・野心的というよりは受容的・調停的なリーダー像が強いです。一方で自民との連立を成立させる現実的な政治判断も行っており、まったく積極性がなかったわけではありません。総じて草食系寄りの評価になります。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 573,
+      "reasoning_tokens": 384,
+      "total_tokens": 708
+    },
+    "elapsed_seconds": 5.928,
+    "response_id": "resp_0269a10d9097ff4f006991d512e88881a2830ec9eb67c86b10",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164946.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 53,
+    "score": 25,
+    "raw_response": "橋本龍太郎は財政再建や行政改革などの構造改革を強力に推し進めた「断行型」の首相で、発言も時に強気・率直で攻めの政治姿勢が目立ちます。一方で派閥間調整や現実的妥協も行う実務派でもあり、完全な強硬一辺倒ではありません。総じて肉食系寄りの評価です。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 693,
+      "reasoning_tokens": 576,
+      "total_tokens": 829
+    },
+    "elapsed_seconds": 7.14,
+    "response_id": "resp_055d3d86a7d02d6a006991d5130d5081948564194d978729ec",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164947.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 54,
+    "score": 80,
+    "raw_response": "小渕恵三は温厚で控えめな物腰と合意形成を重視する政治手法が特徴でした。派手な演出や強烈なリーダーシップで前面に出るタイプではなく、官僚や党内調整を着実にこなす「穏やかな実務家」寄り。経済対策や危機対応では積極的な政策は取る一方、個人的な攻勢性や派手さは乏しく、草食系の要素が強いと評価できます。  \nスコア: 80",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 611,
+      "reasoning_tokens": 448,
+      "total_tokens": 748
+    },
+    "elapsed_seconds": 5.098,
+    "response_id": "resp_08754bbf80c5260c006991d513a2688190860f7be8717cb811",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164947.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 55,
+    "score": 20,
+    "raw_response": "森喜朗は派閥力と強い統制志向で知られ、トップダウンで物事を進める積極的・攻撃的な政治スタイルが目立ちました。率直で強引な発言や人事主導などから「押しの強さ」が際立ち、調整より主導を優先する傾向が強い一方で、年長になってからは保守的で硬直的な面もあります。総じて肉食系寄りと評価します。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 541,
+      "reasoning_tokens": 384,
+      "total_tokens": 675
+    },
+    "elapsed_seconds": 5.107,
+    "response_id": "resp_02de476788ad5852006991d513a4588190b03ce6ed4a030e30",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164947.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 56,
+    "score": 15,
+    "raw_response": "小泉純一郎は大胆な改革志向と強いリーダーシップで知られ、郵政民営化をはじめ党内外の抵抗を押し切って政策を推進した点は典型的な「肉食系」。メディア戦略やパフォーマンスも攻めの姿勢が目立ち、控えめ・受動的とは言い難いです。一方でカリスマ性やポピュリズム的な柔らかさも併せ持っていたため、完全な強硬一辺倒でもありません。\n\nスコア: 15",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 515,
+      "reasoning_tokens": 320,
+      "total_tokens": 651
+    },
+    "elapsed_seconds": 5.487,
+    "response_id": "resp_0b89bbb06c97b2a4006991d513df3481a1a18513c189361435",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164947.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "I'm considering giving a score of 15. My reasoning includes factors like strong leadership, bold reforms such as postal privatization, and a confrontational style both with factions and within the party. The popularity, media-savviness, and decisiveness also play a role, along with a touch of playfulness in politics. It's not a passive approach either. So, I think 15 is appropriate. I'll keep it concise and in simple language. \n\nスコア: 15"
+  },
+  {
+    "no": 57,
+    "score": 20,
+    "raw_response": "安倍晋三は全体として積極的・攻撃的な「肉食系」寄りのリーダーと評価できます。経済政策（アベノミクス）で大胆な金融・財政・成長戦略を打ち出し、安全保障では憲法解釈の変更や集団的自衛権の行使容認を推進、外交でも積極的に日米関係強化や国際発信を行った点が典型的な肉食的行動です。一方で、礼節や慎重さを見せる場面もあり、全く粗暴というわけではありませんが、方針決定と行動の積極性は高いです。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 627,
+      "reasoning_tokens": 448,
+      "total_tokens": 762
+    },
+    "elapsed_seconds": 5.684,
+    "response_id": "resp_0857f8bbc30c08d7006991d513f9bc81a0ab035fcdb770cfcf",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164947.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 58,
+    "score": 85,
+    "raw_response": "福田康夫は温厚で穏やかな合意形成重視の政治家という評価が一般的です。目立つ強烈なリーダーシップや攻撃的な政策推進よりも、調整役・和解役を務めるタイプで、発言や行動も控えめ。外交でも対話・信頼関係の構築を重視し、党内外の対立をあえて強く押し切るような印象は少なかったため、「草食系」寄りと判断できます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 511,
+      "reasoning_tokens": 320,
+      "total_tokens": 646
+    },
+    "elapsed_seconds": 4.243,
+    "response_id": "resp_04559515f39094f7006991d5147738819cb065cdc08bb9b8d7",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164948.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 59,
+    "score": 20,
+    "raw_response": "麻生太郎は政界で積極的かつ自己主張の強い人物として知られ、率直で時に攻撃的な発言や強いリーダーシップを見せるため、草食系より明らかに肉食系寄りと判断します。ただしユーモアやおおらかさもあるため極端な肉食一辺倒ではありません。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 603,
+      "reasoning_tokens": 448,
+      "total_tokens": 738
+    },
+    "elapsed_seconds": 4.868,
+    "response_id": "resp_0112fadaa453b8dd006991d514c58c819dae07554c54e40832",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164948.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 60,
+    "score": 75,
+    "raw_response": "鳩山由紀夫は理想主義で対話・外交を重視する穏やかな印象が強く、強引に突き進むタイプではなく妥協や調整で進めようとすることが多かった。党内外での野心や改革意欲はあったものの、実行力や攻めの姿勢に欠け、批判や逆風に対して後退する場面が目立ったため、全体として草食寄りと評価します。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 684,
+      "reasoning_tokens": 512,
+      "total_tokens": 821
+    },
+    "elapsed_seconds": 6.655,
+    "response_id": "resp_0d880191cd59b5b2006991d5157bb08191965c6d22a0ba45b0",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164949.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 61,
+    "score": 30,
+    "raw_response": "菅直人は活動家出身で、官僚や既得権に対して強く切り込むことが多く、議論や対立を辞さない積極性を持つ一方、政策志向で現場に踏み込むタイプです。福島原発事故対応では現場主導を優先して強い姿勢を見せた反面、調整力や冷静な統率という点で批判されることもあり、極端に攻撃的というよりは粘り強く積極的な「肉食系寄り」と評価できます。\nスコア: 30",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 935,
+      "reasoning_tokens": 768,
+      "total_tokens": 1070
+    },
+    "elapsed_seconds": 10.858,
+    "response_id": "resp_01e1d7e54a58c10a006991d5159b9481a1b53074f60a50fa64",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164949.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Analyzing political scoring**\n\nI'll be concise and provide a short analysis on scoring, maybe around 30. I'm thinking he scores moderately on meat-eating, about 30-40, considering his assertive and confrontational politics, though not extreme. He was known for his earnest leadership, especially during the nuclear crisis, but some criticized his coordination skills. \n\nNow, I need to provide a brief description in Japanese: \"菅直人は…\". I'll also make sure to conclude with \"スコア: 30\"."
+  },
+  {
+    "no": 62,
+    "score": 70,
+    "raw_response": "穏やかで実務・合意重視の政治家という印象が強く、派手な強硬姿勢や闘争的なリーダーシップはあまり見られません。一方で、財政再建のための消費税増税など政治的リスクを取る決断力は示しており、完全に受け身のタイプでもない。総じて控えめだが必要な場面で踏み込む「草食寄りの現実主義者」と評価します。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 662,
+      "reasoning_tokens": 512,
+      "total_tokens": 797
+    },
+    "elapsed_seconds": 6.055,
+    "response_id": "resp_099d8eb1f10c97ec006991d516cfec819daaab2945c6cf2c89",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164950.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 63,
+    "score": 35,
+    "raw_response": "菅義偉は無口で穏やかな印象が強い一方、官僚ルートをたどり着実に権力を固めた粘り強さと実務主義を持つ人物です。派手な対立や強烈な攻勢型ではないが、政策実行や組織運営では断固とした決断を下す場面も多く、攻めの姿勢を控えめに持つタイプと評価できます。したがって完全な草食ではなく、やや肉食寄りの現実主義者と判断します。\n\nスコア: 35",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 795,
+      "reasoning_tokens": 640,
+      "total_tokens": 931
+    },
+    "elapsed_seconds": 6.923,
+    "response_id": "resp_0fab120d1780e255006991d5170ec4819589820110df00670d",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164951.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 64,
+    "score": 75,
+    "raw_response": "岸田文雄は基本的に穏健で慎重、合意形成と調整を重視するリーダー像です。表情や語り口も抑制的で、派手な強硬策や前面に出る攻撃性はあまり見られません。一方で、現職首相として安全保障の見直しや経済政策（「新しい資本主義」）などで一定の決断力は示しており、完全な受け身というわけではありません。総じて草食系寄りだが、状況に応じて肉食的な側面も持つ中庸寄りの草食型と評価します。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 503,
+      "reasoning_tokens": 320,
+      "total_tokens": 638
+    },
+    "elapsed_seconds": 5.672,
+    "response_id": "resp_0c8d4ff8622c29fc006991d517a094819697865b00dcd86ad4",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771164951.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Crafting carefully**\n\nI want to be cautious as I craft my response. It's important to avoid anything that could be seen as defamation. Of course, expressing an opinion and providing analysis is allowed, so I need to keep my tone neutral while delivering insights. I’ll focus on being objective and thoughtful, ensuring I provide valuable analysis without stepping on any toes. Let’s create a response that balances opinion with careful consideration."
+  }
+]
