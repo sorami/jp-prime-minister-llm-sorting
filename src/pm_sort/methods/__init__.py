@@ -4,6 +4,7 @@ from .pairwise import (
     compare_pair,
     find_transitivity_violations,
     kwiksort_cached,
+    kwiksort_live,
     resolve_winner,
     win_count_sort,
 )
