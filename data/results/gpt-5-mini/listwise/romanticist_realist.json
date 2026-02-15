@@ -1,0 +1,17 @@
+{
+  "raw_response": "33,50,51,60,52,36,5,31,7,34,14,17,18,56,57,35,11,41,32,23,40,38,39,44,49,48,42,43,45,55,1,3,6,2,4,9,10,12,13,15,16,19,20,21,24,25,26,27,28,29,8,30,61,47,22,37,46,53,54,58,59,62,63,64",
+  "prompt": "以下の64人の内閣総理大臣を「ロマンチスト ↔ リアリスト」の軸で並べ替えてください。\n理想や信念を追い求めるタイプか、現実的・実利的な判断を重視するタイプか\n\n1. 伊藤博文\n2. 黒田清隆\n3. 山県有朋\n4. 松方正義\n5. 大隈重信\n6. 桂太郎\n7. 西園寺公望\n8. 山本権兵衛\n9. 寺内正毅\n10. 原敬\n11. 高橋是清\n12. 加藤友三郎\n13. 清浦奎吾\n14. 加藤高明\n15. 若槻礼次郎\n16. 田中義一\n17. 浜口雄幸\n18. 犬養毅\n19. 斎藤実\n20. 岡田啓介\n21. 広田弘毅\n22. 林銑十郎\n23. 近衛文麿\n24. 平沼騏一郎\n25. 阿部信行\n26. 米内光政\n27. 東條英機\n28. 小磯国昭\n29. 鈴木貫太郎\n30. 東久邇宮稔彦王\n31. 幣原喜重郎\n32. 吉田茂\n33. 片山哲\n34. 芦田均\n35. 鳩山一郎\n36. 石橋湛山\n37. 岸信介\n38. 池田勇人\n39. 佐藤栄作\n40. 田中角栄\n41. 三木武夫\n42. 福田赳夫\n43. 大平正芳\n44. 鈴木善幸\n45. 中曽根康弘\n46. 竹下登\n47. 宇野宗佑\n48. 海部俊樹\n49. 宮澤喜一\n50. 細川護熙\n51. 羽田孜\n52. 村山富市\n53. 橋本龍太郎\n54. 小渕恵三\n55. 森喜朗\n56. 小泉純一郎\n57. 安倍晋三\n58. 福田康夫\n59. 麻生太郎\n60. 鳩山由紀夫\n61. 菅直人\n62. 野田佳彦\n63. 菅義偉\n64. 岸田文雄\n\nロマンチスト寄りの人物からリアリスト寄りの人物の順に、番号のみをカンマ区切りで出力してください。",
+  "usage": {
+    "input_tokens": 615,
+    "cached_input_tokens": 0,
+    "output_tokens": 4636,
+    "reasoning_tokens": 4480,
+    "total_tokens": 5251
+  },
+  "elapsed_seconds": 37.295,
+  "response_id": "resp_0de0dbe683c8310b006991d7aa599c81a1b1645f65ae849cb2",
+  "model": "gpt-5-mini-2025-08-07",
+  "created_at": "1771165610.0",
+  "reasoning_effort": "medium",
+  "reasoning_summary": "**Organizing political figures**\n\nI'm grouping political figures by their romanticism level, aiming to create an ordered sequence. For the most romantic cluster (1-12), I've identified individuals like Katayama and Hosokawa, among others.\n\nNext, for numbers 13-24, I'm leaning romantic with figures like Inukai and Koizumi but reconsidering some placements, such as Kishi's more realist tendencies. I need to ensure clarity in my approach, so I might have to refine this list as I go!"
+}
