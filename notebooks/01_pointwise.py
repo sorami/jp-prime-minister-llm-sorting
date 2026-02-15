@@ -193,8 +193,8 @@ def _(alt, criterion, mo, pl, pointwise_results):
     return
 
 
-app._unparsable_cell(
-    r"""
+@app.cell(hide_code=True)
+def _(criterion, mo, pl, pms, pointwise_results):
     _df = pl.DataFrame(pointwise_results).filter(pl.col("score").is_between(0, 100))
     _pms_lookup = {p["no"]: p["name"] for p in pms}
 
@@ -215,13 +215,11 @@ app._unparsable_cell(
     _header = "| # | 首相 | スコア |\n|---|------|--------|"
 
     mo.md(
-        f"## {} スコア上位・下位\n\n"
+        f"## {criterion.label_ja} スコア上位・下位\n\n"
         f"### 上位5人\n\n{_header}\n{_fmt_rows(_top5)}\n\n"
         f"### 下位5人\n\n{_header}\n{_fmt_rows(_bottom5)}"
     )
-    """,
-    name="_",
-)
+    return
 
 
 @app.cell(hide_code=True)
