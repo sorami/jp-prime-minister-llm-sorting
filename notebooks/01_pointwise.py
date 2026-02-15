@@ -170,7 +170,7 @@ def _(format_usage_summary, mo, pl, pointwise_results):
 
 
 @app.cell
-def _(alt, mo, pl, pointwise_results):
+def _(alt, criterion, mo, pl, pointwise_results):
     _df = pl.DataFrame(pointwise_results).filter(pl.col("score").is_between(0, 100))
 
     _step = 5
@@ -182,15 +182,15 @@ def _(alt, mo, pl, pointwise_results):
             x=alt.X("score:Q", bin=alt.Bin(step=_step), title="スコア"),
             y=alt.Y("count():Q", title="人数"),
         )
-        .properties(title=f"スコア分布（{_step}点刻み）", width=500, height=300)
+        .properties(title=f"{criterion.label_ja}: スコア分布（{_step}点刻み）", width=500, height=300)
     )
 
     mo.vstack([mo.md("## スコア分布"), mo.ui.altair_chart(_chart)])
     return
 
 
-@app.cell
-def _(mo, pl, pms, pointwise_results):
+app._unparsable_cell(
+    r"""
     _df = pl.DataFrame(pointwise_results).filter(pl.col("score").is_between(0, 100))
     _pms_lookup = {p["no"]: p["name"] for p in pms}
 
@@ -211,11 +211,13 @@ def _(mo, pl, pms, pointwise_results):
     _header = "| # | 首相 | スコア |\n|---|------|--------|"
 
     mo.md(
-        f"## スコア上位・下位\n\n"
+        f"## {} スコア上位・下位\n\n"
         f"### 上位5人\n\n{_header}\n{_fmt_rows(_top5)}\n\n"
         f"### 下位5人\n\n{_header}\n{_fmt_rows(_bottom5)}"
     )
-    return
+    """,
+    name="_"
+)
 
 
 @app.cell(hide_code=True)
@@ -264,6 +266,15 @@ def _(mo, pl, pms, pointwise_results):
             for r in _names.iter_rows(named=True)
         )
         _lines.append(f"- **{_score}点**（{row['len']}人）: {_name_list}")
+
+    _unique = _score_counts.filter(pl.col("len") == 1)
+    if _unique.height > 0:
+        _lines.append(f"\n### 単独スコア（{_unique.height}人）\n")
+        for row in _unique.iter_rows(named=True):
+            _score = row["score"]
+            _r = _df.filter(pl.col("score") == _score).row(0, named=True)
+            _name = _pms_lookup.get(_r["no"], str(_r["no"]))
+            _lines.append(f"- **{_score}点**: {_name}")
 
     mo.md("\n".join(_lines))
     return
