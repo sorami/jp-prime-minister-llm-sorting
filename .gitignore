@@ -11,3 +11,6 @@ data/results/
 *.log
 
 .claude/
+
+# marimo
+__marimo__/
