@@ -13,7 +13,7 @@ DEFAULT_REASONING_EFFORT = "medium"
 DEFAULT_REASONING_SUMMARY = "detailed"
 
 # API同時並列リクエスト数の上限。
-MAX_CONCURRENCY = 20
+MAX_CONCURRENCY = 50
 
 
 # モデルごとのトークン単価（USD / 1M tokens）。

@@ -4,15 +4,15 @@ from dataclasses import dataclass, field
 
 from openai import AsyncOpenAI
 
-from ..api import (
+from ..core.api import (
     Usage,
     call_with_retry,
     extract_reasoning_summary,
     extract_usage,
     maybe_acquire,
 )
-from ..config import get_model
-from ..criteria import Criterion
+from ..core.config import get_model
+from ..core.criteria import Criterion
 
 
 @dataclass

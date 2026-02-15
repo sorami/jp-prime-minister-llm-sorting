@@ -14,11 +14,11 @@ def _():
     from dotenv import load_dotenv as _load_dotenv
     from openai import AsyncOpenAI
 
-    from pm_sort.api import format_usage_summary
-    from pm_sort.cache import has_cache, load_results, save_results
-    from pm_sort.compare import score_pointwise
-    from pm_sort.config import MAX_CONCURRENCY
-    from pm_sort.data import load_prime_ministers
+    from pm_sort.core.api import format_usage_summary
+    from pm_sort.core.cache import has_cache, load_results, save_results
+    from pm_sort.core.config import MAX_CONCURRENCY
+    from pm_sort.core.data import load_prime_ministers
+    from pm_sort.methods import score_pointwise
 
     _load_dotenv()
     return (
@@ -58,8 +58,8 @@ def _(load_prime_ministers):
 
 @app.cell
 def _(mo):
-    from pm_sort.criteria import CRITERIA
-    from pm_sort.criteria import DEFAULT_CRITERION as _DEFAULT_CRITERION
+    from pm_sort.core.criteria import CRITERIA
+    from pm_sort.core.criteria import DEFAULT_CRITERION as _DEFAULT_CRITERION
 
     criterion_selector = mo.ui.dropdown(
         options={c.label_ja: name for name, c in CRITERIA.items()},
@@ -182,7 +182,11 @@ def _(alt, criterion, mo, pl, pointwise_results):
             x=alt.X("score:Q", bin=alt.Bin(step=_step), title="スコア"),
             y=alt.Y("count():Q", title="人数"),
         )
-        .properties(title=f"{criterion.label_ja}: スコア分布（{_step}点刻み）", width=500, height=300)
+        .properties(
+            title=f"{criterion.label_ja}: スコア分布（{_step}点刻み）",
+            width=500,
+            height=300,
+        )
     )
 
     mo.vstack([mo.md("## スコア分布"), mo.ui.altair_chart(_chart)])
@@ -216,7 +220,7 @@ app._unparsable_cell(
         f"### 下位5人\n\n{_header}\n{_fmt_rows(_bottom5)}"
     )
     """,
-    name="_"
+    name="_",
 )
 
 
