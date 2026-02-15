@@ -407,5 +407,86 @@ def _(
     return
 
 
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md("""
+    ---
+    """)
+    return
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md("""
+    ## 手法間の精度比較
+
+    勝利数ソート（ベースライン）に対するリストワイズ法の Kendall τ を比較する。
+    リストワイズの結果は `02_listwise.py` で取得済みのキャッシュを参照。
+
+    ※ ポイントワイズ法は同率スコアが大量に発生し（64人中92%が同率）、順位付けが困難なため比較対象外とした。
+    """)
+    return
+
+
+@app.cell(hide_code=True)
+def _(criterion, has_cache, load_results, mo, pl, pms_by_no, wc_rank_map):
+    import re as _re
+
+    from scipy.stats import kendalltau as _kendalltau
+
+    _all_nos = sorted(pms_by_no.keys())
+    _wc_ranks = [wc_rank_map[no] for no in _all_nos]
+
+    _rows = []
+
+    # --- リストワイズ ---
+    if has_cache("listwise", criterion.name):
+        _lw_result = load_results("listwise", criterion.name)
+        _lw_numbers = [int(x) for x in _re.findall(r"\d+", _lw_result["raw_response"])]
+        _valid_nos = set(_all_nos)
+        _lw_unique = []
+        _seen = set()
+        for n in _lw_numbers:
+            if n in _valid_nos and n not in _seen:
+                _lw_unique.append(n)
+                _seen.add(n)
+        if len(_lw_unique) == len(_all_nos):
+            _lw_rank_map = {no: rank + 1 for rank, no in enumerate(_lw_unique)}
+            _lw_ranks = [_lw_rank_map[no] for no in _all_nos]
+            _tau, _ = _kendalltau(_wc_ranks, _lw_ranks)
+            _rows.append(
+                {
+                    "手法": "リストワイズ（一括ランキング）",
+                    "API呼出数": 1,
+                    "Kendall τ": round(_tau, 2),
+                }
+            )
+
+    # --- ペアワイズ総当たり（ベースライン）---
+    _rows.append(
+        {
+            "手法": "ペアワイズ総当たり（ベースライン）",
+            "API呼出数": len(_all_nos) * (len(_all_nos) - 1),
+            "Kendall τ": 1.00,
+        }
+    )
+
+    if len(_rows) <= 1:
+        _output = mo.md(
+            "リストワイズのキャッシュが見つかりません。"
+            "先に `02_listwise.py` を実行してください。"
+        )
+    else:
+        _df = pl.DataFrame(_rows)
+        _output = mo.vstack(
+            [
+                mo.ui.table(_df),
+                mo.md("※ KwikSort の Kendall τ は上の100回実行の結果を参照。"),
+            ]
+        )
+    _output
+    return
+
+
 if __name__ == "__main__":
     app.run()
