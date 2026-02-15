@@ -1,7 +1,7 @@
 import csv
 from pathlib import Path
 
-DATA_DIR = Path(__file__).parent.parent.parent / "data"
+DATA_DIR = Path(__file__).parent.parent.parent.parent / "data"
 
 
 def load_prime_ministers() -> list[dict]:

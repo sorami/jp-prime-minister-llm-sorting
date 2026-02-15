@@ -7,7 +7,7 @@ from .config import get_model
 
 logger = logging.getLogger(__name__)
 
-RESULTS_DIR = Path(__file__).parent.parent.parent / "data" / "results"
+RESULTS_DIR = Path(__file__).parent.parent.parent.parent / "data" / "results"
 
 
 def _cache_path(experiment: str, criterion_name: str, suffix: str = "") -> Path:
