@@ -21,8 +21,14 @@ def resolve_winner(pair_results: dict, a: int, b: int) -> str:
     return "TIE"
 
 
-def win_count_sort(pair_results: dict) -> list[tuple[int, float]]:
-    """全ペア比較データから勝利数でソートする。[(no, wins), ...] を降順で返す。"""
+def win_count_sort(pair_results: dict) -> list[tuple[int, int, float]]:
+    """全ペア比較データから勝利数でソートする。
+
+    同じ勝利数の人物には同じ順位を付与する（標準競技順位方式: 1, 2, 2, 4, ...）。
+
+    Returns:
+        [(no, rank, wins), ...] を勝利数降順で返す。
+    """
     all_nos = sorted(pair_results.keys())
     wins: dict[int, float] = {no: 0.0 for no in all_nos}
     for a, b in combinations(all_nos, 2):
@@ -34,7 +40,15 @@ def win_count_sort(pair_results: dict) -> list[tuple[int, float]]:
         else:
             wins[a] += 0.5
             wins[b] += 0.5
-    return sorted(wins.items(), key=lambda x: (-x[1], x[0]))
+    sorted_items = sorted(wins.items(), key=lambda x: (-x[1], x[0]))
+
+    # 標準競技順位: 同じ勝利数には同じ順位、次は飛ばす
+    result_list: list[tuple[int, int, float]] = []
+    for i, (no, w) in enumerate(sorted_items):
+        if i == 0 or w != sorted_items[i - 1][1]:
+            current_rank = i + 1
+        result_list.append((no, current_rank, w))
+    return result_list
 
 
 def find_transitivity_violations(

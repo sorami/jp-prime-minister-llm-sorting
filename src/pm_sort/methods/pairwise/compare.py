@@ -52,12 +52,20 @@ class PairwiseResult:
 def _parse_winner(text: str) -> str:
     """CoTレスポンスから勝者（AまたはB）をパースする。
 
-    「回答: A」「回答: B」パターンを優先し、
-    見つからなければ最終行をフォールバックとして確認する。
+    以下の順で探索する:
+    1. 「回答: A」パターン
+    2. 「結論....: A」パターン（括弧付きの補足を含む場合）
+    3. 最終行が単独の A or B
     """
+    # 「回答: A」
     match = re.search(r"回答[：:]\s*([ABab])", text)
     if match:
         return match.group(1).upper()
+    # 「結論（...）: A」「結論: A」
+    match = re.search(r"結論(?:\（[^）]*\）)?[：:]\s*([ABab])", text)
+    if match:
+        return match.group(1).upper()
+    # 最終行フォールバック
     for line in reversed(text.strip().splitlines()):
         line = line.strip()
         if line in ("A", "B", "a", "b"):

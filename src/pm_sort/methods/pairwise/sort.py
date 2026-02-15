@@ -63,9 +63,14 @@ def _kwiksort_cached_inner(
             elif winner == "B":
                 right.append(item)
             else:
-                raise ValueError(
-                    f"不正な比較結果: pivot={pivot['name']}, item={item['name']}, winner={winner!r}"
+                # INVALID など — 同等として扱う
+                logger.warning(
+                    "不正な比較結果を同等として扱います: pivot=%s, item=%s, winner=%r",
+                    pivot["name"],
+                    item["name"],
+                    winner,
                 )
+                equal.append(item)
 
         if comparison_log is not None:
             comparison_log.append({"no_a": pivot_no, "no_b": item_no})
