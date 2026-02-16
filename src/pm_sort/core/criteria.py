@@ -11,12 +11,12 @@ class Criterion:
 
 
 CRITERIA: dict[str, Criterion] = {
-    "right_left": Criterion(
-        name="right_left",
+    "left_right": Criterion(
+        name="left_right",
         label_ja="左派 ↔ 右派",
         left="左派",
         right="右派",
-        description="伝統・秩序・現状維持を重視する右派的な政治姿勢か、改革・変革を志向する左派的な政治姿勢か",
+        description="改革・変革を志向する左派的な政治姿勢か、伝統・秩序・現状維持を重視する右派的な政治姿勢か",
     ),
     "topdown_bottomup": Criterion(
         name="topdown_bottomup",
@@ -55,4 +55,4 @@ CRITERIA: dict[str, Criterion] = {
     ),
 }
 
-DEFAULT_CRITERION = "right_left"
+DEFAULT_CRITERION = "left_right"

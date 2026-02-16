@@ -1,0 +1,1154 @@
+[
+  {
+    "no": 1,
+    "score": 80,
+    "raw_response": "伊藤博文は西洋の制度を取り入れて近代化を推進した一方で、天皇中心の立憲君主制と官僚主導の秩序を重視し、制限選挙・権威主義的統治を設計した人物です。大規模な制度変革を行ったが、それは既存権威の強化と安定維持を目的とするトップダウンの保守的近代化であり、民主的・平等志向の「左派」的志向とは距離があると言えます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 670,
+      "reasoning_tokens": 512,
+      "total_tokens": 806
+    },
+    "elapsed_seconds": 11.887,
+    "response_id": "resp_0af1ca1d07cdfdd400699346f179548190adef700d5e931f36",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Assessing political score**\n\nI’m considering a score leaning towards the right, possibly between 75 and 85. The focus is on their orchestrated state transformations, which include centralization and land tax reforms, but these were top-down efforts to strengthen the elite rather than support democratization. The score might sit around 80. I’ll note the drafting of the Meiji Constitution, limited suffrage, collaboration with oligarchs, and assassination by a nationalist. Ultimately, I’m arguing for a score of 80. 「スコア: 80」."
+  },
+  {
+    "no": 2,
+    "score": 80,
+    "raw_response": "黒田清隆は維新の藩閥出身で、北海道開拓や近代化を積極的に推進した一方で、明治政府の官僚的・中央集権的運営を重視し、政党勢力や大衆的政治参加よりもエリートによる統治を志向しました。開拓使の官有物払下げ疑獄などは既存の特権的ネットワークと結びつく保守的性向を示唆します。近代化への推進力はあるものの、政治的には伝統・秩序・官僚支配を優先する右派寄りと評価できます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 780,
+      "reasoning_tokens": 576,
+      "total_tokens": 916
+    },
+    "elapsed_seconds": 11.02,
+    "response_id": "resp_0bacf1062648e3e800699346f1bf588194acb8176174514fcd",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 3,
+    "score": 95,
+    "raw_response": "山縣有朋は明治期の元老・陸軍実力者で、強い中央集権・軍事力重視、秩序維持と伝統的権威の擁護を志向した政治家です。立憲制度を支持したものの、政党政治や大衆的改革には懐疑的で、緊張抑圧や官僚支配を通じた現状維持を優先しました。したがって左派的改革志向というより明確に保守・秩序重視の右派的立場と評価できます。\n\nスコア: 95",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 615,
+      "reasoning_tokens": 448,
+      "total_tokens": 751
+    },
+    "elapsed_seconds": 7.901,
+    "response_id": "resp_07f941a38458df4700699346f1ee4881a0a67f01aeeb3eefe9",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 4,
+    "score": 85,
+    "raw_response": "松方正義は明治期の元老・実務派で、財政再建（松方財政）による緊縮・デフレ政策、政府支出削減や金本位制導入などを通じて秩序維持と財政健全化を最優先した人物です。産業育成は進めたものの、あくまで官から民への移行を進める保守的・エリート主導の手法であり、急進的な社会改革や民主的な変革志向は薄く、伝統・現状維持寄りの姿勢が強く表れています。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 718,
+      "reasoning_tokens": 512,
+      "total_tokens": 854
+    },
+    "elapsed_seconds": 8.765,
+    "response_id": "resp_0fb73d7ac3d502c200699346f1eb6c81949ae660744ee86e64",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Finalizing the score**\n\nI want to keep the conclusion succinct, so I'll go with a score of 85. I could have chosen 80, but I think 85 feels right. I’ll ensure the last line is exactly \"スコア: 85.\" This sounds good for a final touch!"
+  },
+  {
+    "no": 5,
+    "score": 20,
+    "raw_response": "大隈重信は立憲改進党を創設し、立憲政治・議会制・近代化・教育振興（早稲田大学創設）を強く主張した「改革志向」の政治家で、明治の藩閥支配や専制的傾向に対抗して制度改革を求めた点で左派寄りと評価できます。一方で急進的な社会主義ではなく、資本主義・実務的な妥協を重ねた穏健な自由主義者でもあり、改革は漸進的・制度内で行う傾向が強かったため、極端な左翼にはあたりません。  \nスコア: 20",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 763,
+      "reasoning_tokens": 576,
+      "total_tokens": 900
+    },
+    "elapsed_seconds": 10.009,
+    "response_id": "resp_019f3f4468b63f6a00699346f1b7c081979776daa6b85eae79",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Considering Ōkuma’s Score**\n\nI need to determine a score for Ōkuma on the political spectrum, aiming for low on the left, perhaps around 20. He was somewhat progressive but also an establishment figure who supported elite politics initially. His advocacy for constitutional governments shows reformist tendencies, but he wasn't a radical socialist and promoted limited reforms. Reflecting on his focus on modernization and education as well as opposition to oligarchy can justify the score. I'll finalize it in Japanese: \"スコア: 20\"."
+  },
+  {
+    "no": 6,
+    "score": 90,
+    "raw_response": "桂太郎は陸軍出身の元帥で、元老（＝藩閥・高級官僚）と結びつき、政党政治よりも官僚・軍部主導の安定と秩序を重視した保守的指導者でした。急進的な改革や社会的平等を求める左派的志向は薄く、軍事力と帝国的拡張を支持し、伝統的な統治構造の維持に傾いていたため、右寄りの評価が妥当です。  \nスコア: 90",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 631,
+      "reasoning_tokens": 448,
+      "total_tokens": 766
+    },
+    "elapsed_seconds": 7.512,
+    "response_id": "resp_0ded332650d5b80700699346f182e88190ac043e7852c3d9df",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 7,
+    "score": 35,
+    "raw_response": "西園寺公望は憲政擁護・政党政治の擁護者で、内閣制度と議会の力を重視して軍部主導や超国家主義に反対した点で改革的・リベラル寄りだった一方、元華族で皇室・秩序を尊重し急進的な変革は避ける慎重さも持っていた。したがって完全な左翼ではなく穏健なリベラル（中道左派）に位置づけられる。\n\nスコア: 35",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 650,
+      "reasoning_tokens": 512,
+      "total_tokens": 787
+    },
+    "elapsed_seconds": 12.507,
+    "response_id": "resp_00a0f40dabeaf8ad00699346f1aff881959aecda4132dbb6ad",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Assessing political leaning**\n\nI'm considering Saionji's support for parliamentary democracy and reforms, which leans slightly left historically. He championed party politics and constitutional government while opposing military extremism, suggesting a center-left leaning. I think a score of 35 or 40 fits best, given he was more moderate than socialists but still a reformist. He did resist universal suffrage early on but later supported its extension. Overall, I’ll settle on 35 and summarize: 彼は憲法主義と議会制政府を支持し、軍の拡張に反対し、政党内閣を促進しました; しかし、彼は保守的な貴族でした。スコア: 35."
+  },
+  {
+    "no": 8,
+    "score": 80,
+    "raw_response": "山本権兵衛は海軍出身の元老的な政治家で、軍事と官僚機構を重視し、政党中心の革新的改革よりも秩序・安定・既存体制の維持を優先する傾向が強かった。政界では元老や軍部と結びつき保守的な立場を取ることが多く、左派的な改革志向は乏しいと評価される。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 138,
+      "cached_input_tokens": 0,
+      "output_tokens": 944,
+      "reasoning_tokens": 768,
+      "total_tokens": 1082
+    },
+    "elapsed_seconds": 16.173,
+    "response_id": "resp_0cca5eea5af7a4fd00699346f1ef3c8192ba53b8a71afed342",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Evaluating historical figure**\n\nThe user wants me to evaluate Yamamoto Gonbee on a left-right political axis from 0 to 100, needing a brief justification and a score. While this is about a political figure, I think it's acceptable to provide factual info as long as it doesn't come off as persuasive. Yamamoto Gonbee, born in 1852, was an admiral and served as Prime Minister of Japan during specific periods. He was in office from 1913-1914. I’ll need to provide my final score!"
+  },
+  {
+    "no": 9,
+    "score": 95,
+    "raw_response": "寺内正毅は軍人出身で韓国統治（朝鮮総督）や内閣総理大臣として治安維持・中央集権的統治、帝国主義的植民政策を重視した保守的・権威主義的な政治家です。政党政治や社会改革よりも秩序・伝統と軍の影響力を優先し、既存体制の維持・強化に傾いていました。改革志向の左派とは対極にある人物と評価できます。\n\nスコア: 95",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 632,
+      "reasoning_tokens": 448,
+      "total_tokens": 768
+    },
+    "elapsed_seconds": 7.571,
+    "response_id": "resp_002506874fdd1a4100699346f1831c81958dd89683664592fc",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 10,
+    "score": 70,
+    "raw_response": "原敬は「平民宰相」として政党内閣の定着を進め、行政の近代化や党派政治の強化といった変化志向の側面を持ちます。一方で施策は財政・秩序重視で大商業勢力や官僚との協調を重んじ、普通選挙の早期実現には消極的で労働運動などに対して抑制的でした。総じて漸進的・現状維持志向の保守的な実務家であり、左派的な急進改革よりも伝統・秩序重視の色が強いと評価できます。\nスコア: 70",
+    "usage": {
+      "input_tokens": 134,
+      "cached_input_tokens": 0,
+      "output_tokens": 792,
+      "reasoning_tokens": 576,
+      "total_tokens": 926
+    },
+    "elapsed_seconds": 9.419,
+    "response_id": "resp_07577926817f84ab00699346f1b1c08196955fc5fdcbe38321",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 11,
+    "score": 30,
+    "raw_response": "高橋是清は、金本位制離脱や為替切下げ、公共事業や財政出動による景気刺激など積極的な財政・金融政策を行い、社会的救済や経済改革を重視した点で「改革志向」の色が強いです。一方で官僚的で現体制の中での実務家でもあり保守的側面もあるが、軍部の拡張に反対して暗殺された経緯などからみても、総じて右派よりは左派寄りの政策姿勢と評価できます。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 961,
+      "reasoning_tokens": 768,
+      "total_tokens": 1097
+    },
+    "elapsed_seconds": 10.853,
+    "response_id": "resp_09295d266822a2cc00699346f1829c819591d8baf0be3924f8",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 12,
+    "score": 80,
+    "raw_response": "加藤友三郎は海軍出身の長期官僚・軍人で、政党中心の革新的改革よりも軍備・秩序や官僚制・天皇制の維持を重視した政治家でした。首相在任中は政党勢力と折衷しつつも安定・実務を優先し、大きな社会改革や急進的な変革を志向した記録は乏しいため、伝統・秩序寄りの評価が妥当です（ワシントン海軍軍縮条約下での妥協的対応はあったが、基本的に現状維持志向）。  \n\nスコア: 80",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 772,
+      "reasoning_tokens": 576,
+      "total_tokens": 909
+    },
+    "elapsed_seconds": 10.865,
+    "response_id": "resp_074e52e7e246596100699346f1b538819eb76fe707f572d475",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 13,
+    "score": 90,
+    "raw_response": "清浦奎吾は生涯を官僚・司法官・貴族院系の実務家として過ごし、1924年の首相就任時も政党排除の「貴族院内閣」を率いて党政治や急進的な改革に抵抗した。伝統的権威・秩序維持を重視する保守的立場であり、左派的な改革志向は乏しいため、右派寄りと評価できます。\n\nスコア: 90",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 688,
+      "reasoning_tokens": 512,
+      "total_tokens": 825
+    },
+    "elapsed_seconds": 7.86,
+    "response_id": "resp_001486d9990e5b0700699346f1b15c81a09596b0e5cab459e7",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 14,
+    "score": 35,
+    "raw_response": "加藤高明は立憲政友会系の政党政治を重視し、1924–26年の内閣で普通選挙法（1925年）を成立させるなど議会制・民主主義を拡大する改革志向を示した。一方で同年に治安維持法も成立させて共産主義・過激派に対する弾圧を進めるなど、秩序維持や国家安全を重視する側面もある。外交では軍縮・国際協調を志向し、軍部抑制や民政重視の姿勢が強かったため、総合的には中道寄りのリベラル（左寄り）に位置づけられる。\n\nスコア: 35",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 877,
+      "reasoning_tokens": 640,
+      "total_tokens": 1013
+    },
+    "elapsed_seconds": 9.519,
+    "response_id": "resp_06b55e0d640ebf2900699346f17a1881909c8b26694538af44",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 15,
+    "score": 70,
+    "raw_response": "若槻礼次郎は財政畑の官僚出身で、政党内閣を重んじる立憲主義者かつ財政節約や現状維持を好む実務派でした。軍部の暴走には抵抗した面もあるものの、社会的急進改革や労働左派的政策を志向した人物ではなく、伝統的秩序・安定を優先する傾向が強いと評価できます。したがってこの軸では中道右派〜右寄りと判断します。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 138,
+      "cached_input_tokens": 0,
+      "output_tokens": 901,
+      "reasoning_tokens": 704,
+      "total_tokens": 1039
+    },
+    "elapsed_seconds": 11.577,
+    "response_id": "resp_08ccf8e5fbc193bb00699346f1b5bc81a2b0db0ada8e1673ba",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Composing Japanese text concisely**\n\nI need to provide the score as an integer, like \"スコア: 70\". I also want to include a concise note that mentions \"左派寄りなら0点、右派寄りなら100点\". This line can help clarify the scoring system, but I realize my focus is on just outputting the score line itself. So, I'll make sure to keep it simple and straightforward!"
+  },
+  {
+    "no": 16,
+    "score": 85,
+    "raw_response": "田中義一は陸軍出身で内閣でも軍事・治安重視の姿勢を示し、共産主義・労働運動への弾圧や中国への強硬姿勢を取った点から、伝統・秩序・国家権威を重視する右派的傾向が強い人物です。日常政治でも現状維持と秩序回復を優先し、急進的な改革志向は薄かったため、右寄りと評価できます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 839,
+      "reasoning_tokens": 704,
+      "total_tokens": 975
+    },
+    "elapsed_seconds": 9.272,
+    "response_id": "resp_0e3b725d4cb50c7c00699346f1b16881a295e6ad8092a33483",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 17,
+    "score": 25,
+    "raw_response": "浜口雄幸は立憲民政党の指導者として政党内閣・議会政治の強化、国際協調（ロンドン海軍条約支持）や財政・行政の近代化を志向した「改革派」です。一方で、財政均衡・緊縮を重視する保守的経済姿勢も取り、小規模ながら秩序維持的な政策も実施しました。総じて軍国主義・伝統主義的な右派とは一線を画し、民主主義・国際主義・行政改革を重視したため、左派寄りと評価できます。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 752,
+      "reasoning_tokens": 576,
+      "total_tokens": 888
+    },
+    "elapsed_seconds": 8.288,
+    "response_id": "resp_0ee450773c7b44b500699346f17b148193bc84fdc6d161afbb",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 18,
+    "score": 70,
+    "raw_response": "犬養毅は立憲政友会の保守的な党人で、経済的には親財閥・親企業の姿勢が強く、伝統的秩序や既存の利権を重視する面があった。一方で軍部の台頭に対しては議会内の政治的支配と内閣政治を守ろうとし、党派的な議会主導を擁護していたため、権威主義的な軍国主義とは距離を置いた。総じて「保守的な現状維持志向だが、議会制を守る中道右派」という評価が妥当です。  \nスコア: 70",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 930,
+      "reasoning_tokens": 704,
+      "total_tokens": 1065
+    },
+    "elapsed_seconds": 10.907,
+    "response_id": "resp_0e12ed22ed2f8e6c00699346f1e48481a3b7899135120149cd",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 19,
+    "score": 85,
+    "raw_response": "斎藤実は海軍大将出身で、朝鮮総督（文化統治期）や政党に依らない枢密・官僚中心の内閣を率いた人物です。秩序・統制、天皇制や帝国の維持を重視し、軍・官僚主導の統治を支持したため、改革的な左派とは対極に位置します（植民地支配の“穏健化”など一面はあっても本質は保守的な支配維持）。よって右派寄りと評価します。  \nスコア: 85",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 836,
+      "reasoning_tokens": 640,
+      "total_tokens": 972
+    },
+    "elapsed_seconds": 9.403,
+    "response_id": "resp_022c725350a822c600699346f1796481958328ae2192e0bfe9",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 20,
+    "score": 80,
+    "raw_response": "岡田啓介は海軍出身で、1934–36年の首相在任中に立憲体制と治安維持を重視した保守的な政治姿勢を取った人物です。軍部や皇室の権威を背景に秩序と現状の維持を優先し、過激な改革や社会的な大転換を志向した記録は乏しい一方で、若手軍人の暴走を抑えようとする穏健・抑制的な対応も見られます。総じて伝統・秩序を尊ぶ右派的立場が強いと評価できます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 732,
+      "reasoning_tokens": 512,
+      "total_tokens": 869
+    },
+    "elapsed_seconds": 8.403,
+    "response_id": "resp_0657b80796afc78b00699346f1addc81929bd9767a30d7344a",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 21,
+    "score": 85,
+    "raw_response": "広田弘毅は外務官僚出身の外交官で、総理（1936–37）として政党政治より官僚・帝国体制や秩序の維持を重視し、軍部との協調を通じて満州・中国に対する現状変更を容認・支持した点で保守的・国家主義的な立場が強い人物です。社会改革や平等志向の左派的政策を志向した記録は乏しく、伝統的な国家秩序と外交的強硬路線を優先したため、左派よりは明確に右寄りと評価できます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 1069,
+      "reasoning_tokens": 896,
+      "total_tokens": 1205
+    },
+    "elapsed_seconds": 11.11,
+    "response_id": "resp_094de763ce12ab5800699346f1e60081a2af7e249a504dcb65",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 22,
+    "score": 95,
+    "raw_response": "林銑十郎は陸軍将校出身で、軍部・皇道主義的な立場から政治に介入した保守的・権威主義的傾向が強い人物です。政党政治より軍と天皇制の秩序維持を重視し、治安・秩序と拡張主義的外交を支持、左派的な改革志向や社会主義的政策を排する立場でした。短期内閣ながらも軍の影響力強化・既存秩序の擁護という点で右寄りと評価できます。\n\nスコア: 95",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 535,
+      "reasoning_tokens": 320,
+      "total_tokens": 672
+    },
+    "elapsed_seconds": 7.366,
+    "response_id": "resp_0b6aadf71cd154d500699346f1ae848191911c74723e6823cb",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 23,
+    "score": 90,
+    "raw_response": "近衛文麿は華族出身で政党政治や自由主義より天皇制中心の秩序・統制を重視し、軍部や右翼と妥協して「国体」強化と統制経済・一党化（大政翼賛会的方向）を進めた人物です。外向的には帝国主義的膨張に同調し、国内では既存の秩序・権威を守る立場であったため、右派的傾向が強いと評価できます。\n\nスコア: 90",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 655,
+      "reasoning_tokens": 512,
+      "total_tokens": 792
+    },
+    "elapsed_seconds": 8.601,
+    "response_id": "resp_00912022a11924dd00699346f1e2588190b5e41c208cab7ec6",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 24,
+    "score": 95,
+    "raw_response": "平沼騏一郎は国家主義・権威主義を標榜し、政党政治や自由主義を強く否定して「国体」擁護を掲げた保守的・軍事寄りの政治家でした。国粋主義団体（国本社など）と結びつき、軍部や官僚主導の統制的な政治を支持し、戦前日本の秩序・伝統重視の立場を明確にしていたため、左派的改革志向とは対極にあります。\n\nスコア: 95",
+    "usage": {
+      "input_tokens": 139,
+      "cached_input_tokens": 0,
+      "output_tokens": 711,
+      "reasoning_tokens": 512,
+      "total_tokens": 850
+    },
+    "elapsed_seconds": 8.872,
+    "response_id": "resp_06c4faf784e7dfc900699346f1e8fc819588da4695b4b4d556",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Analyzing mapping choices**\n\nI'm noticing that the mapping seems a bit unconventional: using 0 for left and 100 for right. So if Hiranuma is on the right side, it would make sense to assign a score close to 100. I think saying \"スコア: 95\" will be fitting since it’s concise. I’ll ensure my reasoning is clear while keeping it brief. Let’s move forward with this approach!"
+  },
+  {
+    "no": 25,
+    "score": 90,
+    "raw_response": "阿部信行は陸軍軍人・華族出身で、1939–40年の首相在任時は軍部や天皇制を基盤とする国家体制を重視し、治安・秩序と既存の権威を守る姿勢が強かった。大規模な社会改革や左派的な平等志向とは距離があり、軍・保守系の立場を取ることが多かったため、右寄りと評価できます。\n\nスコア: 90",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 651,
+      "reasoning_tokens": 512,
+      "total_tokens": 787
+    },
+    "elapsed_seconds": 7.875,
+    "response_id": "resp_0bfcc3f9ee3240fd00699346f1ea0081938c4610437be31501",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 26,
+    "score": 70,
+    "raw_response": "米内光政は海軍出身の軍人・政治家で、伝統的な軍・官僚制や天皇制の枠組みを重視する保守的な立場でした。一方で、過激な軍部主導の拡張主義や無分別な戦争志向には慎重で、外交的・現状修正的な解決を好む pragmatist（現実主義者）でもありました。総じて「秩序・伝統を重んじつつも、極右的な急進路線には反対する中道右派」と評価できます。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 678,
+      "reasoning_tokens": 512,
+      "total_tokens": 814
+    },
+    "elapsed_seconds": 7.834,
+    "response_id": "resp_0860cba04f9e24e100699346f1a55c8195915a17d0c01c8b96",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 27,
+    "score": 95,
+    "raw_response": "東條英機は軍人・軍部出身の指導者で、天皇制・国家主義・秩序重視の権威主義を掲げ、言論弾圧や政治統制、戦時動員を推進した。社会や政治の「改革」というより、軍的統制と伝統的な国家秩序維持を優先し、自由主義や左派的な変革を抑圧した点で典型的な右派的指向が強い人物です。経済的な国家介入はあったにせよ、理念的には保守・権威主義寄りと評価できます。\n\nスコア: 95",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 586,
+      "reasoning_tokens": 384,
+      "total_tokens": 722
+    },
+    "elapsed_seconds": 7.107,
+    "response_id": "resp_06dfed18687be25300699346f1e6f081a2acacaa44a8c74514",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 28,
+    "score": 92,
+    "raw_response": "小磯国昭は陸軍士官出身で、統治者・官僚として戦時体制の維持と帝国の秩序を重視した立場でした。東条内閣の後を継ぎ拡張主義や軍中央の方針を大きく転換する改革志向は乏しく、朝鮮総督など植民地統治も担った経歴からも保守的・権威主義的傾向が強いと評価できます。民主化・社会改革より現状維持・統制を優先したため、右派寄りの指導性が顕著です。\n\nスコア: 92",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 616,
+      "reasoning_tokens": 448,
+      "total_tokens": 753
+    },
+    "elapsed_seconds": 7.169,
+    "response_id": "resp_0989dc83a7441d7a00699346f1a8ac8197bd0a195cc8b9a4ad",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 29,
+    "score": 85,
+    "raw_response": "鈴木貫太郎は海軍出身の「元老」的保守政治家で、軍と天皇制を重んじ、秩序と継続性を優先する姿勢が強かった。終戦直前〜直後の首相として現状の混乱を収拾し天皇・体制を維持することを重視し、大胆な社会改革や左派的な理念を掲げた人物ではない。実務的・現状維持的な保守色が強いため、右派寄りの評価となる。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 139,
+      "cached_input_tokens": 0,
+      "output_tokens": 734,
+      "reasoning_tokens": 576,
+      "total_tokens": 873
+    },
+    "elapsed_seconds": 9.502,
+    "response_id": "resp_09702a2e01473ac000699346f1a8fc81949d0e4f9f5daeaaea",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 30,
+    "score": 90,
+    "raw_response": "東久邇宮稔彦王は皇族で陸軍大将としての経歴があり、終戦直後に天皇・軍部の秩序を維持するための短期的な中枢役を担った保守的・秩序重視の人物です。革新的な社会改革や民主化を主導したわけではなく、伝統的な権威と安定の維持を優先した点から右派寄りと評価できます。\n\nスコア: 90",
+    "usage": {
+      "input_tokens": 141,
+      "cached_input_tokens": 0,
+      "output_tokens": 628,
+      "reasoning_tokens": 448,
+      "total_tokens": 769
+    },
+    "elapsed_seconds": 8.416,
+    "response_id": "resp_0c7ead8583d20ad000699346f1e2308197ba8e21d880c3ac30",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 31,
+    "score": 25,
+    "raw_response": "幣原喜重郎は外務官僚出身の国際主義者で、対外協調・平和主義を重視し、軍国主義や拡張主義に反対して民間主導の外交・政治を志向しました（いわゆる「幣原外交」）。戦後の短い内閣でも非軍事化・民主化路線を支持した点は改革的・リベラルな性格が強い一方で、急進的な社会主義的改革を目指したわけではなく、秩序や漸進的変化を重視する穏健さも持っていました。総じて左派寄りの穏健なリベラルと評価できます。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 138,
+      "cached_input_tokens": 0,
+      "output_tokens": 712,
+      "reasoning_tokens": 512,
+      "total_tokens": 850
+    },
+    "elapsed_seconds": 8.287,
+    "response_id": "resp_038292be01c724ea00699346f1e3348197aea09e64695aeb6e",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 32,
+    "score": 85,
+    "raw_response": "吉田茂は戦後日本の早期復興と米英中心の同盟関係を重視し、市場経済と既存の官僚・政商勢力との協調で秩序と安定を優先した保守的・現状志向の政治家です。占領下の大規模な改革（農地改革など）は実施されましたが、多くは占領政策の下で受け入れたものであり、吉田自身は急進的な社会変革よりも経済復興と国益の確保、伝統的な制度の維持を重視しました。実利主義・親米・保守的経済政策から見て右派寄りです。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 792,
+      "reasoning_tokens": 576,
+      "total_tokens": 928
+    },
+    "elapsed_seconds": 8.948,
+    "response_id": "resp_05dd83e8908479b300699346f1b32481919719db256f2edf84",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 33,
+    "score": 10,
+    "raw_response": "片山哲は戦後日本で日本社会党を代表して首相となった社会民主主義者で、労働者保護・社会保障の拡充や民主的改革を志向した点で明確に左派寄りです。急進的な共産主義ではなく穏健な社会改革路線の実行を志向したため「穏健な左派」と評価されます。歴史的役割と政策志向を勘案して、左寄り度は強いと判断します。\n\nスコア: 10",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 765,
+      "reasoning_tokens": 576,
+      "total_tokens": 900
+    },
+    "elapsed_seconds": 11.369,
+    "response_id": "resp_01ed1d869500f75600699346f1e4b88197845d5849a66c6bf2",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 34,
+    "score": 35,
+    "raw_response": "芦田均は戦後の民主主義回復・社会福祉整備や労働の権利保障を重視し、戦前の軍国主義や権威主義に批判的だった改革志向の政治家です。一方で社会主義的な急進改革には距離を取り、市場経済や日米関係の維持など穏健な自由主義を志向したため、全体としては中道左派の立ち位置と評価できます。\n\nスコア: 35",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 741,
+      "reasoning_tokens": 576,
+      "total_tokens": 877
+    },
+    "elapsed_seconds": 8.751,
+    "response_id": "resp_094da1fe847e3e7800699346f1b8808191834cd47922686934",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 35,
+    "score": 80,
+    "raw_response": "鳩山一郎は戦後保守政党（自由党）を率いた保守系政治家で、反共・親企業、天皇制・秩序の重視、憲法改正を志向するなど伝統・安定を優先する姿勢が強い。一方で戦後の体制内での政治的和解や政党再編に関与する面はあり、極端な改革志向というよりは保守的な現状修正・正常化志向が中心でした。総合すると右派寄りの位置づけです。  \nスコア: 80",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 920,
+      "reasoning_tokens": 768,
+      "total_tokens": 1057
+    },
+    "elapsed_seconds": 10.045,
+    "response_id": "resp_02aa017f8d016d6e00699346f1ebc881a0b7b7256b8d636f5d",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 36,
+    "score": 30,
+    "raw_response": "石橋湛山は官僚・既得権や派閥主導の政治を批判し、行政簡素化・財政節約・地方分権など「既存体制の改革」を志向した点で改革派に当たります。戦前の軍国主義への反省から民主主義・平和主義を重視し、保守的な現状擁護よりも制度改善を優先したため、この「左↔右（改革↔現状維持）」軸では左寄りと評価できます。ただし経済的には小さな政府志向で穏健な保守性もあり、極端な急進改革派ではありません。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 961,
+      "reasoning_tokens": 768,
+      "total_tokens": 1098
+    },
+    "elapsed_seconds": 10.916,
+    "response_id": "resp_055b466a8ac86a5100699346f1f42881968f2bf543fcfeb7ae",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 37,
+    "score": 90,
+    "raw_response": "岸信介は戦前・戦中の官僚出身で、戦後は保守的な経済・安全保障路線を推進した政治家です。反共・親米・再軍備志向で憲法改正や安保改定を積極的に進め、経済的には財界寄りの成長志向。1960年の安保改定をめぐる大規模な反対運動に対して強硬な対応をとるなど、秩序維持・伝統的な国家観を重視する右派的性格が強く表れています。改革面での「変化追求」はあっても、それは保守的な国家強化・反左派のための変化であり、全体として右寄りです。\n\nスコア: 90",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 737,
+      "reasoning_tokens": 512,
+      "total_tokens": 872
+    },
+    "elapsed_seconds": 8.378,
+    "response_id": "resp_01b8a502340d6cf400699346f1ec788192b0a54ca58341779d",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 38,
+    "score": 75,
+    "raw_response": "池田勇人は自民党保守系の首相（在任1960–64）で、対米協調や既存の政治・経済秩序の維持を重視しつつ、所得倍増計画などの積極的な経済成長政策で社会の安定化と中間層拡大を図った。政策は市場志向・親企業的で体制内の改革にとどまり、急進的な左派的変革志向は弱い。従って右寄りと評価します。\n\nスコア: 75",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 821,
+      "reasoning_tokens": 640,
+      "total_tokens": 957
+    },
+    "elapsed_seconds": 8.952,
+    "response_id": "resp_01217ce451e83c0700699346f1b4e4819188fc1cc02311f394",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 39,
+    "score": 85,
+    "raw_response": "佐藤栄作は自由民主党の保守系政治家で、長期政権を通じて政権安定・経済成長・日米同盟の維持を重視した伝統的・現状維持的な政治姿勢が特徴です。沖縄返還や「非核三原則」などの外交的成果で独自性を見せた面はあるものの、国内政治では大きな改革志向よりも既存の政治・行政・財界との協調と秩序維持を優先しました。総じて右派寄りと評価されます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 570,
+      "reasoning_tokens": 384,
+      "total_tokens": 707
+    },
+    "elapsed_seconds": 7.356,
+    "response_id": "resp_0671a098d479f50500699346f1ed7881a08ec73b282dec43b3",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 40,
+    "score": 30,
+    "raw_response": "田中角栄は「日本列島改造論」に代表される大規模な公共事業と地域振興で既存の経済・社会構造を積極的に変えようとした実務的な改革志向が強く、外交でも日中国交正常化などの大胆な転換を行った。一方で、派閥政治や地盤に根ざした保守的な利権・秩序維持の側面も強く、イデオロギー的には左翼ではなく実利主義の保守ポピュリズムに位置づけられるため、改革寄りだが極端な左寄りではない評価となる。  \nスコア: 30",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 908,
+      "reasoning_tokens": 704,
+      "total_tokens": 1045
+    },
+    "elapsed_seconds": 10.318,
+    "response_id": "resp_0efd71698816ea5700699346f1b2f8819c86c99ba1a272eaf5",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 41,
+    "score": 35,
+    "raw_response": "三木武夫は自由民主党に所属した保守系政治家だが、派閥主義や汚職に対する批判的姿勢、行政改革・透明性の重視といった「既存の政治慣行を変えようとする」姿勢が際立った。経済・安全保障では伝統的保守色も残すため急進的な左派ではなく、むしろ保守内の改革派・中道寄りと評価できる。\n\nスコア: 35",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 659,
+      "reasoning_tokens": 512,
+      "total_tokens": 795
+    },
+    "elapsed_seconds": 9.985,
+    "response_id": "resp_0b8fb191fafa182b00699346f1eaac8197a4096f8363006cee",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 42,
+    "score": 80,
+    "raw_response": "福田赳夫は自由民主党の保守的な党内実力者で、安定・秩序や日米安保の維持、企業・財界寄りの経済政策を重視した。国内での大規模な制度変革や左派的な再分配志向は弱く、穏健な保守派として現状維持志向が強かった点を踏まえると右寄りの評価が妥当です。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 701,
+      "reasoning_tokens": 576,
+      "total_tokens": 838
+    },
+    "elapsed_seconds": 8.282,
+    "response_id": "resp_04baa7f6f22d4bb800699346f1b37c81a19cddb4a8ad42bcb3",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 43,
+    "score": 70,
+    "raw_response": "大平正芳は自民党の主流派に属する実務型の政治家で、妥協と合意形成を重視し現状維持や秩序を尊重する保守的な姿勢が強かった。社会政策で一定の配慮を示す場面はあったものの、根本的な構造改革や左派的再分配志向ではなく、日米関係や経済の安定を優先したため、中道右派〜穏健保守に位置づけられる。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 816,
+      "reasoning_tokens": 640,
+      "total_tokens": 952
+    },
+    "elapsed_seconds": 9.624,
+    "response_id": "resp_004df13a3b1e264200699346f1bb3881a1a48c6c5c939ddb75",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 44,
+    "score": 80,
+    "raw_response": "鈴木善幸は自民党の中道保守系として、財政・行政の安定維持や官僚主導の調整を重視し、大胆な改革よりも現状維持と秩序の確保を志向した首相でした。穏健で妥協的な政治手法はあるものの、経済・安全保障では保守的立場を堅持しており、左派的な改革志向とは距離があります。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 481,
+      "reasoning_tokens": 320,
+      "total_tokens": 618
+    },
+    "elapsed_seconds": 7.7,
+    "response_id": "resp_0db37c470d0e1c6d00699346f1b67881a0a3d165d261a46520",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "I need to write a brief description about a member of the LDP who served from 1980 to 1982. This person emphasized fiscal restraint, bureaucratic cooperation, and stability, while resisting major reforms and maintaining the status quo. Their economic and security policies were conservative, but they were moderate in their social and political approach, focusing on consensus-building. Hence, I’d give them a score of around 80. \n\nスコア: 80"
+  },
+  {
+    "no": 45,
+    "score": 80,
+    "raw_response": "中曽根康弘は、歴代自民党総理の中でも「戦後保守の強化」と「行政・経済の構造改革」を同時に進めた人物です。郵政・電電・国鉄などの公共部門の効率化・民営化や官僚改革などでは明確に変革志向を示した一方で、国防の強化や天皇制・国家観の尊重、歴史認識における保守的・国家主義的立場など伝統・秩序の重視も強く、全体としては保守右派に位置づけられます。改革的側面はあったものの、それらは市場原理と国家基盤の強化を目的とした「改良的保守」の範疇に収まるため、右寄りと評価します。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 138,
+      "cached_input_tokens": 0,
+      "output_tokens": 1151,
+      "reasoning_tokens": 896,
+      "total_tokens": 1289
+    },
+    "elapsed_seconds": 13.843,
+    "response_id": "resp_0fc08d30ed6fafcc00699346f1b654819ca25c024f7b767855",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 46,
+    "score": 85,
+    "raw_response": "竹下登は自民党の中堅保守派で、派閥政治・利権調整による現状維持志向が強く、官僚・財界との協調による経済政策や日米同盟重視など伝統的・安定志向が目立ちます。消費税導入のような財政規律志向の政策は見られるものの、理念的な左派的改革志向は薄く、改革よりも既存秩序の管理・維持を優先した政治家でした。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 546,
+      "reasoning_tokens": 384,
+      "total_tokens": 681
+    },
+    "elapsed_seconds": 7.11,
+    "response_id": "resp_0303701954174d4f00699346f1b2fc8196adcfda3d8648c193",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 47,
+    "score": 80,
+    "raw_response": "宇野宗佑は自民党の保守的主流派出身で、外務官僚的な経験と企業・既存秩序との結びつきが強く、在任も短期間で大規模な改革志向を示した形跡は乏しい。安定・現状維持や対米協調、経済界との関係を重視する伝統的な保守姿勢が目立つため、左派的改革より右派的な政治姿勢に近い評価となる。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 468,
+      "reasoning_tokens": 320,
+      "total_tokens": 605
+    },
+    "elapsed_seconds": 7.107,
+    "response_id": "resp_0197194944011cf000699346f1eb2481939e07508d09e060a6",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 48,
+    "score": 70,
+    "raw_response": "海部俊樹は自民党の中の穏健保守で、リクルート事件後のクリーンなイメージで政治改革や行政改革を掲げた一方、市場経済・安全保障・現行の政治秩序を重視する伝統的な保守姿勢も強かった。改革志向はあるが急進的な左派ではなく、安定・現状維持を重視する中道右派寄りの政治家と評価できます。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 721,
+      "reasoning_tokens": 576,
+      "total_tokens": 858
+    },
+    "elapsed_seconds": 8.291,
+    "response_id": "resp_058c24e56ed18a7300699346f182f48193a045d33516837646",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 49,
+    "score": 80,
+    "raw_response": "宮澤喜一は自民党のベテラン政治家・官僚系寄りの実務主義者で、秩序・安定や財政・市場の安定を重視し、抜本的な急進改革よりも漸進的・管理的な対応を好んだ点から、右派寄りと評価できます。国際協調や市場開放には前向きだったものの、政治的には既存の制度や官僚機構との協調を重視する姿勢が目立ちます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 842,
+      "reasoning_tokens": 704,
+      "total_tokens": 979
+    },
+    "elapsed_seconds": 9.304,
+    "response_id": "resp_0f93235980508d1e00699346f1b0e881938706edd85adbffaa",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 50,
+    "score": 15,
+    "raw_response": "細川護熙は1993年に日本新党を率いて自民党支配に挑み、汚職追放・行政改革・分権・政治制度改革を掲げた「改革志向」の首相でした。保守的な家系出身で穏健な保守色もありますが、在任中の立場や政策志向は既存体制の刷新を目指すものが中心で、伝統的・秩序重視の右派よりは改革寄りと評価できます。よって「左派（改革）↔右派（保守）」の軸ではかなり左寄りです。\n\nスコア: 15",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 636,
+      "reasoning_tokens": 448,
+      "total_tokens": 773
+    },
+    "elapsed_seconds": 10.568,
+    "response_id": "resp_0cceb0e684964e1f00699346f1ef1c8195aeee1edca3e4b06f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259633.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Rating PM Hosokawa's Position**\n\nThe user is asking to rate Hosokawa Morihiro on a left-right political axis from 0 to 100. He served as Prime Minister from 1993 to 1994 and was a leader of an anti-LDP coalition focused on reformist policies. He pushed for decentralization and neoliberal economic reforms while being socially liberal. They frame the left as reformist and the right as traditional, indicating that Hosokawa should lean towards the left. I'm thinking a score around 15 or 20 might fit, reflecting his pro-market reforms. \"スコア: 20\"."
+  },
+  {
+    "no": 51,
+    "score": 30,
+    "raw_response": "羽田孜は旧来の自民党出身ながら1993年の政治改革期に離党・新党結成に関わり、短期ながら非自民連立の首相となって政治・行政改革や透明性向上を掲げた点で「改革志向」が強い人物です。一方で政治家としては保守的な背景や現実的な政策運営も持ち合わせ、極端な左派革新というよりは中道寄りの改革派と評価できます。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 893,
+      "reasoning_tokens": 704,
+      "total_tokens": 1029
+    },
+    "elapsed_seconds": 16.099,
+    "response_id": "resp_0ef76b093385af5e00699346f82cd4819cb8748f84cc6e6222",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259640.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 52,
+    "score": 25,
+    "raw_response": "村山富市は元社会党党首で労働運動出身、平和主義や被害者への謝罪（いわゆる「村山談話」）などの点で左派的志向が強い人物です。一方で、1994年の自社さ連立政権では自民党との大連立を組み、現実的な妥協や安定志向を示したため、極端な革新路線というよりは穏健な社会民主的・実務派に近い立場でした。総じて左寄りだが、政権運営では保守勢力と折り合いをつけた中道寄りの側面も持ちます。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 578,
+      "reasoning_tokens": 384,
+      "total_tokens": 714
+    },
+    "elapsed_seconds": 5.882,
+    "response_id": "resp_03ef89260b596c5800699346f82c0c8191bbb7bb2bab97f736",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259640.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 53,
+    "score": 30,
+    "raw_response": "橋本龍太郎は自民党内の「改革派」として財政再建、行政改革や規制緩和、地方分権といった構造改革を強く推進した首相です。一方で自衛隊や保守的な国柄への姿勢など社会・安全保障面では比較的保守的で、あくまで保守政党内での「改革」を志向した人物です。したがって「改革志向＝左、伝統・現状維持＝右」という軸では左寄りではあるが極端ではない評価が妥当です。\n\nスコア: 30",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 864,
+      "reasoning_tokens": 704,
+      "total_tokens": 1001
+    },
+    "elapsed_seconds": 15.89,
+    "response_id": "resp_0d77dfe5acef402400699346f82f7c819d87a2fe3b9e91be6f",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259640.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 54,
+    "score": 80,
+    "raw_response": "小渕恵三は自民党出身の中道保守的指導者で、在任中は景気対策として公共事業中心の経済運営や既存制度の安定維持を優先し、伝統的な政権基盤や官僚機構との協調を重視しました。限定的な行政・規制改革に取り組んだ面はあるものの、基本的には現状維持と秩序重視の姿勢が強く、右派的と評価できます。\n\nスコア: 80",
+    "usage": {
+      "input_tokens": 138,
+      "cached_input_tokens": 0,
+      "output_tokens": 646,
+      "reasoning_tokens": 448,
+      "total_tokens": 784
+    },
+    "elapsed_seconds": 12.297,
+    "response_id": "resp_0a47b094a51d7c8300699346f8299881949a0632e72f97e767",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259640.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 55,
+    "score": 85,
+    "raw_response": "私見ですが、森喜朗は自由民主党の長年の中堅〜中枢議員であり、伝統・既得権益・官僚主導の枠組みを重視する典型的な保守派です。経済・産業界寄りで現状維持や安定を優先し、急進的な改革志向は弱く、社会的にも伝統的価値観を支持する発言が多かったため、左派より明確に右寄りと評価できます。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 135,
+      "cached_input_tokens": 0,
+      "output_tokens": 707,
+      "reasoning_tokens": 512,
+      "total_tokens": 842
+    },
+    "elapsed_seconds": 6.978,
+    "response_id": "resp_0d3685fd4e4df6a400699346f85b008190ada65bce6777291d",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259640.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 56,
+    "score": 25,
+    "raw_response": "小泉純一郎は既存の自民党の派閥や利権構造に挑み、郵政民営化など市場化・規制緩和を強力に推進したため「改革志向」の色が強い。一方で、安全保障や国家観では保守的で、政治スタイルはポピュリズム的に保守基盤を動員する面もある。総じて「現状維持より改革」を志向した首相と評価できる。\n\nスコア: 25",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 553,
+      "reasoning_tokens": 384,
+      "total_tokens": 690
+    },
+    "elapsed_seconds": 5.846,
+    "response_id": "resp_0c0c56de1d99ded200699346f85f6081a1afeabc34bc8d1788",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259640.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 57,
+    "score": 85,
+    "raw_response": "安倍晋三は保守・ナショナリズムを基調とし、伝統や国家秩序の強化（憲法改正・安全保障法制の推進、保守的な歴史観・教育観の支持）を重視した政治家です。経済では「アベノミクス」による積極的な市場・金融政策など改革色も見られましたが、社会・外交・安全保障の基本姿勢は右寄りで、現状の秩序や伝統を回復・維持することを主眼に置いていました。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 813,
+      "reasoning_tokens": 640,
+      "total_tokens": 949
+    },
+    "elapsed_seconds": 9.784,
+    "response_id": "resp_0b6fccea4315086900699346f886d88191a6490b548979235c",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259640.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Crafting political summary in Japanese**\n\nI need to provide a brief explanation in Japanese, highlighting Abenomics as a pragmatic reform within a conservative framework. I’ll mention key points like constitutional revision and security legislation, along with supporting traditional institutions. It makes sense to assign a score, perhaps 85, which reflects a right-leaning stance. My response will include examples of conservative revisionism and conclude with \"スコア: 85\". I’ll keep it concise and neutral. Let’s put this together!"
+  },
+  {
+    "no": 58,
+    "score": 70,
+    "raw_response": "福田康夫は自民党の中でも穏健な保守派で、世襲政治家として伝統や安定を重視する姿勢を示しつつ、過激な改憲や強硬な安全保障路線には距離を置いた穏当・合意形成型の政治家でした。大きな制度的改革を積極的に推進したタイプではなく、外交では対話重視・抑制的な安全保障観を採り、現状維持・安定志向の色合いが強いと評価できます。そのため、右寄りの中道保守と位置づけるのが妥当です。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 828,
+      "reasoning_tokens": 640,
+      "total_tokens": 964
+    },
+    "elapsed_seconds": 8.605,
+    "response_id": "resp_0a82409d797b7c0900699346f890988194a7570d75f3aeefff",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259640.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 59,
+    "score": 85,
+    "raw_response": "麻生太郎は自民党の長年の重鎮で、伝統的な価値観・国家観や保守的な外交・安全保障観を重視し、社会政策でも保守寄りの立場を取ることが多い人物です。経済面では市場・企業重視や財政健全化志向を持ちつつ、政治的には現状維持や秩序の維持を優先する傾向が強く、革新的な左派改革とは対極に位置します。実務上の現実主義や時折の政策調整はあるものの、総じて右派的です。\n\nスコア: 85",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 543,
+      "reasoning_tokens": 320,
+      "total_tokens": 679
+    },
+    "elapsed_seconds": 5.336,
+    "response_id": "resp_009fb629b1a7967100699346f8b46c8191a214cb4aafd93a22",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259640.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 60,
+    "score": 20,
+    "raw_response": "鳩山由紀夫は自民党系の家系出身ながら民主党で台頭し、「政治を変える」ことを掲げ社会保障拡充や子ども手当導入、行政・既得権の解体を志向した点で改革的・左派的色彩が強い。外交では日米関係の再調整やアジア重視を唱え、米軍基地問題で沖縄の負担軽減を訴えたことも右寄りでない姿勢を示す。一方で現実的な妥協や政策の曖昧さも見られ、極端な左派というより中道左派寄りと評価できる。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 138,
+      "cached_input_tokens": 0,
+      "output_tokens": 642,
+      "reasoning_tokens": 448,
+      "total_tokens": 780
+    },
+    "elapsed_seconds": 6.685,
+    "response_id": "resp_04621877f8714d1a00699346f8d96081a1b4314d69676f3904",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259640.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "**Formatting score output**\n\nI need to ensure that the last line of my output is in a specific format: \"スコア: X\". The number should be set to 20, so I’ll use \"スコア: 20\". I want to make absolutely sure that it’s presented correctly. It’s crucial to follow this instruction precisely. I think I’ve got it, and this should wrap up my task nicely! Now I’m ready to present that final score line."
+  },
+  {
+    "no": 61,
+    "score": 20,
+    "raw_response": "菅直人は民主党（中道左派）出身で、社会保障や消費者保護、反原発志向など公共性・改革志向を重視してきた政治家です。官僚支配や既得権への批判、脱原発や行政改革への姿勢から左寄りの改革派と評価できますが、実務的・妥協的な面もあり極端な左翼ではありません。\n\nスコア: 20",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 733,
+      "reasoning_tokens": 576,
+      "total_tokens": 869
+    },
+    "elapsed_seconds": 7.49,
+    "response_id": "resp_05eb20b8a928244700699346f8e2a08192ac903b72c63aa864",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259640.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 62,
+    "score": 60,
+    "raw_response": "野田佳彦（民主党、2011–2012内閣）\n簡潔な考察:\n- 経済・財政面では財政再建志向が強く、消費税率引き上げを主導したため、財政・経済政策は保守的・実務的な色合いが強い。\n- 社会政策や政党基盤は旧来の中道左派的要素（福祉重視など）を持つが、実務優先で大きな改革志向というより現実的対応が目立つ。\n- 外交・安全保障では日米同盟重視、尖閣国有化など主権主張を強める行動があり、保守寄りの側面もある。\n総合すると中道だが財政・安全保障で右寄りに傾くため、やや右寄りと評価します。\nスコア: 60",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 1030,
+      "reasoning_tokens": 768,
+      "total_tokens": 1166
+    },
+    "elapsed_seconds": 9.942,
+    "response_id": "resp_028263ebd1f9786d00699346f8e0808190a750ec86ae3860b1",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259640.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  },
+  {
+    "no": 63,
+    "score": 85,
+    "raw_response": "菅義偉は自民党の保守系政治家で、安倍政権の継承者として現状維持と安全保障・国家の秩序維持を重視してきました。経済では「アベノミクス」路線の継続や規制緩和を進めたものの、社会政策や移民政策では保守的で大きなリベラル改革は行わず、ナショナルな姿勢・官僚主導の行政改革志向が強い点から右派寄りと評価できます。一方、デジタル庁創設など行政効率化のための変革志向は見られるが、思想的には中道右派〜右派の範疇です。  \nスコア: 85",
+    "usage": {
+      "input_tokens": 137,
+      "cached_input_tokens": 0,
+      "output_tokens": 541,
+      "reasoning_tokens": 320,
+      "total_tokens": 678
+    },
+    "elapsed_seconds": 8.507,
+    "response_id": "resp_0cf32151c14408b100699346f8e0648194bbd13d34cefcae9e",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259640.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": "I’m aiming to craft around 3 to 5 sentences focusing on LDP membership. I want to emphasize continuity, administrative efficiency, and their conservative stance on social policy, security, and economics. While I’ll note some reformist measures that are administrative or political, they won't be left-leaning. It’s important to avoid any normative statements or defamation. Alright, I think an 85 score works. I’ll wrap it up with \"スコア: 85\". Let's get that done!"
+  },
+  {
+    "no": 64,
+    "score": 70,
+    "raw_response": "岸田文雄は自民党の中でも外交重視で穏健な派閥（宏池会）出身だが、党の保守的枠組みの中で行動しており、国防・憲法改正への慎重ながら前向きな姿勢や市場経済重視のスタンスが強い。一方で「新しい資本主義」など格差是正や賃上げを掲げる介入的・分配志向も示し、社会政策では中道寄りの要素を持つ。総じて穏健な保守（センター〜右寄り）の位置付け。\n\nスコア: 70",
+    "usage": {
+      "input_tokens": 136,
+      "cached_input_tokens": 0,
+      "output_tokens": 633,
+      "reasoning_tokens": 448,
+      "total_tokens": 769
+    },
+    "elapsed_seconds": 6.0,
+    "response_id": "resp_05ed15df0833d9a600699346f94a248195b57ca119fe3fdf89",
+    "model": "gpt-5-mini-2025-08-07",
+    "created_at": "1771259641.0",
+    "reasoning_effort": "medium",
+    "reasoning_summary": ""
+  }
+]
