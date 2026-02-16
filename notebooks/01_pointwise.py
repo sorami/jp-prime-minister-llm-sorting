@@ -50,13 +50,13 @@ def _(mo):
     return
 
 
-@app.cell
+@app.cell(hide_code=True)
 def _(load_prime_ministers):
     pms = load_prime_ministers()
     return (pms,)
 
 
-@app.cell
+@app.cell(hide_code=True)
 def _(mo):
     from pm_sort.core.criteria import CRITERIA
     from pm_sort.core.criteria import DEFAULT_CRITERION as _DEFAULT_CRITERION
@@ -70,7 +70,7 @@ def _(mo):
     return CRITERIA, criterion_selector
 
 
-@app.cell
+@app.cell(hide_code=True)
 def _(CRITERIA, criterion_selector):
     criterion = CRITERIA[criterion_selector.value]
     return (criterion,)
@@ -86,7 +86,7 @@ def _(criterion, mo):
     return
 
 
-@app.cell
+@app.cell(hide_code=True)
 def _(criterion, mo):
     pointwise_run_btn = mo.ui.run_button(
         label=f"ポイントワイズ法を実行（{criterion.label_ja}）"
@@ -95,7 +95,7 @@ def _(criterion, mo):
     return (pointwise_run_btn,)
 
 
-@app.cell
+@app.cell(hide_code=True)
 async def _(
     AsyncOpenAI,
     MAX_CONCURRENCY,
@@ -152,7 +152,7 @@ async def _(
     return (pointwise_results,)
 
 
-@app.cell
+@app.cell(hide_code=True)
 def _(format_usage_summary, mo, pl, pointwise_results):
     _n_total = len(pointwise_results)
     _df = pl.DataFrame(pointwise_results)
@@ -169,7 +169,7 @@ def _(format_usage_summary, mo, pl, pointwise_results):
     return
 
 
-@app.cell
+@app.cell(hide_code=True)
 def _(alt, criterion, mo, pl, pointwise_results):
     _df = pl.DataFrame(pointwise_results).filter(pl.col("score").is_between(0, 100))
 
@@ -242,7 +242,7 @@ def _(mo, pl, pms, pointwise_results):
     return
 
 
-@app.cell
+@app.cell(hide_code=True)
 def _(mo, pl, pms, pointwise_results):
     _df = pl.DataFrame(pointwise_results).filter(pl.col("score").is_between(0, 100))
     _score_counts = _df.group_by("score").len().sort("score")
