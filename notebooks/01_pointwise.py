@@ -179,7 +179,13 @@ def _(alt, criterion, mo, pl, pointwise_results):
         alt.Chart(_df)
         .mark_bar()
         .encode(
-            x=alt.X("score:Q", bin=alt.Bin(step=_step), title="スコア"),
+            x=alt.X(
+                "score:Q",
+                bin=alt.Bin(step=_step),
+                title="スコア",
+                scale=alt.Scale(domain=[0, 100]),
+                axis=alt.Axis(values=list(range(0, 101, _step))),
+            ),
             y=alt.Y("count():Q", title="人数"),
         )
         .properties(
