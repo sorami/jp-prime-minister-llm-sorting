@@ -336,20 +336,42 @@ def _(
         )
     )
 
-    # 勝利数ソート順位 vs 標準偏差（上位・下位は安定するか？）
-    _scatter_chart = (
-        alt.Chart(_stats)
-        .mark_circle(size=40)
+    # 勝利数ソート順位 vs KwikSort順位の分布（箱ひげ図）
+    # wc_rank を KwikSort と同じ方向（1=左派、64=右派）に変換
+    _df_with_wc = _df.join(
+        _stats.select("no", "wc_rank", "name"), on="no"
+    ).with_columns((65 - pl.col("wc_rank")).alias("wc_rank_lr"))
+    _boxplot = (
+        alt.Chart(_df_with_wc)
+        .mark_boxplot(size=8)
         .encode(
-            x=alt.X("wc_rank:Q", title="勝利数ソート順位"),
-            y=alt.Y("std_rank:Q", title="KwikSort順位の標準偏差"),
-            tooltip=["no", "name", "wc_rank", "mean_rank", "std_rank"],
+            x=alt.X(
+                "wc_rank_lr:O",
+                title="勝利数ソート順位（← 左派 ｜ 右派 →）",
+                axis=alt.Axis(values=list(range(0, 65, 5))),
+            ),
+            y=alt.Y(
+                "rank:Q",
+                title="KwikSort順位（← 左派 ｜ 右派 →）",
+            ),
+            tooltip=["wc_rank_lr:O", "name:N"],
         )
-        .properties(
-            title="勝利数ソート順位 vs KwikSort順位のブレ幅",
-            width=400,
-            height=300,
+    )
+    _diag_data = pl.DataFrame(
+        {"wc_rank_lr": list(range(1, 65)), "rank": list(range(1, 65))}
+    )
+    _diag_line = (
+        alt.Chart(_diag_data)
+        .mark_line(strokeDash=[4, 4], color="gray", opacity=0.5)
+        .encode(
+            x=alt.X("wc_rank_lr:O"),
+            y=alt.Y("rank:Q"),
         )
+    )
+    _boxplot_chart = (_diag_line + _boxplot).properties(
+        title="勝利数ソート順位 vs KwikSort順位のブレ幅（100回実行）",
+        width=800,
+        height=400,
     )
 
     # 各実行のコスト・比較回数・Kendall τ を計算
@@ -376,9 +398,8 @@ def _(
 
     mo.vstack(
         [
-            mo.hstack(
-                [mo.ui.altair_chart(_hist_chart), mo.ui.altair_chart(_scatter_chart)]
-            ),
+            mo.ui.altair_chart(_boxplot_chart),
+            mo.ui.altair_chart(_hist_chart),
             mo.md(
                 f"- 実行回数: **{_n_runs}回**\n"
                 f"- 平均比較参照回数: **{_avg_comparisons:.0f}回**"
